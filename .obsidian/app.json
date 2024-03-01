@@ -1,0 +1,11 @@
+{
+  "showIndentGuide": false,
+  "spellcheck": false,
+  "trashOption": "system",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "/attachments",
+  "showInlineTitle": false,
+  "autoConvertHtml": false
+}
