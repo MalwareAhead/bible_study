@@ -26,6 +26,7 @@
 ## Charakteristika der Irrlehre
 
 - asketisch: gehen schonungslos mit dem eigenen Körper um, mit Fokus auf diese Welt
+	- Einfluss der griechischen Philosophie (der Geist ist wichtig, der Körper nicht)
 - trügerisch: machen auf weise, demütig und spirituell 
 - egoistisch: tun alles nur für ihre eigene Befriedigung
 
