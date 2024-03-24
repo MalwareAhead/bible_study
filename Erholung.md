@@ -13,10 +13,15 @@ Mit Erholung wird allgemein der Vorgang bezeichnet, wenn sich ein biologischer O
 ## Wonach Ausschau halten
 
 1. Biblische Charaktere ruhen
-2. Stellen, wo Gott Ruhe anordnet
+2. Gott ordnet Ruhe an
+3. Gott verspricht Ruhe
 
-## Biblische Charaktere, die sich erholt haben
+## Biblische Charaktere, die geruht haben
 
-- Gott ruhte, nachdem er Alles geschaffen hatte ([[Genesis]] 2,2-3)
+- Gott ruht, nachdem er Alles geschaffen hatte ([[Genesis]] 2,2-3)
 - Das Volk Israel ruht im frisch eroberten Kanaan (Josua 21,43-45; 23,1)
-- Samuel ruht im Totenreich, bevor Saul ihn gestört hat (1. Samuel 28,15)
+- Samuel ruht im Totenreich, bevor Saul seine Ruhe stört (1. Samuel 28,15)
+- David ruht wegen Gott von seinen Feinden (2. Samuel 7,1)
+- Salomo ruht von Widersachern und Unglück (1. Könige 5,18)
+
+### Ruhen von Feinden und Widersachern
