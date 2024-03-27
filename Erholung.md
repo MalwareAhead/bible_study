@@ -16,12 +16,18 @@ Mit Erholung wird allgemein der Vorgang bezeichnet, wenn sich ein biologischer O
 2. Gott ordnet Ruhe an
 3. Gott verspricht Ruhe
 
+### Abgrenzungen
+
+Folgende Aspekte werden in diesem Kontext nicht berücksichtigt:
+
+- Ruhe von Feinden und Widersachern
+	- David ruht wegen Gott von seinen Feinden (2. Samuel 7,1)
+	- Salomo ruht von Widersachern und Unglück (1. Könige 5,18)
+- Friedenszeiten, Zeiten ohne Krieg
+	- Das Volk Israel ruht im frisch eroberten Kanaan (Josua 21,43-45; 23,1)
+- Ruhe im Totenreich, ewige Ruhe
+	- Samuel ruht im Totenreich, bevor Saul seine Ruhe stört (1. Samuel 28,15)
+
 ## Biblische Charaktere, die geruht haben
 
 - Gott ruht, nachdem er Alles geschaffen hatte ([[Genesis]] 2,2-3)
-- Das Volk Israel ruht im frisch eroberten Kanaan (Josua 21,43-45; 23,1)
-- Samuel ruht im Totenreich, bevor Saul seine Ruhe stört (1. Samuel 28,15)
-- David ruht wegen Gott von seinen Feinden (2. Samuel 7,1)
-- Salomo ruht von Widersachern und Unglück (1. Könige 5,18)
-
-### Ruhen von Feinden und Widersachern
