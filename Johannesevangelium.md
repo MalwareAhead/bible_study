@@ -1,14 +1,16 @@
 # Das Evangelium von Johannes
 ---
-#johannes
+#nt #johannes
 
 ## Allgemeine Beobachtungen
 
 - Warum redet Jesus häufig so missverständlich?
+- Wenn ihr schon \[...] nicht glaubt...
+- Glaube an Jesus -> ewiges Leben
 
 ## Forschungsgegenstände
 
-- 
+- Jesu Reden auf der [[Metaebene]]
 
 ## Konklusion
 ---
