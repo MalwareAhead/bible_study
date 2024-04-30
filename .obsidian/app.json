@@ -5,7 +5,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "/attachments",
+  "attachmentFolderPath": "/Anhänge",
   "showInlineTitle": false,
   "autoConvertHtml": false
 }

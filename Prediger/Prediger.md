@@ -1,6 +1,6 @@
-# Titel des Buches
+# Das Buch des Predigers
 ---
-tagTestament
+#at
 
 ## Gliederung
 
@@ -12,9 +12,4 @@ tagTestament
 
 ## Forschungsgegenstände
 
-- spezifische Fragen, Thesen und Untersuchungen
-
-## Konklusion
----
-==coming soon==
-
+- Beschreibungen eines [[Gesunder Lebensstil|gesunden Lebensstils]] 

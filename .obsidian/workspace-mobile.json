@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Richter.md",
+                "file": "Hebräerbrief/Jesus, der Hohe Priester.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,7 +90,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Richter.md",
+            "file": "Hebräerbrief/Jesus, der Hohe Priester.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Richter.md",
+            "file": "Hebräerbrief/Jesus, der Hohe Priester.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -128,10 +128,13 @@
   },
   "active": "a73f06bf47698709",
   "lastOpenFiles": [
-    "Jeremia.md",
-    "Richter.md",
-    "Wer ist Christus?.md",
+    "Esra/Gott lenkt.md",
+    "Hebräerbrief/Appelle.md",
+    "Esra/Esra.md",
     "Kolosserbrief.md",
+    "Richter.md",
+    "Jeremia.md",
+    "Wer ist Christus?.md",
     "Lukasevangelium.md",
     "1 Petrusbrief.md",
     "Prediger.md",
@@ -150,9 +153,6 @@
     "Hesekiels Biographie.md",
     "Hesekiel.md",
     "2. Timotheus.md",
-    "Hebräerbrief.md",
-    "Das Alte gegen das Neue.md",
-    "Jesu Charakter und Werke.md",
-    "Vorbilder.md"
+    "Hebräerbrief.md"
   ]
 }

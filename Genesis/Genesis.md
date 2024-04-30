@@ -1,10 +1,14 @@
-# Titel des Buches
+# Genesis
 ---
-tagTestament
+#at
 
 ## Gliederung
 
-==coming soon==
+1. Die Urgeschichte
+2. Die Zeit der Patriarchen
+	1. [[Abrahams Leben]]
+	2. Isaaks Leben
+	3. Jakobs Leben
 
 ## Allgemeine Beobachtungen
 
