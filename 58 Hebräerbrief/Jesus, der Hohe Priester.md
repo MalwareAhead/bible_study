@@ -2,7 +2,7 @@
 
 > [!HINT] Beobachtung
 > 
-> Jesus wird vom Autor des Hebräerbriefes als größter, besserer und eigentlicher Hoher Priester Gottes bezeichnet und beschrieben. Dabei geht er auch auf den Kontrast zu den menschlichen Hohen Priestern ein. Außerdem zeigt er auf, dass das Hohepriestertum Jesu Konsequenzen für unser Leben hat.
+> Jesus wird vom Autor des Hebräerbriefes als größter, bester und eigentlicher Hoher Priester Gottes bezeichnet und beschrieben. Dabei geht er auch auf den Kontrast zu den menschlichen Hohen Priestern ein. Außerdem zeigt er auf, dass das Hohepriestertum Jesu Konsequenzen für unser Leben hat.
 
 ## Das Wesen des Priestertums Jesu
 
@@ -38,7 +38,7 @@
 
 ## Konsequenzen des Priestertums Jesu
 
-- Wir sollen den Hohen Priester unserer Bekenntnisses **betrachten** (3,1)
+- Wir sollen den Hohen Priester unseres Bekenntnisses **betrachten** (3,1)
 - Wir sollen das Bekenntnis **festhalten** (4,14)
 - Wir sollen mit Freimütigkeit **hinzutreten** zum Thron der Gnade, um Barmherzigkeit und Gnade zur rechtzeitigen Hilfe zu erhalten (4,16)
 - Wir sollen **hinzutreten** mit wahrhaftigem Herzen, überzeugt im Glauben (10,19-22)
@@ -53,3 +53,5 @@
 > 1. **unerschrocken** zu Jesus hingehen, meinem gütigen Hohen Priester
 > 2. **standhaft** das Bekenntnis des Glaubens festhalten
 > 3. **erbauend** mit meinen Geschwistern umgehen
+> 
+> zusammengefasst in 10,19-25

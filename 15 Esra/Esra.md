@@ -16,7 +16,16 @@
 10. Esra tut Buße über die Mischehen des Volkes
 11. Das Volk löst die Mischehen auf
 
+> [!example] Der Handlungsstrang
+> 
+> 1. Judas Aufbruchstimmung (Kap. 1-3)
+> 2. Schwierigkeiten und Flatline (Kap. 4)
+> 3. Neuer Aufschwung: Gott schickt Verstärkung (Kap. 5-8)
+> 4. Umkehr und Reinigung (Kap. 9-10)
+
 ## Allgemeine Beobachtungen
+
+- Esra tritt erst in Kap. 7 -> Was war [[Der Mann Esra|seine Rolle und sein Einfluss]]?
 
 ## Forschungsgegenstände
 

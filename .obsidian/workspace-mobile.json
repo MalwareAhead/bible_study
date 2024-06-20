@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a73f06bf47698709",
+            "id": "f49261f6c8ade8d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hebräerbrief/Jesus, der Hohe Priester.md",
+                "file": "60 Petrusbrief I/1 Petrusbrief.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,7 +90,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Hebräerbrief/Jesus, der Hohe Priester.md",
+            "file": "60 Petrusbrief I/1 Petrusbrief.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Hebräerbrief/Jesus, der Hohe Priester.md",
+            "file": "60 Petrusbrief I/1 Petrusbrief.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,8 +126,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a73f06bf47698709",
+  "active": "f49261f6c8ade8d7",
   "lastOpenFiles": [
+    "60 Petrusbrief I/Petrus.md",
+    "40 Matthäusevangelium/Gedankengebäude.md",
+    "40 Matthäusevangelium/Matthäusevangelium.md",
+    "58 Hebräerbrief/Jesus, der Hohe Priester.md",
+    "58 Hebräerbrief/Hebräerbrief.md",
+    "42 Lukasevangelium/Reaktionen auf das Reich Gottes.md",
+    "42 Lukasevangelium/Das Außergewöhnliche.md",
+    "40 Matthäusevangelium/Denkstrukturen.md",
+    "60 Petrusbrief I/1 Petrusbrief.md",
+    "Matthäusevangelium/Matthäusevangelium.md",
+    "Lukasevangelium/Das Außergewöhnliche.md",
+    "Hebräerbrief/Jesus, der Hohe Priester.md",
+    "Matthäusevangelium",
+    "Petrusbrief 1/1 Petrusbrief.md",
     "Esra/Gott lenkt.md",
     "Hebräerbrief/Appelle.md",
     "Esra/Esra.md",
@@ -140,19 +154,6 @@
     "Prediger.md",
     "Die wahre Schönheit.md",
     "Bedrohung durch Irrlehre.md",
-    "Erholung.md",
-    "Christus, der Kontrast.md",
-    "umzuschreiben/Die wahre Schönheit.md",
-    "Reaktionen auf das Reich Gottes.md",
-    "umzuschreiben/Das Außergewöhnliche.md",
-    "Deuteronomium.md",
-    "Gottes Charakter.md",
-    "1. Petrus.md",
-    "Das Außergewöhnliche.md",
-    "Gesunder Lebensstil.md",
-    "Hesekiels Biographie.md",
-    "Hesekiel.md",
-    "2. Timotheus.md",
-    "Hebräerbrief.md"
+    "Erholung.md"
   ]
 }

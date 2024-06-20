@@ -7,5 +7,6 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "/Anhänge",
   "showInlineTitle": false,
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "readableLineLength": true
 }

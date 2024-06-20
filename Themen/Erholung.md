@@ -1,7 +1,4 @@
 # Erholung
----
-
-## Definition
 
 Mit Erholung wird allgemein der Vorgang bezeichnet, wenn sich ein biologischer Organismus nach einer anstrengenden Tätigkeit, nach körperlicher Ermüdung und geistiger Erschöpfung, aber auch von Verletzungen oder Krankheiten durch eine Ruhephase wieder regeneriert und Kräfte sammelt (Restitutio).
 

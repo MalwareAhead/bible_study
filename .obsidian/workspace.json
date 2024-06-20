@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd201167c1893480",
+            "id": "fd189515fd683e5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hebräerbrief/Jesus, der Hohe Priester.md",
+                "file": "60 Petrusbrief I/1 Petrusbrief.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hebräerbrief/Jesus, der Hohe Priester.md",
+                "file": "60 Petrusbrief I/1 Petrusbrief.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hebräerbrief/Jesus, der Hohe Priester.md",
+                "file": "60 Petrusbrief I/1 Petrusbrief.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,45 +150,45 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "fd201167c1893480",
+  "active": "fd189515fd683e5c",
   "lastOpenFiles": [
-    "Hebräerbrief/Zitate.md",
-    "1 Petrusbrief/1 Petrusbrief.md",
-    "1 Petrusbrief/Sein Wille und Seine Gnade.md",
-    "Kolosserbrief/Wer ist Christus?.md",
-    "Hebräerbrief/Jesus, der Hohe Priester.md",
-    "Hebräerbrief/Appelle an die Hebräer.md",
-    "Jeremia/Jeremia.md",
-    "Richter/Richter.md",
-    "2 Timotheusbrief/2 Timotheusbrief.md",
-    "Johannesevangelium/Johannesevangelium.md",
-    "Kolosserbrief/Christus, der Kontrast.md",
-    "Kolosserbrief/Kolosserbrief.md",
-    "Esra/Gott lenkt.md",
-    "Esra/Esra.md",
-    "Hebräerbrief/Hebräerbrief.md",
-    "Hebräerbrief/Jesu Charakter und Werke.md",
-    "Hebräerbrief/Vorbilder.md",
-    "Themen/Erholung.md",
-    "Hebräerbrief/Das Alte gegen das Neue.md",
-    "Lukasevangelium/Das Außergewöhnliche.md",
-    "Lukasevangelium/Lukasevangelium.md",
-    "Lukasevangelium/Reaktionen auf das Reich Gottes.md",
-    "Hesekiel/Zeichen des Gerichts.md",
-    "Hesekiel/Biographie des Propheten.md",
-    "Hesekiel/Hesekiel.md",
-    "1 Thessalonicherbrief/1 Thessalonicherbrief.md",
+    "Templates/Callouts.md",
+    "60 Petrusbrief I/Nüchtern gegen Begierde.md",
+    "60 Petrusbrief I/Sein Wille und Seine Gnade.md",
+    "60 Petrusbrief I/Jesu, das Vorbild im Leiden.md",
+    "60 Petrusbrief I/Erwählung und Fremdlingschaft.md",
+    "60 Petrusbrief I/Die wahre Schönheit.md",
+    "60 Petrusbrief I/1 Petrusbrief.md",
+    "58 Hebräerbrief/Hebräerbrief.md",
+    "Templates/Bibelbuch.md",
     "Anhänge/1PetrusErgebnis.png",
-    "Esra",
+    "60 Petrusbrief I/Petrus.md",
+    "55 Timotheusbrief II/Böse und Gute Menschen.md",
+    "01 Genesis/Genesis.md",
+    "Status.md",
+    "01 Genesis/Abrahams Leben.md",
+    "55 Timotheusbrief II/2 Timotheusbrief.md",
+    "40 Matthäusevangelium/Matthäusevangelium.md",
+    "40 Matthäusevangelium/Gedankengebäude.md",
+    "58 Hebräerbrief/Das Alte gegen das Neue.md",
+    "58 Hebräerbrief/Jesus, der Hohe Priester.md",
+    "52 Thessalonicherbrief I/1 Thessalonicherbrief.md",
+    "52 Thessalonicherbrief I/Entwicklung der Gemeinde.md",
+    "42 Lukasevangelium/Lukasevangelium.md",
+    "51 Kolosserbrief/Wer ist Christus?.md",
+    "07 Richter/Richter.md",
+    "Themen/Erholung.md",
+    "Themen/Numeri.md",
+    "42 Lukasevangelium",
+    "17 Esther",
+    "04 Numeri",
+    "15 Esra",
     "Themen",
-    "Deuteronomium",
-    "Prediger",
-    "Richter",
-    "2 Timotheusbrief",
-    "Jeremia",
-    "Amos",
-    "Johannesevangelium",
-    "1 Thessalonicherbrief",
+    "05 Deuteronomium",
+    "21 Prediger",
+    "07 Richter",
+    "55 Timotheusbrief II",
+    "24 Jeremia",
     "attachments/Screenshot 2024-01-02 at 18.41.51.png",
     "Untitled.canvas",
     "Logistik PTP.canvas"

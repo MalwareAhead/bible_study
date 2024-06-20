@@ -7,12 +7,9 @@
 ## die Herzen der Könige
 
 1. Kyrus, der Große
-2. Kambyses
-3. Gaumata (Smerdis, auch Artahsasta genannt)
-4. Darius I, der Große
-5. Ahasveros (Xerxes I, Mann von Esther)
-6. Artahsasta (Artaxerxes I)
-7. Darius II, Nothus
+2. Darius I, der Große
+3. Ahasveros (Xerxes I, Mann von [[Esther]])
+4. Artahsasta (Artaxerxes I)
 
 ### Kyrus, der Große
 
