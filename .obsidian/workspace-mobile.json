@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "60 Petrusbrief I/1 Petrusbrief.md",
+                "file": "28 Hosea/Die Zeit Hoseas.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,7 +90,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "60 Petrusbrief I/1 Petrusbrief.md",
+            "file": "28 Hosea/Die Zeit Hoseas.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "60 Petrusbrief I/1 Petrusbrief.md",
+            "file": "28 Hosea/Die Zeit Hoseas.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -128,6 +128,9 @@
   },
   "active": "f49261f6c8ade8d7",
   "lastOpenFiles": [
+    "28 Hosea/Hosea.md",
+    "60 Petrusbrief I/1 Petrusbrief.md",
+    "24 Jeremia/Jeremia.md",
     "60 Petrusbrief I/Petrus.md",
     "40 Matthäusevangelium/Gedankengebäude.md",
     "40 Matthäusevangelium/Matthäusevangelium.md",
@@ -136,7 +139,6 @@
     "42 Lukasevangelium/Reaktionen auf das Reich Gottes.md",
     "42 Lukasevangelium/Das Außergewöhnliche.md",
     "40 Matthäusevangelium/Denkstrukturen.md",
-    "60 Petrusbrief I/1 Petrusbrief.md",
     "Matthäusevangelium/Matthäusevangelium.md",
     "Lukasevangelium/Das Außergewöhnliche.md",
     "Hebräerbrief/Jesus, der Hohe Priester.md",
@@ -152,8 +154,6 @@
     "Lukasevangelium.md",
     "1 Petrusbrief.md",
     "Prediger.md",
-    "Die wahre Schönheit.md",
-    "Bedrohung durch Irrlehre.md",
-    "Erholung.md"
+    "Die wahre Schönheit.md"
   ]
 }

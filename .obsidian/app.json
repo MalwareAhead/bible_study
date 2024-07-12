@@ -8,5 +8,11 @@
   "attachmentFolderPath": "/Anhänge",
   "showInlineTitle": false,
   "autoConvertHtml": false,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }

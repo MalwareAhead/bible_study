@@ -58,7 +58,7 @@
 	- lehrfähig
 	- duldsam
 	- Widersacher in Sanftmut zurechtweisend
-- Timotheus hat Paulus zum Vorbild genommen (3,10+11)
+- Timotheus hat Paulus zum Vorbild genommen (3,10-11)
 - Lukas steht Paulus in seiner Situation bei (4,11)
 - Markus ist für Paulus nützlich zum Dienst (4,11)
 

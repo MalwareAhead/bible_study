@@ -28,7 +28,7 @@
 
 ## Die Schönheit des ewigen Lebens
 
-- das unvergängliche, unverwelkliche und unbefleckte Erbteil, das in den Himmeln für die Gläubigen (1,4)
+- das unvergängliche, unverwelkliche und unbefleckte Erbteil, das in den Himmeln für die Gläubigen aufbewahrt ist (1,4)
 - das Wort Gottes, das in Ewigkeit bleibt (1,25)
 - das wunderbare Licht dessen, der uns berufen hat (2,9)
 - der Segen als das Erbe der Heiligen (3,9)
@@ -38,7 +38,7 @@
 
 ## Die "Schönheit" dieser Welt
 
-- Gold und Silber sind vergänglich (1,7+18)
+- Gold und Silber sind vergänglich (1,7.18)
 - Begierden sind unheilig (1,14-15)
 - der nichtige, von den Vätern überlieferte Wandel (1,18)
 - das Fleisch und seine Herrlichkeit vergeht, wie Gras verwelkt (1,24)

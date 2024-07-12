@@ -24,7 +24,7 @@
 
 - **Er musste besser sein als die levitischen Hohen Priester** (7,1-8,6)
 	- er ist nicht nur Hoher Priester, sondern auch König (7,1-2)
-	- sein Priestertum ist ewig und unveränderlich (vgl. 7,3+23-25)
+	- sein Priestertum ist ewig und unveränderlich (vgl. 7,3.23-25)
 	- er segnet das Geringere (7,4-10)
 	- Grundlage ist kein fleischliches Gebot, sondern die Kraft eines unauflöslichen Lebens (7,11-19)
 	- Gott schwört auf das Priestertum Jesu (7,20-22)
@@ -33,7 +33,7 @@
 	- sein Dienst ist besser: nicht im Abbild, sondern im Original (8,1-6; vgl. 9,8-12)
 
 - **Er musste sein eigenes Blut als Opfer darbringen** (9,6-10,18; vgl. 13,12)
-	- nur so können die Sünden vergeben werden (9,13-15+22-24)
+	- nur so können die Sünden vergeben werden (9,13-15.22-24)
 	- er musste sein Blut *nur einziges Mal* darbringen (9,12; 9,25-10,4; 10,10-18)
 
 ## Konsequenzen des Priestertums Jesu

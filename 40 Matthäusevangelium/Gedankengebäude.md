@@ -12,7 +12,7 @@
 > > 
 > > Gott verschleiert Sein Reich den Weisen und Verständigen und offenbart es stattdessen den Unmündigen. Die Denkweise ist unabhängig vom Intellekt.
 > 
-> > [!info] Schlüsselstelle: Matthäus 15,18+19
+> > [!info] Schlüsselstelle: Matthäus 15,18.19
 > > 
 > > Das Herz ist die Quelle böser Gedanken und entsprechender Taten.
 
@@ -31,14 +31,14 @@
 - Wer schwört, soll seinen Eid dem Herrn erfüllen (5,33)
 - "Wie du mir, so ich dir" (5,38)
 - Feinde sollen gehasst werden (5,43)
-- Die Heuchler wollen gesehen und geehrt werden (6,2+5+16)
+- Die Heuchler wollen gesehen und geehrt werden (6,2.5.16)
 - Weissagung, Exorzismen und Wunderwerke in Jesu Namen würden für das Reich Gottes ausreichen (7,21-23)
 - Der Tod sei unumkehrbar und endgültig (9,23-25)
 - Stumme Besessene wurden bisher nicht geheilt (9,33)
 - Weder Johannes der Täufer noch Jesus werden angenommen, denn sie haben ihre eigenen Vorstellungen (11,16-19)
 - Die Städte mit den meisten bezeugten Wundern sind unbußfertig (11,20-24)
 - Die Volksmengen waren sich unsicher, ob  Jesus wirklich der Sohn Davids sei (12,23)
-- Die Volksmengen sehen, aber erkennen nicht, hören, aber verstehen nicht. Sie sind stumpf, schwerhörig und blind (13,11-15; vgl. [[Jesaja]] 6,9+10)
+- Die Volksmengen sehen, aber erkennen nicht, hören, aber verstehen nicht. Sie sind stumpf, schwerhörig und blind (13,11-15; vgl. [[Jesaja]] 6,9.10)
 - Die Leute von Nazareth sehen nur den Sohn des Zimmermanns (13,54-58)
 - Johannes der Täufer sei ein Prophet (14,5)
 - Die Leute von Genezareth sehen Jesus als Wunderheiler (14,34-36)
@@ -69,8 +69,8 @@
 
 - Petrus hält Jesus wirklich für den Christus, den Sohn des lebendigen Gottes (16,16-20)
 - Petrus sah nicht die Notwendigkeit von Jesu Tod, er dachte menschlich und nicht göttlich (16,21-23)
-- Sie verstanden, dass Jesus mit Elia Johannes den Täufer meint (17,12+13)
-- Sie hatten einen zu kleinen Glauben, um den mondsüchtigen Dämon auszutreiben (17,19+20)
+- Sie verstanden, dass Jesus mit Elia Johannes den Täufer meint (17,12.13)
+- Sie hatten einen zu kleinen Glauben, um den mondsüchtigen Dämon auszutreiben (17,19.20)
 
 ==Untersuchung bei Kap. 18 fortsetzen==
 

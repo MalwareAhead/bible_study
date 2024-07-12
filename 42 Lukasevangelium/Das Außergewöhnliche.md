@@ -6,7 +6,7 @@
 
 ## Das Reich Gottes macht das Unmögliche möglich
 
-- Die Unfruchtbare und die Jungfrau werden schwanger (1,57 + 2,7)
+- Die Unfruchtbare und die Jungfrau werden schwanger (1,57; 2,7)
 - Jesus geht durch Menschen hindurch (4,30)
 - Jesus heilt durch Handauflegung (4,40)
 - Ein außergewöhnlicher Fischfang nach einer erfolglosen Nacht (5,6)

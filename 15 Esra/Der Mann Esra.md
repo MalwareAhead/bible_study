@@ -58,8 +58,8 @@ Esra soll im Auftrag des Königs Arthasasta
 - Gottes Gnade macht die Könige der Erde zu Dienern Seines Tempels (7,27-28)
 - Gottes Gnade lässt ihn Mut fassen (7,28)
 - Gottes Gnade sorgt für die nötigen Leviten und Tempeldiener (8,18)
-- Gottes Gnade schützt die Rückkehrer auf der Reise vor Feinden (8,22+31)
-- Gottes Gnade lässt den Rest des Volkes am Leben und gibt Gelingen (9,8+15)
+- Gottes Gnade schützt die Rückkehrer auf der Reise vor Feinden (8,22.31)
+- Gottes Gnade lässt den Rest des Volkes am Leben und gibt Gelingen (9,8.15)
 - Gottes Gnade hat Seinen Tempel wiederaufgebaut (9,9)
 - Gottes Gnade ist trotz ihrer Sünden und Untreue gnädig (9,13)
 

@@ -7,7 +7,7 @@
 ## Positive Vorbilder
 
 - Moses treuer Dienst (3,5)
-- Den Glauben und das Ausharren derer, die dadurch die Verheißungen erben, sowie Abraham (6,12+15)
+- Den Glauben und das Ausharren derer, die dadurch die Verheißungen erben, sowie Abraham (6,12.15)
 - Ausharren der Hebräer im Leidenskampf und unter Bedrängnissen (10,32-34)
 - Abels Glaube: Sein besseres Opfer (11,4)
 - Henochs Glaube: Er hat Gott wohlgefallen (11,5)

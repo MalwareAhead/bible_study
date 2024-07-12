@@ -38,6 +38,8 @@
 - 
 
 ```
+Ungefilterte Gedanken zum Aspekt
+
 - Perspektive auf und Umgang mit Leid
 	- Gutestun und geduldig ertragen
 	- nüchtern sein
