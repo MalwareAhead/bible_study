@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "28 Hosea/Die Zeit Hoseas.md",
+                "file": "50 Philipperbrief/Freude.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,7 +90,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "28 Hosea/Die Zeit Hoseas.md",
+            "file": "50 Philipperbrief/Freude.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "28 Hosea/Die Zeit Hoseas.md",
+            "file": "50 Philipperbrief/Freude.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -128,6 +128,8 @@
   },
   "active": "f49261f6c8ade8d7",
   "lastOpenFiles": [
+    "05 Deuteronomium/Der furchtgebietende Gott.md",
+    "28 Hosea/Die Zeit Hoseas.md",
     "28 Hosea/Hosea.md",
     "60 Petrusbrief I/1 Petrusbrief.md",
     "24 Jeremia/Jeremia.md",
@@ -152,8 +154,6 @@
     "Jeremia.md",
     "Wer ist Christus?.md",
     "Lukasevangelium.md",
-    "1 Petrusbrief.md",
-    "Prediger.md",
-    "Die wahre Schönheit.md"
+    "1 Petrusbrief.md"
   ]
 }

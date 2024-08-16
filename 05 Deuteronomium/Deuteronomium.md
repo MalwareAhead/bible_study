@@ -1,14 +1,20 @@
 # Deuteronomium
----
+
 #at
 
 ## Gliederung
 
-1. Einleitung (Kap 1-4)
+1. Einleitung (Kap 1-5)
 	* Erinnerung an historische Events -> Aufforderung zu entsprechendem Handeln
 	* Beschreibung der Ist-Situation (im Ostjordanland)
-2. Auslegung des Mosaischen Bundes samt Gesetz und dessen Konsequenzen (Kap 5-30)
-3. Vorbereitungen auf den Einzug nach Kanaan (31-34)
+	* Der Empfang der Zehn Gebote und die Reaktion des Volkes
+1. Auslegung des Mosaischen Bundes samt Gesetz und dessen Konsequenzen (Kap 6-30)
+2. Vorbereitungen auf den Einzug nach Kanaan (31-34)
+
+## Hervorgehobene Elemente
+
+- [[Der furchtgebietende Gott]] zeigt sich Seinem Volk
+- Gott zeigt Seinem Volk [[Nicht weil du|die eigentlichen Verhältnisse]] auf
 
 ## Allgemeine Beobachtungen
 
@@ -16,18 +22,16 @@
 - 40 Jahre und 11 Monate nach dem Exodus (1,3)
 - er legt dem Volk das Gesetz im Land Moab aus (1,5)
 - Israel steht kurz vor der Landeinnahme Kanaans
-- Zusammenfassungvon Gottes Anweisung in 10,12-13
-
-## Forschungsgegenstände
-
-- [[Gott gibt]]: "das Land, das der Herr, dein Gott, dir gibt"
-- [[Gegensätze]]: Segen und Fluch, Leben und Tod, Gut und Böse
-- [[Prophetie]]: Gott sagt den Ungehorsam des Volkes und dessen Konsequenzen voraus
-- Gottes Charakter: Gottes Liebe und Seine Treue werden herausgestellt
+- Zusammenfassung von Gottes Anweisung in 10,12-13
+- Das Volk fürchtet sich vor der Herrlichkeit Gottes (5,22-29)
+- Gott gibt: "das Land, das der Herr, dein Gott, dir gibt"
+- Gegensätze: Segen/Fluch, Leben/Tod, Gut/Böse, Zweifel/Selbstsicherheit
+- Prophetie: Gott sagt den Ungehorsam des Volkes und dessen Konsequenzen voraus
 - Was tut Gott und was soll Sein Volk tun?
 - Warum beschreibt Mose die vergangenen Ereignisse vom Exodus bis hierher?
+- Gegen Zweifel und gegen Selbstsicherheit
 
 ## Konklusion
----
+
 ==coming soon==
 

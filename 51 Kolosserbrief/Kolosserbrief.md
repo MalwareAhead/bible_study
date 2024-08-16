@@ -1,5 +1,5 @@
 # Der Brief an die Gemeinde in Kolossä
----
+
 #nt
 
 ## Gliederung

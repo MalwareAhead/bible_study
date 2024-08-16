@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd189515fd683e5c",
+            "id": "ae4eeab0a3389b76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50 Philipperbrief/Philipperbrief.md",
+                "file": "50 Philipperbrief/Beziehungen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50 Philipperbrief/Philipperbrief.md",
+                "file": "50 Philipperbrief/Beziehungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50 Philipperbrief/Philipperbrief.md",
+                "file": "50 Philipperbrief/Beziehungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,14 +150,22 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "fd189515fd683e5c",
+  "active": "ae4eeab0a3389b76",
   "lastOpenFiles": [
     "50 Philipperbrief/Philipperbrief.md",
+    "50 Philipperbrief/Beziehungen.md",
+    "50 Philipperbrief/Freude.md",
+    "51 Kolosserbrief/Bedrohung durch Irrlehre.md",
+    "51 Kolosserbrief/Kolosserbrief.md",
+    "52 Thessalonicherbrief I/Entwicklung der Gemeinde.md",
+    "05 Deuteronomium/Nicht weil du.md",
+    "05 Deuteronomium/Deuteronomium.md",
+    "05 Deuteronomium/Der furchtgebietende Gott.md",
+    "60 Petrusbrief I/1 Petrusbrief.md",
     "28 Hosea/Hosea.md",
     "28 Hosea/Hoseas Kinder.md",
     "28 Hosea/Die Zeit Hoseas.md",
     "55 Timotheusbrief II/Böse und Gute Menschen.md",
-    "60 Petrusbrief I/1 Petrusbrief.md",
     "60 Petrusbrief I/Erwählung und Fremdlingschaft.md",
     "50 Philipperbrief/Philipperbrief 1.md",
     "Templates/Callouts.md",
@@ -166,20 +174,12 @@
     "58 Hebräerbrief/Jesus, der Hohe Priester.md",
     "40 Matthäusevangelium/Gedankengebäude.md",
     "60 Petrusbrief I/Die wahre Schönheit.md",
-    "05 Deuteronomium/Deuteronomium.md",
     "15 Esra/Der Mann Esra.md",
     "42 Lukasevangelium/Das Außergewöhnliche.md",
     "58 Hebräerbrief/Appelle an die Hebräer.md",
     "28 Hosea",
     "60 Petrusbrief I/Sein Wille und Seine Gnade.md",
-    "52 Thessalonicherbrief I/Entwicklung der Gemeinde.md",
-    "52 Thessalonicherbrief I/1 Thessalonicherbrief.md",
-    "24 Jeremia/Jeremia.md",
-    "51 Kolosserbrief/Bedrohung durch Irrlehre.md",
-    "51 Kolosserbrief/Kolosserbrief.md",
-    "55 Timotheusbrief II/2 Timotheusbrief.md",
     "50 Philipperbrief",
-    "60 Petrusbrief I/Jesu, das Vorbild im Leiden.md",
     "Anhänge/1PetrusErgebnis.png",
     "42 Lukasevangelium",
     "17 Esther",
