@@ -19,13 +19,14 @@
 ## Aspekte
 
 - [x] [[Freude]] (Wiederholung des Begriffes "Freude")
+- [ ] [[Paulus Gebet für die Philipper]] als potenzielle Schlüsselstelle
 - [ ] Ganzheitlichkeit (Wiederholung der Begriffe "alle", "jeder", "allezeit", etc.)
 - [ ] Geschwisterliche [[Liebe]] (vgl. 1,7-10.15-17.27; 2,1-4.19-30; 4,1-3.21-23)
 - [ ] Integrität im Leben
-- [ ] Kampf für den Glauben des Evangeliums
+- [ ] [[Das Evangelium|Kampf für den Glauben des Evangeliums]]
 - [ ] Der unvergleichliche Wert Jesu Christi
 - [ ] Zuversicht unabhängig von den Umständen
-- [ ] Paulus Mitarbeiter und weitere [[Beziehungen]] (die Brüder, die durch Paulus Gefangenschaft ermutigt wurden, Timotheus, Epaphroditus, etc.)
+- [ ] [[Paulus und seine Mitarbeiter]] (die Brüder, die durch Paulus Gefangenschaft ermutigt wurden, Timotheus, Epaphroditus, etc.)
 - [ ] Die Storyline der Philipper (Wie haben die Philipper getickt?)
 
 > [!hint] Paulus Gebetsanliegen für die Philipper

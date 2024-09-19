@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50 Philipperbrief/Freude.md",
+                "file": "26 Hesekiel/Hesekiel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,7 +90,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "50 Philipperbrief/Freude.md",
+            "file": "26 Hesekiel/Hesekiel.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "50 Philipperbrief/Freude.md",
+            "file": "26 Hesekiel/Hesekiel.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -128,11 +128,15 @@
   },
   "active": "f49261f6c8ade8d7",
   "lastOpenFiles": [
+    "50 Philipperbrief/Paulus Gebet für die Philipper.md",
+    "24 Jeremia/Jeremia.md",
+    "Anhänge/Recording 20240903073752.m4a",
+    "Anhänge/Recording 20240903073848.m4a",
+    "50 Philipperbrief/Freude.md",
     "05 Deuteronomium/Der furchtgebietende Gott.md",
     "28 Hosea/Die Zeit Hoseas.md",
     "28 Hosea/Hosea.md",
     "60 Petrusbrief I/1 Petrusbrief.md",
-    "24 Jeremia/Jeremia.md",
     "60 Petrusbrief I/Petrus.md",
     "40 Matthäusevangelium/Gedankengebäude.md",
     "40 Matthäusevangelium/Matthäusevangelium.md",
@@ -152,8 +156,6 @@
     "Kolosserbrief.md",
     "Richter.md",
     "Jeremia.md",
-    "Wer ist Christus?.md",
-    "Lukasevangelium.md",
-    "1 Petrusbrief.md"
+    "Wer ist Christus?.md"
   ]
 }

@@ -1,13 +1,7 @@
-# Beziehungen
+# Paulus und seine Mitarbeiter
 
 > [!hint] Beziehungen untersuchen
-> Was schreibt Paulus über (seine) Beziehungen im Allgemeinen und welchen Charakter haben diese Beziehungen? Was hat das mit der Freude zutun?
-
-## Paulus und die Philipper
-
-- Paulus schreibt ihnen einen Brief, der zu Gottes Wort gehört (1,1)
-- Paulus liebt die Philipper sehr (1,7-8)
-- Die Philipper sind Paulus Mitteilhaber der Gnade in seiner Gefangenschaft als auch im Dienst des Evangeliums (1,7)
+> Was schreibt Paulus über seine Beziehungen und welchen Charakter haben diese Beziehungen? Mit welchen Leuten arbeitet er zusammen und in welcher Hinsicht gehören die Philipper dazu? Was hat das mit der Freude zutun?
 
 ## Paulus und Timotheus
 
@@ -27,6 +21,13 @@
 - Paulus war traurig um Epaphroditus Krankheit und hätte noch mehr über seinen Tod getrauert (2,27)
 - Paulus hält viel von Epaphroditus, weswegen die Philipper ihn mit Freude und Ehre aufnehmen sollen (2,29)
 - Paulus redet gut über die Hingabe Dienstbereitschaft von Epaphroditus (2,30)
+
+## Paulus und die Philipper
+
+- Paulus schreibt ihnen einen Brief, der zu Gottes Wort gehört (1,1)
+- Paulus liebt die Philipper sehr (1,7-8)
+- Die Philipper sind Paulus Mitteilhaber der Gnade in seiner Gefangenschaft als auch im Dienst des Evangeliums (1,7)
+- Paulus betet für die Philipper, seit er sie kennt (1,3-11)
 
 ## Paulus und die Prediger des Evangeliums
 

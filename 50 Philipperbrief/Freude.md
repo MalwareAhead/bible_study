@@ -37,4 +37,4 @@
 > und zwar **unabhängig von den Umständen**
 
 > [!hint] Prinzip?
-> Wahre Freude freut sich nicht primär an den Gaben, sondern am Geber selbst. Wahre Freude ist nur in Verbindung mit wahrer Liebe möglich.
+> Wahre Freude freut sich nicht primär an den Gaben, sondern am Geber selbst. Wahre Freude ist nur in [[Freude + Liebe|Verbindung mit wahrer Liebe]] möglich.

@@ -1,33 +1,13 @@
 # Das Buch des Propheten Hesekiel
----
+
 #at
 
-## Inhalte
+## Auffälligkeiten
 
-- Gericht über die Nationen
-	- Gegen Tyrus und Ägypten (25-32)
-	- Gegen Edom (35,1-15)
-	- Gegen Gog von Magog (38-39)
-- Gericht über das Volk Israel
-	- Gegen die Führer Israels (34)
-- Eroberung und Vernichtung Jerusalems (vgl. 33,21-22)
-- Wiederherstellung des Volkes Israel
-	- Das Neue Herz des Neuen Volkes im Neuen Bund (11,17-20; 36,16-38; 37)
-	- Der Neue Tempel samt Ordnungen für Priester, Opfer und Feste (40,1-47,12)
-	- Das Neue Land und die Neue Stadt (47,13-48,35)
-- Gleichnisse
-
-## Allgemeine Beobachtungen
-
-- Wiederholung: "...erkennen, dass ich der HERR bin..."
-
-## Forschungsgegenstände
-
+- Israel ist [[Das Widerspenstige Haus|das widerspenstige Haus]] -> deswegen das Neue Herz
+- Wiederholung: "[[Damit ihr erkennt]], dass Ich der Herr bin", "Und ihr werdet erkennen..."
 - [[Biographie des Propheten|Biographische Informationen]] des Propheten eher spärlich
-- Die Herrlichkeit des Herrn in Thronwagen-Form ist ein tragendes Element
-- Hesekiel inszeniert [[Zeichen des Gerichts|sichtbare Zeichen des Gerichts]] über das Volk
-
-## Konklusion
----
-==coming soon==
+- [[Die Herrlichkeit des Herrn]] in Thronwagen-Form ist ein tragendes Element -> Gottes Gegenwart unter Seinem Volk
+- Hesekiel inszeniert [[Wahrzeichen|sichtbare Zeichen des Gerichts]] über das Volk
+- Hesekiel [[Visionshistorie|datiert seine Visionen]] auf den Tag genau
 
