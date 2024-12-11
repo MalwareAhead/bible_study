@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -163,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c48048b0b79dbaa4",
+  "active": "86a10378f60150b7",
   "lastOpenFiles": [
-    "26 Hesekiel/Hesekiel.md",
+    "21 Prediger/Gesunder Lebensstil.md",
     "48 Galaterbrief/Galaterbrief.md",
+    "26 Hesekiel/Hesekiel.md",
     "51 Kolosserbrief/Kolosserbrief.md",
     "50 Philipperbrief/Philipperbrief.md",
     "50 Philipperbrief/Das Evangelium.md",
@@ -207,7 +210,6 @@
     "40 Matthäusevangelium/Gedankengebäude.md",
     "30 Amos/Amos.md",
     "28 Hosea/Hosea.md",
-    "26 Hesekiel/Wächter.md",
     "28 Hosea",
     "50 Philipperbrief",
     "Anhänge/1PetrusErgebnis.png",

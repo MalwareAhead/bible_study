@@ -1,7 +1,6 @@
 # Ein gesunder Lebensstil
 
-## These / Beobachtung /Fragestellung
-
+> [!hint] Beobachtung
 > Der [[Prediger]] beschreibt Gottes Willen für ein Leben im Gleichgewicht, dass sowohl aus schönen als auch nicht schönen Aspekten besteht. Das Leben ist gut trotz seiner Kürze und Imperfektion.
 
 ## Die Balance eines guten Lebens
@@ -16,5 +15,3 @@
 - Am Morgen säe deinen Samen und am Abend lass deine Hand nicht ruhen! Denn du weißt nicht, was gedeihen wird: ob dieses oder jenes oder ob beides zugleich gut werden wird. – 7 Süß aber ist das Licht, und gut für die Augen ⟨ist es⟩, die Sonne zu sehen. (11,6-7)
 
 ## Negative Effekte von Extremen
-
-==coming soon==

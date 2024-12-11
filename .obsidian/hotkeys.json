@@ -128,5 +128,14 @@
       ],
       "key": "S"
     }
+  ],
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "G"
+    }
   ]
 }
