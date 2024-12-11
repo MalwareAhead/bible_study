@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -178,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86a10378f60150b7",
+  "active": "c48048b0b79dbaa4",
   "lastOpenFiles": [
     "26 Hesekiel/Hesekiel.md",
     "48 Galaterbrief/Galaterbrief.md",
