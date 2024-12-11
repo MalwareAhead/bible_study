@@ -2,5 +2,6 @@
   "accentColor": "#009b77",
   "theme": "system",
   "showViewHeader": false,
-  "translucency": false
+  "translucency": false,
+  "cssTheme": ""
 }

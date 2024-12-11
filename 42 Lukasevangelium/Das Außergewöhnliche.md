@@ -1,7 +1,6 @@
 # Das Außergewöhnliche
 
-## These
-
+> [!note] These
 > Das Reich Gottes ist anders als das Reich der Menschen. Dies zeigt sich auf unterschiedlichen Ebenen.
 
 ## Das Reich Gottes macht das Unmögliche möglich

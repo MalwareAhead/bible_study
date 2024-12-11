@@ -10,3 +10,5 @@
 3. Ein integeres Leben durch Jesus Christus
 4. Ein grandioser Abschluss durch Jesus Christus
 5. Gottes Ehre
+
+ Evangelium (Liebe -> Fokus -> Selbstlosigkeit/gelebte Einheit -> Freude)

@@ -13,11 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26 Hesekiel/Hesekiel.md",
+                "file": "16 Nehemia/Gott ist am Werk.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Gott ist am Werk"
             }
           }
         ]
@@ -36,7 +38,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "byModifiedTime"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -51,7 +55,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -62,7 +68,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -74,7 +82,9 @@
             "sortOrder": "frequency",
             "showSearch": false,
             "searchQuery": ""
-          }
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
         }
       }
     ],
@@ -90,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "26 Hesekiel/Hesekiel.md",
+            "file": "44 Apostelgeschichte/Paulus und Jerusalem.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -98,7 +108,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -107,10 +119,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "26 Hesekiel/Hesekiel.md",
+            "file": "44 Apostelgeschichte/Paulus und Jerusalem.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       }
     ],
@@ -128,6 +142,18 @@
   },
   "active": "f49261f6c8ade8d7",
   "lastOpenFiles": [
+    "16 Nehemia/Nehemia.md",
+    "44 Apostelgeschichte/Paulus und Jerusalem.md",
+    "16 Nehemia",
+    "42 Lukasevangelium/Lukasevangelium.md",
+    "52 Thessalonicherbrief I/Entwicklung der Gemeinde.md",
+    "52 Thessalonicherbrief I/1 Thessalonicherbrief.md",
+    "51 Kolosserbrief/Kolosserbrief.md",
+    "51 Kolosserbrief/Christus, der Kontrast.md",
+    "51 Kolosserbrief/Bedrohung durch Irrlehre.md",
+    "51 Kolosserbrief/Wer ist Christus?.md",
+    "26 Hesekiel/Damit ihr erkennt.md",
+    "26 Hesekiel/Hesekiel.md",
     "50 Philipperbrief/Paulus Gebet für die Philipper.md",
     "24 Jeremia/Jeremia.md",
     "Anhänge/Recording 20240903073752.m4a",
@@ -145,17 +171,6 @@
     "42 Lukasevangelium/Reaktionen auf das Reich Gottes.md",
     "42 Lukasevangelium/Das Außergewöhnliche.md",
     "40 Matthäusevangelium/Denkstrukturen.md",
-    "Matthäusevangelium/Matthäusevangelium.md",
-    "Lukasevangelium/Das Außergewöhnliche.md",
-    "Hebräerbrief/Jesus, der Hohe Priester.md",
-    "Matthäusevangelium",
-    "Petrusbrief 1/1 Petrusbrief.md",
-    "Esra/Gott lenkt.md",
-    "Hebräerbrief/Appelle.md",
-    "Esra/Esra.md",
-    "Kolosserbrief.md",
-    "Richter.md",
-    "Jeremia.md",
-    "Wer ist Christus?.md"
+    "Matthäusevangelium"
   ]
 }

@@ -1,8 +1,8 @@
 # Das Evangelium von Johannes
----
+
 #nt
 
-## Allgemeine Beobachtungen
+## Auffälligkeiten
 
 - Warum redet Jesus häufig so missverständlich?
 - Wenn ihr schon \[...] nicht glaubt...
@@ -15,9 +15,4 @@
 
 ## Forschungsgegenstände
 
-- Jesu Reden auf der [[Metaebene]]
-
-## Konklusion
----
-==coming soon==
-
+- Jesu Reden finden häfig auf der [[Metaebene]] statt

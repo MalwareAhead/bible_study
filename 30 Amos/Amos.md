@@ -1,16 +1,8 @@
 # Das Buch des Propheten Amos
----
+
 #at
 
-## Allgemeine Beobachtungen
+## Auffälligkeiten
 
 - Der Bauer spricht Gericht über die Elite
-
-## Forschungsgegenstände
-
-- 
-
-## Konklusion
----
-
 
