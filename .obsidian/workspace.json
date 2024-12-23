@@ -164,11 +164,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "graph:Open graph view": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
@@ -181,8 +181,11 @@
   },
   "active": "86a10378f60150b7",
   "lastOpenFiles": [
-    "21 Prediger/Gesunder Lebensstil.md",
+    "42 Lukasevangelium/Lukasevangelium.md",
     "48 Galaterbrief/Galaterbrief.md",
+    "17 Esther/Esther.md",
+    "15 Esra/Gott lenkt.md",
+    "21 Prediger/Gesunder Lebensstil.md",
     "26 Hesekiel/Hesekiel.md",
     "51 Kolosserbrief/Kolosserbrief.md",
     "50 Philipperbrief/Philipperbrief.md",
@@ -197,7 +200,6 @@
     "50 Philipperbrief/Paulus Gebet für die Philipper.md",
     "44 Apostelgeschichte/Paulus und Jerusalem.md",
     "44 Apostelgeschichte/Apostelgeschichte.md",
-    "42 Lukasevangelium/Lukasevangelium.md",
     "44 Apostelgeschichte",
     "55 Timotheusbrief II/2 Timotheusbrief.md",
     "50 Philipperbrief/Paulus und seine Mitarbeiter.md",
@@ -208,8 +210,6 @@
     "43 Johannesevangelium/Johannesevangelium.md",
     "58 Hebräerbrief/Hebräerbrief.md",
     "40 Matthäusevangelium/Gedankengebäude.md",
-    "30 Amos/Amos.md",
-    "28 Hosea/Hosea.md",
     "28 Hosea",
     "50 Philipperbrief",
     "Anhänge/1PetrusErgebnis.png",
