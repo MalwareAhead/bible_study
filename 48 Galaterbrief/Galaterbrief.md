@@ -2,19 +2,37 @@
 
 #nt 
 
-## Gedanklicher Flow
+> [!info] Situation bei den galatischen Gemeinden
+> Die Galater hatten von Paulus damals das wahre Evangelium gehört und die Wahrheit von Herzen erkannt , doch haben sich dann von [[Die falschen Lehrer|falschen Leuten]] verwirren und fangen lassen.
 
-1. Hallo, ihr Gemeinden von Galatien!
-2. Es gibt nur ein einziges Evangelium, und das habt ihr schon
-3. Dieses Evangelium ist unabhängig von jüdischem Einfluss
+## Gedankengang des Autors
 
-## Auffälligkeiten
+Zusammengestellt aus [[Schlüsselstellen im Galaterbrief]]
+
+1. Es gibt kein anderes Evangelium als das, was ihr schon von mir gehört habt!
+2. Das von mir gepredigte Evangelium ist unabhängig vom jüdischen Einfluss
+3. Selbst die jüdischen Apostel haben meinen Dienst bestätigt
+4. Aus Gesetzeswerken wird niemand gerechtfertigt, sondern nur durch den Glauben an Jesus
+5. Auch Abraham wurde durch Glauben gerechtfertigt; jeder Glaubende ist Abrahams Sohn
+6. Christus ist für uns zum Fluch geworden, damit wir Abrahams Segen und die Verheißung des Geistes aus Glauben empfangen
+7. Das Gesetz ist nicht gegen die Verheißung, sondern macht die Sünde sichtbar, damit die Verheißung aus Glauben kommt
+8. Jesus hat uns vom Gesetz losgekauft und zu Kindern Gottes und Seinen Erben gemacht
+9. Ich, Paulus, meine es gut mit euch, die jüdischen Irrlehrer nicht
+10. Christus hat uns frei gemacht; lasst euch nicht wieder versklaven!
+11. Diese Freiheit ist nicht für das Leben im Fleisch da, sondern soll zur Liebe führen, die das Gesetz erfüllt
+12. Diejenigen, die Christus gehören, haben das Fleisch gekreuzigt. Lasst uns also dem Geist folgen!
+13. Mir geht es nur um das Kreuz Christi, den jüdischen Irrlehrern nur um sich selbst
+14. Es geht nicht um die Beschneidung, sondern um eine neue Schöpfung
+
+## Auffälligkeiten und Fragen
 
 - Paulus wählt einen sehr harten Tonfall und redet sehr direkt
+	- [[Das Problem der Galater|Was bemängelt/verurteilt Paulus an den galatischen Gemeinden?]]
 - Manche Aussagen hören sich sarkastisch an (vgl. 5,12.15)
 - Ähnlich wie im Römerbrief stellt Paulus rhetorische Fragen, die er sofort beantwortet
 - [[Das Kreuz oder das Gesetz|Das Kreuz Christi steht im Widerspruch zum Gesetz]] (vgl. 2,19; 3,1.13)
 - Paulus spricht seinen Werdegang und seine Beziehung zu den galatischen Gemeinden an
+	- Spricht Paulus vermehrt auf der [[Beziehungsebene zu den Galatern]], um seinen Kontrast zu den falschen jüdischen Lehrern aufzuzeigen?
 
 ### Schlagwörter
 
@@ -27,13 +45,9 @@
 - Söhne - Sklaven
 - Geist - Fleisch
 
-## Fragen
-
-- Spricht Paulus vermehrt auf der [[Beziehungsebene zu den Galatern]], um seinen Kontrast zu den falschen jüdischen Lehrern aufzuzeigen?
-
 > [!summary] Aussage zu Inhalt und Absicht
 > Paulus schreibt and die galatischen Gemeinden:
 > 
 > Nur der Glaube an das Kreuz Christi macht sie zu freien Kindern Gottes und gesegneten Erben der Verheißungen Gottes. Dieses Evangelium haben sie bereits von ihm gehört; ein anderes gibt es nicht.
 > 
-> Er schreibt ihnen, damit sie sich nicht durch jüdische Irrlehrer verwirren lassen und durch das Gesetz Moses gerechtfertigt werden wollen, sondern das sie das Gesetz des Christus erfüllen, indem sie Liebe üben, die durch den Glauben wirksam ist.
+> Er schreibt ihnen, damit sie sich nicht durch jüdische Irrlehrer fangen lassen und durch das Gesetz Moses gerechtfertigt werden wollen, sondern das sie mit dem Kreuz im Blick das Gesetz des Christus erfüllen, indem sie Liebe üben, die durch den Glauben wirksam ist.
