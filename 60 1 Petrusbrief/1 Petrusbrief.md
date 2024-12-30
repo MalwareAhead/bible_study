@@ -26,8 +26,7 @@
 
 ## Hervorgehobene Elemente
 
-- Auserwählte Fremdlinge sind Teilhaber [[Die wahre Schönheit|der wahren Schönheit]] jetzt und in Ewigkeit
-- [[Sein Wille und Seine Gnade|Der Wille und die Gnade]] Gottes ist FÜR die auserwählten Fremdlinge
+- Auserwählte Fremdlinge sind Teilhaber [[Die wahre Schönheit|der wahren Schönheit]] jetzt und in Ewigke[](Erwählung%20und%20Fremdlingschaft.md)Wille und die Gnade]] Gottes ist FÜR die auserwählten Fremdlinge
 - Auserwählte Fremdlinge sollen [[Nüchtern gegen Begierde|nüchtern gegen die Begierde]] ankämpfen
 - Jesus ist unser [[Jesu, das Vorbild im Leiden|Vorbild im Leiden]] als auserwählter Fremdling
 

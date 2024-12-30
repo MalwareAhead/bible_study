@@ -18,5 +18,5 @@
 > - Wer hat euch gehindert, der Wahrheit zu gehorchen?
 
 - Die Galater haben sich vom wahren, von Paulus verkündigten Evangelium abgewendet
-- Sie waren bereits auf dem richtigen Weg, haben sich aber von falschen Leuten überreden lassen
-	- Sie haben Gott und Christus, den Gekreuzigten kennengelernt, sind vielmehr von Ihm erkannt worden, wenden sich aber wieder nichtigen Dingen zu
+- Sie waren bereits auf dem richtigen Weg, haben sich aber von [[Die falschen Lehrer|falschen Leuten]] überreden lassen
+	- Sie hatten Gott und Christus, den Gekreuzigten kennengelernt, sind vielmehr von Ihm erkannt worden, wenden sich aber wieder nichtigen Dingen zu (4,9-10)

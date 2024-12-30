@@ -2,8 +2,10 @@
 
 #nt 
 
-> [!info] Situation bei den galatischen Gemeinden
-> Die Galater hatten von Paulus damals das wahre Evangelium gehört und die Wahrheit von Herzen erkannt , doch haben sich dann von [[Die falschen Lehrer|falschen Leuten]] verwirren und fangen lassen.
+> [!info] Die Situation bei den galatischen Gemeinden
+> Die Galater hatten von Paulus damals das wahre Evangelium gehört und die Wahrheit von Herzen erkannt, doch haben sich dann von [[Die falschen Lehrer|falschen Leuten]] verwirren und fangen lassen (1,6-10.
+> 
+> Diese haben sie dazu überredet, sich beschneiden zu lassen (5,2) und im mosaischen Gesetz zu leben (4,21), um von Gott angenommen zu sein.
 
 ## Gedankengang des Autors
 
@@ -24,15 +26,23 @@ Zusammengestellt aus [[Schlüsselstellen im Galaterbrief]]
 13. Mir geht es nur um das Kreuz Christi, den jüdischen Irrlehrern nur um sich selbst
 14. Es geht nicht um die Beschneidung, sondern um eine neue Schöpfung
 
+### Gliederung für die Jugend
+
+1. Das Evangelium ist einzigartig (1,1-10)
+2. Das Evangelium ist unabhängig (1,11-24)
+3. Das Evangelium ist eine Einheit (2,1-10)
+4. 
+
 ## Auffälligkeiten und Fragen
 
 - Paulus wählt einen sehr harten Tonfall und redet sehr direkt
 	- [[Das Problem der Galater|Was bemängelt/verurteilt Paulus an den galatischen Gemeinden?]]
 - Manche Aussagen hören sich sarkastisch an (vgl. 5,12.15)
 - Ähnlich wie im Römerbrief stellt Paulus rhetorische Fragen, die er sofort beantwortet
-- [[Das Kreuz oder das Gesetz|Das Kreuz Christi steht im Widerspruch zum Gesetz]] (vgl. 2,19; 3,1.13)
+- [[Gesetz oder Kreuz|Das Kreuz Christi steht im Widerspruch zum Gesetz]] (vgl. 2,19; 3,1.13)
 - Paulus spricht seinen Werdegang und seine Beziehung zu den galatischen Gemeinden an
 	- Spricht Paulus vermehrt auf der [[Beziehungsebene zu den Galatern]], um seinen Kontrast zu den falschen jüdischen Lehrern aufzuzeigen?
+- Was erhofften sich die Galater vom Leben im Gesetz?
 
 ### Schlagwörter
 
@@ -50,4 +60,4 @@ Zusammengestellt aus [[Schlüsselstellen im Galaterbrief]]
 > 
 > Nur der Glaube an das Kreuz Christi macht sie zu freien Kindern Gottes und gesegneten Erben der Verheißungen Gottes. Dieses Evangelium haben sie bereits von ihm gehört; ein anderes gibt es nicht.
 > 
-> Er schreibt ihnen, damit sie sich nicht durch jüdische Irrlehrer fangen lassen und durch das Gesetz Moses gerechtfertigt werden wollen, sondern das sie mit dem Kreuz im Blick das Gesetz des Christus erfüllen, indem sie Liebe üben, die durch den Glauben wirksam ist.
+> Er schreibt ihnen, damit sie sich nicht durch jüdische Irrlehrer fangen lassen und durch das Gesetz Moses gerechtfertigt werden wollen, sondern das sie mit dem Kreuz im Blick das Gesetz des Christus erfüllen, indem sie Liebe übern, die den Glauben wirksam macht.
