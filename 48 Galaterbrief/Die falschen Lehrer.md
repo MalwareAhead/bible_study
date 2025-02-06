@@ -27,7 +27,7 @@
 - Sie gehören eindeutig nicht zu Gott und Gottes Wahrheit (5,7-9)
 - Sie halten sich selbst nicht an das Gesetz, dass sie den Gläubigen aufzwingen (6,13)
 
-> [!example] Fazit
-> - Die falschen Brüder lehren, dass das äußere Halten des mosaischen Gesetzes rechtfertigt und für das Erbe Gottes qualifiziert.
-> - Sie wollen so das wahre Evangelium von Christus umdrehen und die Gemeinden in ihren Bann ziehen, damit sie in der Gemeinde und in der Gesellschaft gut angesehen werden und nicht für das Kreuz Christi verfolgt werden.
+> [!bug] Fazit: Die falschen Brüder
+> - Die falschen Brüder lehren, dass das äußere Halten des mosaischen Gesetzes rechtfertigt und für das Erbschaft in Gottes Reich qualifiziert.
+> - Sie wollen so das wahre Evangelium von Christus umkehren und die Gemeinden in ihren Bann ziehen, damit sie in der Gemeinde und in der Gesellschaft gut angesehen werden und nicht für das Kreuz Christi verfolgt werden.
 > - Sie schleichen sich ein und überreden und verwirren mit großem Eifer, wobei sie die Wahrheit verleugnen und ihre eigenen Forderungen selbst nicht erfüllen.

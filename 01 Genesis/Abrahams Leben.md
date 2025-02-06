@@ -1,8 +1,7 @@
 # Abrahams Leben
 
-## Beobachtung
-
-> Ein Großteil der [[Genesis]] befasst sich mit dem Leben des Stammvaters der Israeliten, Abraham, dem Glaubenshelden.
+> [!hint] Beobachtung
+> Ein Großteil der Genesis befasst sich mit dem Leben des Stammvaters der Israeliten, Abraham, dem Glaubenshelden.
 
 ## Steckbrief
 

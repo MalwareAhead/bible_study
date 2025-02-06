@@ -11,12 +11,7 @@
 - "jetzt aber habt ihr Gott erkannt – vielmehr seid ihr von Gott erkannt worden. Wie wendet ihr euch wieder zu den schwachen und armseligen Elementen zurück, denen ihr wieder von Neuem dienen wollt? Ihr beobachtet Tage und Monate und bestimmte Zeiten und Jahre." (4,9-10)
 - "Ihr lieft gut. Wer hat euch gehindert, der Wahrheit zu gehorchen? Die Überredung ist nicht von dem, der euch beruft." (5,7-8)
 
-> [!example] Vorwürfe
-> - Wie konntet ihr euch so schnell abgewenden zu einem anderen (falschen) Evangelium?
-> - Ihr Unverständigen! Wer hat euch bezaubert, obwohl ihr doch Christus als Gekreuzigten kennengelernt habt?
-> - Wie wendet ihr euch wieder den armseligen Elementen der Welt zu, obwohl ihr Gott erkannt habt und von Ihm erkannt worden seid?
-> - Wer hat euch gehindert, der Wahrheit zu gehorchen?
-
-- Die Galater haben sich vom wahren, von Paulus verkündigten Evangelium abgewendet
-- Sie waren bereits auf dem richtigen Weg, haben sich aber von [[Die falschen Lehrer|falschen Leuten]] überreden lassen
-	- Sie hatten Gott und Christus, den Gekreuzigten kennengelernt, sind vielmehr von Ihm erkannt worden, wenden sich aber wieder nichtigen Dingen zu (4,9-10)
+> [!danger] Fazit
+> - Die Galater haben sich vom wahren, von Paulus verkündigten Evangelium abgewendet
+> - Sie waren bereits auf dem richtigen Weg, haben sich aber von [[Die falschen Lehrer|falschen Leuten]] überreden lassen
+> - Sie hatten Gott und Christus, den Gekreuzigten kennengelernt, sind vielmehr von Ihm erkannt worden, wenden sich aber wieder nichtigen Dingen zu (4,9-10)

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16 Nehemia/Gott ist am Werk.md",
+                "file": "48 Galaterbrief/Galaterbrief.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gott ist am Werk"
+              "title": "Galaterbrief"
             }
           }
         ]
@@ -100,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "44 Apostelgeschichte/Paulus und Jerusalem.md",
+            "file": "48 Galaterbrief/Galaterbrief.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -132,6 +132,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
       "switcher:Open quick switcher": false,
@@ -142,15 +143,22 @@
   },
   "active": "f49261f6c8ade8d7",
   "lastOpenFiles": [
+    "51 Kolosserbrief/Christus, der Kontrast.md",
+    "51 Kolosserbrief/Bedrohung durch Irrlehre.md",
+    "51 Kolosserbrief/Kolosserbrief.md",
+    "60 1 Petrusbrief/1 Petrusbrief.md",
+    "16 Nehemia/Der betende Macher.md",
     "16 Nehemia/Nehemia.md",
+    "16 Nehemia/Gott ist am Werk.md",
+    "58 Hebräerbrief/Zitate.md",
+    "58 Hebräerbrief/Hebräerbrief.md",
+    "48 Galaterbrief/Der Vater der Gläubigen.md",
+    "48 Galaterbrief/Galaterbrief.md",
     "44 Apostelgeschichte/Paulus und Jerusalem.md",
     "16 Nehemia",
     "42 Lukasevangelium/Lukasevangelium.md",
     "52 Thessalonicherbrief I/Entwicklung der Gemeinde.md",
     "52 Thessalonicherbrief I/1 Thessalonicherbrief.md",
-    "51 Kolosserbrief/Kolosserbrief.md",
-    "51 Kolosserbrief/Christus, der Kontrast.md",
-    "51 Kolosserbrief/Bedrohung durch Irrlehre.md",
     "51 Kolosserbrief/Wer ist Christus?.md",
     "26 Hesekiel/Damit ihr erkennt.md",
     "26 Hesekiel/Hesekiel.md",
@@ -164,13 +172,6 @@
     "28 Hosea/Hosea.md",
     "60 Petrusbrief I/1 Petrusbrief.md",
     "60 Petrusbrief I/Petrus.md",
-    "40 Matthäusevangelium/Gedankengebäude.md",
-    "40 Matthäusevangelium/Matthäusevangelium.md",
-    "58 Hebräerbrief/Jesus, der Hohe Priester.md",
-    "58 Hebräerbrief/Hebräerbrief.md",
-    "42 Lukasevangelium/Reaktionen auf das Reich Gottes.md",
-    "42 Lukasevangelium/Das Außergewöhnliche.md",
-    "40 Matthäusevangelium/Denkstrukturen.md",
     "Matthäusevangelium"
   ]
 }

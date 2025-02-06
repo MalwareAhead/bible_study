@@ -1,24 +1,12 @@
 # Genesis
----
+
 #at
 
-## Gliederung
+> [!summary] Gliederung
+> Die Genesis besteht aus den folgenden zwei Teilen:
+> 1. [[Die Urgeschichte]] (1-11)
+> 2. [[Die Zeit der Patriarchen]] (12-50)
+> 
+> Der erste Teil blickt auf die Geschichte aus der Vogelperspektive, während der zweite Teil sich speziell die Leben einzelner von Gott ausgewählter Menschen anschaut.
 
-1. Die Urgeschichte
-2. Die Zeit der Patriarchen
-	1. [[Abrahams Leben]]
-	2. Isaaks Leben
-	3. Jakobs Leben
-
-## Allgemeine Beobachtungen
-
-- einfach nur Beobachtungen
-
-## Forschungsgegenstände
-
-- spezifische Fragen, Thesen und Untersuchungen
-
-## Konklusion
----
-==coming soon==
 

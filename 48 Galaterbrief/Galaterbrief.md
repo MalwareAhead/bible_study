@@ -3,24 +3,24 @@
 #nt 
 
 > [!info] Die Situation bei den galatischen Gemeinden
-> Die Galater hatten von Paulus damals das wahre Evangelium gehört und die Wahrheit von Herzen erkannt, doch haben sich dann von [[Die falschen Lehrer|falschen Leuten]] verwirren und fangen lassen (1,6-10.
+> Die Galater hatten von Paulus damals das wahre Evangelium gehört und die Wahrheit von Herzen erkannt, doch haben sich dann von [[Die falschen Lehrer|falschen Leuten]] verwirren und fangen lassen (1,6-10).
 > 
-> Diese haben sie dazu überredet, sich beschneiden zu lassen (5,2) und im mosaischen Gesetz zu leben (4,21), um von Gott angenommen zu sein.
+> Diese haben sie dazu überredet, sich beschneiden zu lassen (5,2) und im mosaischen Gesetz zu leben (4,21), um wirklich von Gott angenommen zu werden.
 
 ## Gedankengang des Autors
 
 Zusammengestellt aus [[Schlüsselstellen im Galaterbrief]]
 
 1. Es gibt kein anderes Evangelium als das, was ihr schon von mir gehört habt!
-2. Das von mir gepredigte Evangelium ist unabhängig vom jüdischen Einfluss
-3. Selbst die jüdischen Apostel haben meinen Dienst bestätigt
+2. Dieses Evangelium gehört Christus und ist unabhängig von jüdischem Einfluss
+3. Selbst die jüdischen Apostel haben meinen Dienst am Evangelium bestätigt
 4. Aus Gesetzeswerken wird niemand gerechtfertigt, sondern nur durch den Glauben an Jesus
 5. Auch Abraham wurde durch Glauben gerechtfertigt; jeder Glaubende ist Abrahams Sohn
 6. Christus ist für uns zum Fluch geworden, damit wir Abrahams Segen und die Verheißung des Geistes aus Glauben empfangen
 7. Das Gesetz ist nicht gegen die Verheißung, sondern macht die Sünde sichtbar, damit die Verheißung aus Glauben kommt
-8. Jesus hat uns vom Gesetz losgekauft und zu Kindern Gottes und Seinen Erben gemacht
+8. Jesus hat uns vom Gesetz losgekauft und zu [[Der Vater der Gläubigen|Kindern Gottes]] und Seinen Erben gemacht
 9. Ich, Paulus, meine es gut mit euch, die jüdischen Irrlehrer nicht
-10. Christus hat uns frei gemacht; lasst euch nicht wieder versklaven!
+10. Christus hat uns frei gemacht; lasst euch also nicht wieder durch das Gesetz versklaven!
 11. Diese Freiheit ist nicht für das Leben im Fleisch da, sondern soll zur Liebe führen, die das Gesetz erfüllt
 12. Diejenigen, die Christus gehören, haben das Fleisch gekreuzigt. Lasst uns also dem Geist folgen!
 13. Mir geht es nur um das Kreuz Christi, den jüdischen Irrlehrern nur um sich selbst
@@ -28,13 +28,29 @@ Zusammengestellt aus [[Schlüsselstellen im Galaterbrief]]
 
 ### Gliederung für die Jugend
 
-1. Das Evangelium ist einzigartig (1,1-10)
-2. Das Evangelium ist unabhängig (1,11-24)
-3. Das Evangelium ist eine Einheit (2,1-10)
-4. 
+1. Evangelium
+	- Es gibt nur eine Gute Nachricht (1,1-10)
+	- Das Evangelium ist unabhängig (1,11-24)
+	- Das Evangelium ist anerkannt (2,1-10)
+2. Glaube
+	- Nur der Glaube macht vor Gott gerecht (2,11-21)
+	- Glaube, Gesetz und ihre Auswirkungen (3,1-14)
+3. Verheißung
+	- Es war schon immer der Glaube, der rettet (3,15-29)
+4. Sohnschaft
+	- Durch Glauben gehörst Du zu Gottes Familie (4,1-20)
+5. Freiheit
+	- Vom Unterschied zwischen Freien und Sklaven (4,21-31)
+	- Jesus schenkt wahre Freiheit durch den Glauben (5,1-12)
+6. Liebe
+	- Ein Leben im Geist zeichnet sich durch Liebe aus (5,13-6,10)
+7. Kreuz
+	- Es soll nur um das Kreuz Christi gehen (6,11-18)
 
 ## Auffälligkeiten und Fragen
 
+- Paulus stellt Gott als [[Der Vater der Gläubigen|den Vater jedes glaubenden Menschen]] vor
+	- Wir sind Kinder Gottes durch den Glauben an Christus Jesus (4,4-7)
 - Paulus wählt einen sehr harten Tonfall und redet sehr direkt
 	- [[Das Problem der Galater|Was bemängelt/verurteilt Paulus an den galatischen Gemeinden?]]
 - Manche Aussagen hören sich sarkastisch an (vgl. 5,12.15)
@@ -43,17 +59,8 @@ Zusammengestellt aus [[Schlüsselstellen im Galaterbrief]]
 - Paulus spricht seinen Werdegang und seine Beziehung zu den galatischen Gemeinden an
 	- Spricht Paulus vermehrt auf der [[Beziehungsebene zu den Galatern]], um seinen Kontrast zu den falschen jüdischen Lehrern aufzuzeigen?
 - Was erhofften sich die Galater vom Leben im Gesetz?
-
-### Schlagwörter
-
-- Evangelium
-- Erben
-- Freiheit
-- Glaube - Gesetz
-- Segen - Fluch
-- Verheißung - Werke
-- Söhne - Sklaven
-- Geist - Fleisch
+- Warum geht Paulus am Ende des Briefes so stark auf die geschwisterliche Liebe in der Gemeinde ein?
+	- Was hat das mit dem Hauptthema zutun?
 
 > [!summary] Aussage zu Inhalt und Absicht
 > Paulus schreibt and die galatischen Gemeinden:
