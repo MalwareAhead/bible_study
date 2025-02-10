@@ -13,7 +13,3 @@
 	- Die Jünger, die das hören, wollen Paulus davon abbringen, nach Jerusalem zu gehen (20,12)
 	- Paulus bleibt aber fest entschlossen und würde in Jerusalem sogar für Jesus sterben (20,13-14)
 - In Jerusalem wird Paulus freudig von den Brüdern aufgenommen (20,15-17)
-
-- Geschichte muss gelesen und analysiert
-- Verteidigung von Stephanus und Paulus
-- Welche Anklage -> Welche Verteidigung
