@@ -1,17 +1,11 @@
----
-tags:
-  - at
-  - "#erzählung"
-name: Das Erste Buch von Mose
-abkürzung: Gen
-autorenschaft:
-  - Mose
-danach kommt:
-  - "[[Hiob]]"
-  - "[[Exodus]]"
----
-
 # Genesis
+
+#at #erzählung 
+
+> [!info] Fakten
+> Namen: Das Erste Buch von Mose, 1. Mose, Genesis
+> Abkürzung: Gen
+> Autorenschaft: Mose
 
 > [!summary] Gliederung
 > Die Genesis besteht aus den folgenden zwei Teilen:
