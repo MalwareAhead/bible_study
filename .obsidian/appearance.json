@@ -4,5 +4,6 @@
   "showViewHeader": false,
   "translucency": false,
   "cssTheme": "Minimal",
-  "baseFontSize": 18
+  "baseFontSize": 18,
+  "showRibbon": false
 }
