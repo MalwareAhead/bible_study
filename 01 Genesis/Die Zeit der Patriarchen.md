@@ -9,3 +9,4 @@
 ## Beobachtungen und Fragen
 
 - [[Gott sieht und hört|Gott sieht Menschen und Gott hört Gebet]]
+- [[Der Segen wird weitergegeben|Gottes Versprechen und Sein Segen wird der nächsten Generation weitergegeben]]

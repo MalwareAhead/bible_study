@@ -7,7 +7,7 @@
 > - geboren: 292 Jahre nach der Sintflut (Er und Noah haben noch 58 Jahre zusammen gelebt)
 > - Herkunftsort: Ur, Chaldäa
 > - Nationalität: Chaldäer
-> - Alter: 175 Jahre
+> - Lebensjahre: 175 Jahre
 > - Bestattungsort: Höhle Machpela, gegenüber von Mamre, mit Sara (25,9)
 > - Beziehungen:
 > 	- Vater: Terach, Sohn des Nahor
@@ -29,3 +29,7 @@
 - [[Abrahams Lebenslauf|Sein Lebenslauf wird sehr ausführlich berichtet]]
 - [[Gottes Bund mit Abraham|Gott gibt Abraham deutliche Verheißungen und macht diese zum Teil wahr]]
 - [[Abrahams Vertrauensproben|Gott prüft Abraham, ob er Gott vertraut und Seinen Verheißungen wirklich glaubt]]
+
+## Fragen und Unklarheiten
+
+- Welchen Anordnungen, Geboten, Satzungen und Gesetzen soll Abraham gehorsam gewesen sein? (26,5)

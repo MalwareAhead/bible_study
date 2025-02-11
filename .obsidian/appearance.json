@@ -3,5 +3,6 @@
   "theme": "system",
   "showViewHeader": false,
   "translucency": false,
-  "cssTheme": ""
+  "cssTheme": "Minimal",
+  "baseFontSize": 18
 }
