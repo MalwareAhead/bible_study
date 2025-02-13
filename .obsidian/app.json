@@ -5,7 +5,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "/Anhänge",
+  "attachmentFolderPath": "Attachments",
   "showInlineTitle": false,
   "autoConvertHtml": false,
   "readableLineLength": true,
@@ -15,5 +15,6 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "showLineNumber": false
+  "showLineNumber": false,
+  "propertiesInDocument": "hidden"
 }

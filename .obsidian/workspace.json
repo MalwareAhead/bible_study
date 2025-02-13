@@ -136,20 +136,6 @@
             }
           },
           {
-            "id": "0546462cbca9e615",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
             "id": "c48048b0b79dbaa4",
             "type": "leaf",
             "state": {
@@ -160,12 +146,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,11 +167,11 @@
   "active": "7a325f6248bfe551",
   "lastOpenFiles": [
     "01 Genesis/Isaak.md",
-    "01 Genesis/Abrahams Lebenslauf.md",
-    "01 Genesis/Isaaks Lebenslauf.md",
-    "01 Genesis/Abraham.md",
-    "01 Genesis/Genesis.md",
     "01 Genesis/Die Zeit der Patriarchen.md",
+    "01 Genesis/Genesis.md",
+    "01 Genesis/Isaaks Lebenslauf.md",
+    "01 Genesis/Abrahams Lebenslauf.md",
+    "01 Genesis/Abraham.md",
     "01 Genesis/Die Urgeschichte.md",
     "44 Apostelgeschichte/Paulus und Jerusalem.md",
     "44 Apostelgeschichte/Apostelgeschichte.md",
