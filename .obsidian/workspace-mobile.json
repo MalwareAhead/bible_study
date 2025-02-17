@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "48 Galaterbrief/Galaterbrief.md",
+                "file": "01 Genesis/Isaaks Lebenslauf.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Galaterbrief"
+              "title": "Isaaks Lebenslauf"
             }
           }
         ]
@@ -37,7 +37,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime"
+            "sortOrder": "byModifiedTime",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -83,8 +84,8 @@
             "showSearch": false,
             "searchQuery": ""
           },
-          "icon": "lucide-archive",
-          "title": "All properties"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       }
     ],
@@ -137,12 +138,18 @@
       "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false
     }
   },
   "active": "f49261f6c8ade8d7",
   "lastOpenFiles": [
+    "01 Genesis/Isaak.md",
+    "01 Genesis/Die Zeit der Patriarchen.md",
+    "01 Genesis/Genesis.md",
+    "01 Genesis/Die Urgeschichte.md",
+    "01 Genesis/Der Große Neustart.md",
+    "01 Genesis/Abraham.md",
+    "48 Galaterbrief/Galaterbrief.md",
     "51 Kolosserbrief/Christus, der Kontrast.md",
     "51 Kolosserbrief/Bedrohung durch Irrlehre.md",
     "51 Kolosserbrief/Kolosserbrief.md",
@@ -153,7 +160,6 @@
     "58 Hebräerbrief/Zitate.md",
     "58 Hebräerbrief/Hebräerbrief.md",
     "48 Galaterbrief/Der Vater der Gläubigen.md",
-    "48 Galaterbrief/Galaterbrief.md",
     "44 Apostelgeschichte/Paulus und Jerusalem.md",
     "16 Nehemia",
     "42 Lukasevangelium/Lukasevangelium.md",
@@ -166,12 +172,6 @@
     "24 Jeremia/Jeremia.md",
     "Anhänge/Recording 20240903073752.m4a",
     "Anhänge/Recording 20240903073848.m4a",
-    "50 Philipperbrief/Freude.md",
-    "05 Deuteronomium/Der furchtgebietende Gott.md",
-    "28 Hosea/Die Zeit Hoseas.md",
-    "28 Hosea/Hosea.md",
-    "60 Petrusbrief I/1 Petrusbrief.md",
-    "60 Petrusbrief I/Petrus.md",
     "Matthäusevangelium"
   ]
 }

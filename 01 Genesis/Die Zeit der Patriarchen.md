@@ -10,3 +10,4 @@
 
 - [[Gott sieht und hört|Gott sieht Menschen und Gott hört Gebet]]
 - [[Der Segen wird weitergegeben|Gottes Versprechen und Sein Segen wird der nächsten Generation weitergegeben]]
+- [[Altäre der Patriarchen|Die Patriarchen bauen mehrmals Altäre für ihren Gott]]

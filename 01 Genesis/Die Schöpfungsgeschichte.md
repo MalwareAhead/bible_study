@@ -3,7 +3,9 @@
 > [!question] Gottes Motivation
 > Warum schafft Gott die materielle Welt? Welches Ziel verfolgt Er mit Seiner Schöpfung?
 
-## Was tut Gott bei der Erschaffung der Welt?
+## Beobachtungen und Fragen
 
-- Gott schafft eine öde Welt (1,1-2)
-- 
+- [[Der kreative Gott|Gott hat eine große und vielfältige Schöpfung im Sinn]]
+	- Pflanzen und Tiere "nach ihrer Art"
+	- Zerstreuung über die ganze Erde
+	- verschiedene Völker und Sprachen
