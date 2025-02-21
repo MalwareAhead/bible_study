@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Genesis/Isaaks Lebenslauf.md",
+                "file": "01 Genesis/Genesis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Isaaks Lebenslauf"
+              "title": "Genesis"
             }
           }
         ]
@@ -101,7 +101,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "48 Galaterbrief/Galaterbrief.md",
+            "file": "01 Genesis/Genesis.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,12 +143,16 @@
   },
   "active": "f49261f6c8ade8d7",
   "lastOpenFiles": [
-    "01 Genesis/Isaak.md",
-    "01 Genesis/Die Zeit der Patriarchen.md",
-    "01 Genesis/Genesis.md",
     "01 Genesis/Die Urgeschichte.md",
+    "01 Genesis/Die Schöpfungsgeschichte.md",
+    "01 Genesis/Der Sündenfall und seine Folgen.md",
     "01 Genesis/Der Große Neustart.md",
+    "01 Genesis/Genesis.md",
     "01 Genesis/Abraham.md",
+    "01 Genesis/Die Zeit der Patriarchen.md",
+    "01 Genesis/Abrahams Lebenslauf.md",
+    "01 Genesis/Isaaks Lebenslauf.md",
+    "01 Genesis/Isaak.md",
     "48 Galaterbrief/Galaterbrief.md",
     "51 Kolosserbrief/Christus, der Kontrast.md",
     "51 Kolosserbrief/Bedrohung durch Irrlehre.md",
@@ -166,10 +170,6 @@
     "52 Thessalonicherbrief I/Entwicklung der Gemeinde.md",
     "52 Thessalonicherbrief I/1 Thessalonicherbrief.md",
     "51 Kolosserbrief/Wer ist Christus?.md",
-    "26 Hesekiel/Damit ihr erkennt.md",
-    "26 Hesekiel/Hesekiel.md",
-    "50 Philipperbrief/Paulus Gebet für die Philipper.md",
-    "24 Jeremia/Jeremia.md",
     "Anhänge/Recording 20240903073752.m4a",
     "Anhänge/Recording 20240903073848.m4a",
     "Matthäusevangelium"

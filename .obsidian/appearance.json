@@ -5,5 +5,8 @@
   "translucency": false,
   "cssTheme": "Minimal",
   "baseFontSize": 18,
-  "showRibbon": false
+  "showRibbon": false,
+  "enabledCssSnippets": [
+    "callouts"
+  ]
 }
