@@ -2,3 +2,33 @@
     text-align: justify;
     padding-right: 10px;
 }
+
+.callout[data-callout="idea"] {
+    --callout-color: 255, 212, 73;
+    --callout-icon: lightbulb;
+}
+
+.callout[data-callout="time"] {
+    --callout-color: 0, 223, 223;
+    --callout-icon: clock;
+}
+
+.callout[data-callout="find"] {
+    --callout-color: 0, 223, 223;
+    --callout-icon: magnifying-glass;
+}
+
+.callout[data-callout="love"] {
+    --callout-color: 223, 0, 0;
+    --callout-icon: heart;
+}
+
+.callout[data-callout="good"] {
+    --callout-color: 255, 212, 73;
+    --callout-icon: sparkles;
+}
+
+.callout[data-callout="grow"] {
+    --callout-color: 0, 223, 57;
+    --callout-icon: leaf;
+}

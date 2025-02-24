@@ -5,7 +5,35 @@
 
 ## Erzählungen von Gericht und Gnade
 
-- Adam und Eva sündigen, Gott verflucht und verbannt sie, gibt aber Gnade
-- Kain mordet, wird verflucht und verbannt, bekommt aber ein gnädiges Zeichen
-- Die ersten Menschen handeln böse, Gott schickt die Sintflut, aber gibt Noah Gnade
-- Die Menschen handeln stolz und ungehorsam in Babel, Gott verwirrt die Sprache und erschafft dadurch viele Völker
+### Adam und Eva sündigen
+
+> [!danger] Fluch und Verbannung
+> - Schwangerschaft wird schmerzhaft und schwer für die Frau (3,16)
+> - Der Mann wird die Frau beherrschen (3,16)
+> - Die Arbeit des Menschen wird mühselig (3,17-19)
+> - Der Mensch wird sterben (3,19)
+> - Adam und Eva werden aus Eden verbannt (3,23-24)
+
+> [!good] Zukunft
+> - Der Nachkomme der Frau wird die Schlange töten (3,15)
+> - Gott bekleidet Adam und Eva, die nackt waren (3,21)
+> - Gott lässt den Menschen nicht sofort sterben (3,22-24)
+> - Eva gebiert durch Gottes Hilfe Kain und Abel (4,1-2)
+
+### Kain ermordet seinen Bruder Abel
+
+> [!danger] Fluch und Verbannung
+
+> [!good] Ein gnädiges Zeichen
+
+### Die ersten Menschen sind sehr böse
+
+> [!danger] Die Sintflut
+
+> [!good] Die Arche
+
+### Die Menschen handeln stolz und ungehorsam in Babel
+
+> [!danger] Sprachenverwirrung
+
+> [!good] Ausbreitung der Völker

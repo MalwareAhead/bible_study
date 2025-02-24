@@ -26,5 +26,24 @@
 
 > [!example] Anwendung
 
+> [!idea] Idee
 
+> [!time] Historie
 
+> [!find] Beobachtung
+
+> [!love] Liebe
+
+> [!good] Gutes
+
+> [!grow] Wachstum
+
+## Tbd.
+
+- rocket-launch
+- gift
+- droplet
+- key
+- flask
+- seedling
+- mountain
