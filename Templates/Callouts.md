@@ -1,42 +1,42 @@
 # Callouts
 
-> [!todo] These
+> [!todo] todo
 
-> [!question] Fragestellung
+> [!question] question, faq
 
-> [!hint] Beobachtung
+> [!hint] hint, tip
 
-> [!info] Fakt
+> [!info] info
 
-> [!note] Notiz
+> [!note] note
 
-> [!summary] Zusammenfassung
+> [!summary] summary, abstract
 
-> [!success] Verifiziert
+> [!success] success, ok
 
-> [!warning] Warnung
+> [!warning] warning
 
-> [!failure] Falsifiziert
+> [!failure] failure, fail
 
-> [!danger] Gefahr
+> [!danger] danger
 
-> [!bug] Fehler
+> [!bug] bug
 
-> [!quote] Zitat
+> [!quote] quote, cite
 
-> [!example] Anwendung
+> [!example] example
 
-> [!idea] Idee
+> [!idea] idea
 
-> [!time] Historie
+> [!time] time
 
-> [!find] Beobachtung
+> [!search] search
 
-> [!love] Liebe
+> [!heart] heart
 
-> [!good] Gutes
+> [!blessing] blessing
 
-> [!grow] Wachstum
+> [!prophecy] prophecy
 
 ## Tbd.
 

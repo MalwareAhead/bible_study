@@ -14,7 +14,7 @@
 > - Der Mensch wird sterben (3,19)
 > - Adam und Eva werden aus Eden verbannt (3,23-24)
 
-> [!good] Zukunft
+> [!blessing] Zukunft
 > - Der Nachkomme der Frau wird die Schlange töten (3,15)
 > - Gott bekleidet Adam und Eva, die nackt waren (3,21)
 > - Gott lässt den Menschen nicht sofort sterben (3,22-24)
@@ -23,17 +23,21 @@
 ### Kain ermordet seinen Bruder Abel
 
 > [!danger] Fluch und Verbannung
+> - Der Ackerboden verweigert Kain seine Frucht (4,11-12)
+> - Er muss flüchtig auf der Erde sein (4,12)
 
-> [!good] Ein gnädiges Zeichen
+> [!blessing] Ein gnädiges Zeichen
+> - Gott macht ein Zeichen an Kain, damit niemand Rache an ihm übt (4,15)
+> - Gott schenkt Kain Zeit und Nachkommen (4,16-17)
 
 ### Die ersten Menschen sind sehr böse
 
 > [!danger] Die Sintflut
 
-> [!good] Die Arche
+> [!blessing] Die Arche
 
 ### Die Menschen handeln stolz und ungehorsam in Babel
 
 > [!danger] Sprachenverwirrung
 
-> [!good] Ausbreitung der Völker
+> [!blessing] Ausbreitung der Völker

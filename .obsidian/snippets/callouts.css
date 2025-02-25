@@ -3,32 +3,133 @@
     padding-right: 10px;
 }
 
+/* Default Obsidian callouts */
+.callout[data-callout="note"] {
+  --callout-color: 67, 138, 204;  /* #438ACC - Steel Blue */
+  --callout-icon: pencil;
+}
+
+.callout[data-callout="abstract"],
+.callout[data-callout="summary"],
+.callout[data-callout="tldr"] {
+  --callout-color: 86, 156, 214;  /* #569CD6 - Cornflower Blue */
+  --callout-icon: clipboard;
+}
+
+.callout[data-callout="info"] {
+  --callout-color: 32, 163, 158;  /* #20A39E - Persian Green */
+  --callout-icon: info;
+}
+
+.callout[data-callout="todo"] {
+  --callout-color: 16, 172, 132;  /* #10AC84 - Mountain Meadow */
+  --callout-icon: check-square;
+}
+
+.callout[data-callout="tip"],
+.callout[data-callout="hint"],
+.callout[data-callout="important"] {
+  --callout-color: 180, 142, 68;  /* #B48E44 - Metallic Gold */
+  --callout-icon: flame;
+}
+
+.callout[data-callout="success"],
+.callout[data-callout="check"],
+.callout[data-callout="done"] {
+  --callout-color: 16, 185, 129;  /* #10B981 - Emerald */
+  --callout-icon: check;
+}
+
+.callout[data-callout="question"],
+.callout[data-callout="help"],
+.callout[data-callout="faq"] {
+  --callout-color: 130, 95, 184;  /* #825FB8 - Medium Purple */
+  --callout-icon: help-circle;
+}
+
+.callout[data-callout="warning"],
+.callout[data-callout="caution"],
+.callout[data-callout="attention"] {
+  --callout-color: 180, 120, 55;  /* #B47837 - Bronze */
+  --callout-icon: alert-triangle;
+}
+
+.callout[data-callout="failure"],
+.callout[data-callout="fail"],
+.callout[data-callout="missing"] {
+  --callout-color: 185, 80, 80;  /* #B95050 - Indian Red */
+  --callout-icon: x;
+}
+
+.callout[data-callout="danger"],
+.callout[data-callout="error"] {
+  --callout-color: 176, 62, 62;  /* #B03E3E - Burnt Sienna */
+  --callout-icon: zap;
+}
+
+.callout[data-callout="bug"] {
+  --callout-color: 179, 78, 98;  /* #B34E62 - Blush */
+  --callout-icon: bug;
+}
+
+.callout[data-callout="example"] {
+  --callout-color: 150, 130, 160;  /* #9682A0 - Wisteria */
+  --callout-icon: list;
+}
+
+.callout[data-callout="quote"],
+.callout[data-callout="cite"] {
+  --callout-color: 80, 140, 180;  /* #508CB4 - Steel Blue */
+  --callout-icon: quote;
+}
+
+/* Your custom callouts */
 .callout[data-callout="idea"] {
-    --callout-color: 255, 212, 73;
-    --callout-icon: lightbulb;
+  --callout-color: 180, 142, 68;  /* #B48E44 - Metallic Gold */
+  --callout-icon: lightbulb;
 }
 
 .callout[data-callout="time"] {
-    --callout-color: 0, 223, 223;
-    --callout-icon: clock;
+  --callout-color: 67, 153, 168;  /* #4399A8 - Steel Teal */
+  --callout-icon: clock;
 }
 
-.callout[data-callout="find"] {
-    --callout-color: 0, 223, 223;
-    --callout-icon: magnifying-glass;
+.callout[data-callout="search"] {
+  --callout-color: 67, 153, 168;  /* #4399A8 - Steel Teal */
+  --callout-icon: magnifying-glass;
 }
 
-.callout[data-callout="love"] {
-    --callout-color: 223, 0, 0;
-    --callout-icon: heart;
+.callout[data-callout="heart"] {
+  --callout-color: 176, 95, 95;  /* #B05F5F - Dark Coral */
+  --callout-icon: heart;
 }
 
-.callout[data-callout="good"] {
-    --callout-color: 255, 212, 73;
-    --callout-icon: sparkles;
+.callout[data-callout="blessing"] {
+  --callout-color: 180, 142, 68;  /* #B48E44 - Metallic Gold */
+  --callout-icon: sparkles;
 }
 
-.callout[data-callout="grow"] {
-    --callout-color: 0, 223, 57;
-    --callout-icon: leaf;
+.callout[data-callout="prophecy"] {
+  --callout-color: 130, 120, 170;  /* #8278AA - Lavender */
+  --callout-icon: eye;
+}
+
+/* Optional: Enhanced styling for all callouts */
+.callout {
+  transition: all 0.2s ease;
+  border-left-width: 4px;
+  background-color: rgba(var(--callout-color), 0.15);
+}
+
+.callout:hover {
+  background-color: rgba(var(--callout-color), 0.22);
+}
+
+.callout-title {
+  color: rgb(var(--callout-color));
+  font-weight: 600;
+}
+
+.callout-icon {
+  color: rgb(var(--callout-color));
 }
