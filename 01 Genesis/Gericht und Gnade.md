@@ -1,6 +1,6 @@
 # Gottes Reaktion auf die Sünde des Menschen
 
-> [!hint] Gerechtigkeit und Gnade
+> [!search] Gerechtigkeit und Gnade
 > Die Menschen sind böse und handeln böse und vermessen. Gott übt daraufhin Gericht, doch er gibt auch immer Gnade in irgendeiner Form dazu.
 
 ## Erzählungen von Gericht und Gnade
@@ -33,8 +33,10 @@
 ### Die ersten Menschen sind sehr böse
 
 > [!danger] Die Sintflut
+> - Gott möchte die böse Welt vernichten, die Menschen und Tiere (6,5-7)
 
 > [!blessing] Die Arche
+> - Noah findet Gnade in Gottes Augen (6,8)
 
 ### Die Menschen handeln stolz und ungehorsam in Babel
 
