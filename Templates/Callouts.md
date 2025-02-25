@@ -38,6 +38,18 @@
 
 > [!prophecy] prophecy
 
+> [!scripture] scripture
+
+> [!doctrine] doctrine
+
+> [!prayer] prayer
+
+> [!sermon] sermon
+
+> [!commentary] commentary
+
+> [!faith] faith
+
 ## Tbd.
 
 - rocket-launch

@@ -114,6 +114,36 @@
   --callout-icon: eye;
 }
 
+.callout[data-callout="scripture"] {
+  --callout-color: 160, 130, 95;  /* #A0825F - Tan */
+  --callout-icon: book-open;
+}
+
+.callout[data-callout="prayer"] {
+  --callout-color: 120, 140, 180;  /* #788CB4 - Periwinkle */
+  --callout-icon: paper-plane;
+}
+
+.callout[data-callout="sermon"] {
+  --callout-color: 160, 115, 85;  /* #A07355 - Copper */
+  --callout-icon: message-square;
+}
+
+.callout[data-callout="commentary"] {
+  --callout-color: 110, 120, 140;  /* #6E788C - Slate */
+  --callout-icon: message-circle;
+}
+
+.callout[data-callout="doctrine"] {
+  --callout-color: 150, 100, 100;  /* #966464 - Cinnamon */
+  --callout-icon: book;
+}
+
+.callout[data-callout="faith"] {
+  --callout-color: 120, 160, 180;  /* #78A0B4 - Air Force Blue */
+  --callout-icon: shield;
+}
+
 /* Optional: Enhanced styling for all callouts */
 .callout {
   transition: all 0.2s ease;
