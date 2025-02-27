@@ -16,7 +16,7 @@
 
 > [!blessing] Zukunft
 > - Der Nachkomme der Frau wird die Schlange töten (3,15)
-> - Gott bekleidet Adam und Eva, die nackt waren (3,21)
+> - Gott bekleidet Adam und Eva, die sich ihrer Nackheit schämen (3,21)
 > - Gott lässt den Menschen nicht sofort sterben (3,22-24)
 > - Eva gebiert durch Gottes Hilfe Kain und Abel (4,1-2)
 
@@ -39,9 +39,22 @@
 > - Noah findet Gnade in Gottes Augen (6,8)
 > - Gott rettet Noah und seine Familie durch ein Schiff (6,14-18)
 > - Gott rettet auch einen kleinen Teil der Tierwelt (6,19-20)
+> - Gott verspricht der Menschheit und Tierwelt Stabilität in der Natur (8,21-22; 9,8-11)
+> - Gott versiegelt sein Versprechen mit dem Regenbogen als Bundeszeichen (9,12-17)
+> - Gott segnet Noah und seine Söhne, damit sie die Erde wiederbevölkern (9,1)
+> - Gott gibt den Menschen auch alle Tiere zur Nahrung, wie die Pflanzen (9,2-3)
 
 ### Die Menschen handeln stolz und ungehorsam in Babel
 
 > [!danger] Sprachenverwirrung
+> - Gott lässt die Menschen sich sprachlich nicht mehr verstehen (11,7)
 
 > [!blessing] Ausbreitung der Völker
+> - Gott tötet die Menschen nicht, sondern lässt sie sich auf der Erde verteilen (11,8-9)
+
+## Fazit
+
+> [!summary] Gericht und Gnade im Zusammenspiel
+> Gott reagiert auf die Sünde des Menschen nicht mit Ignoranz, sondern Er greift aktiv durch. Sein Gericht besteht u. a. aus Verfluchung, Verbannung, Naturkatastrophen und Verwirrung. Sein Gericht spricht Er über einzelne Menschen und auch über die ganze Menschheit.
+> 
+> Gleichzeitig gibt Gott der Menschheit auch immer Gnade und setzt Seine Gerechtigkeit nicht vollends durch. Er macht Versprechungen zugunsten der Menschheit und schenkt ihnen trotz ihrer Sündhaftigkeit und Rebellion eine Zukunft. Außerdem versorgt Gott die Menschen mit lebenswichtigen Dingen und mit Seinem Segen.

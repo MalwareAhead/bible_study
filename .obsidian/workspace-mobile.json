@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Genesis/Genesis.md",
+                "file": "42 Lukasevangelium/Lukasevangelium.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Genesis"
+              "title": "Lukasevangelium"
             }
           }
         ]
@@ -143,11 +143,12 @@
   },
   "active": "f49261f6c8ade8d7",
   "lastOpenFiles": [
-    "01 Genesis/Die Urgeschichte.md",
+    "01 Genesis/Gericht und Gnade.md",
     "01 Genesis/Die Schöpfungsgeschichte.md",
+    "01 Genesis/Die Urgeschichte.md",
+    "01 Genesis/Genesis.md",
     "01 Genesis/Der Sündenfall und seine Folgen.md",
     "01 Genesis/Der Große Neustart.md",
-    "01 Genesis/Genesis.md",
     "01 Genesis/Abraham.md",
     "01 Genesis/Die Zeit der Patriarchen.md",
     "01 Genesis/Abrahams Lebenslauf.md",
@@ -169,7 +170,6 @@
     "42 Lukasevangelium/Lukasevangelium.md",
     "52 Thessalonicherbrief I/Entwicklung der Gemeinde.md",
     "52 Thessalonicherbrief I/1 Thessalonicherbrief.md",
-    "51 Kolosserbrief/Wer ist Christus?.md",
     "Anhänge/Recording 20240903073752.m4a",
     "Anhänge/Recording 20240903073848.m4a",
     "Matthäusevangelium"
