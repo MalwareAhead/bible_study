@@ -58,3 +58,6 @@
 > Gott reagiert auf die Sünde des Menschen nicht mit Ignoranz, sondern Er greift aktiv durch. Sein Gericht besteht u. a. aus Verfluchung, Verbannung, Naturkatastrophen und Verwirrung. Sein Gericht spricht Er über einzelne Menschen und auch über die ganze Menschheit.
 > 
 > Gleichzeitig gibt Gott der Menschheit auch immer Gnade und setzt Seine Gerechtigkeit nicht vollends durch. Er macht Versprechungen zugunsten der Menschheit und schenkt ihnen trotz ihrer Sündhaftigkeit und Rebellion eine Zukunft. Außerdem versorgt Gott die Menschen mit lebenswichtigen Dingen und mit Seinem Segen.
+> 
+> Dieses Handeln Gottes sagt viel über Sein Wesen aus: Gott ist gerecht und kann bei Sünde nicht untätig bleiben oder darüber hinwegsehen, sondern führt Seine Gerechtigkeit aus.
+> Gleichzeitig ist Er sehr gnädig mit den Menschen, die eigentlich Seinen vollkommenen Zorn verdient haben. Dennoch gibt Er ihnen eine Zukunft und versorgt sie auch mit den notwendigen Dingen.
