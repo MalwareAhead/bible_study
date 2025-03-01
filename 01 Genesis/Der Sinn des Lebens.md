@@ -12,5 +12,8 @@
 - Der Mensch soll über die gesamte Tierwelt herrschen (1,26.28)
 - Der Mensch soll sich auf der Erde vermehren und die Erde füllen (1,28)
 - Der Mensch soll sich die Erde untertan machen[^1] (1,28)
+- Der Mensch soll Landwirtschaft betreiben (2,5)
+- Der Mensch soll die Schöpfung bearbeiten und bewahren[^2] (2,15)
 
-[^1]: im Sinne von "unterwerfen, unterjochen"
+[^1]: im Sinne von "unterwerfen, unterjochen, unter sich stellen"
+[^2]: im Sinne von "in einem gewissen Zustand erhalten"
