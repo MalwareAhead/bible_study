@@ -1,22 +1,4 @@
 {
-  "table-editor-obsidian:table-control-bar": [],
-  "workspace:close-window": [],
-  "workspace:export-pdf": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "E"
-    }
-  ],
-  "editor:fold-all": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
   "workspace:previous-tab": [
     {
       "modifiers": [
@@ -33,24 +15,6 @@
       "key": "ArrowRight"
     }
   ],
-  "editor:toggle-bullet-list": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "8"
-    }
-  ],
-  "editor:toggle-highlight": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "U"
-    }
-  ],
-  "markdown:toggle-preview": [],
   "workspace:undo-close-pane": [
     {
       "modifiers": [
@@ -58,14 +22,6 @@
         "Shift"
       ],
       "key": "T"
-    }
-  ],
-  "editor:unfold-all": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowDown"
     }
   ],
   "window:zoom-in": [
@@ -84,59 +40,65 @@
       "key": "-"
     }
   ],
-  "table-editor-obsidian:center-align-column": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "C"
-    }
-  ],
-  "table-editor-obsidian:format-table": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "V"
-    }
-  ],
-  "editor:toggle-code": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "K"
-    }
-  ],
   "editor:insert-link": [],
-  "table-editor-obsidian:insert-row": [
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+  "workspace:goto-tab-7": [],
+  "workspace:goto-tab-8": [],
+  "file-explorer:new-file": [],
+  "file-explorer:new-file-in-new-pane": [
     {
       "modifiers": [
-        "Alt",
         "Mod"
       ],
-      "key": "A"
+      "key": "N"
     }
   ],
-  "app:toggle-left-sidebar": [
+  "markdown:add-metadata-property": [],
+  "table-editor-obsidian:table-control-bar": [],
+  "editor:delete-paragraph": [],
+  "editor:follow-link": [],
+  "editor:save-file": [],
+  "obsidian-git:push": [
     {
       "modifiers": [
-        "Alt",
         "Mod"
       ],
       "key": "S"
     }
   ],
-  "obsidian-git:push": [
+  "workspace:new-tab": [],
+  "editor:open-link-in-new-split": [
     {
       "modifiers": [
-        "Alt",
-        "Shift"
+        "Mod"
       ],
-      "key": "G"
+      "key": "Enter"
     }
   ],
-  "editor:delete-paragraph": []
+  "editor:open-link-in-new-window": [],
+  "editor:open-link-in-new-leaf": [],
+  "workspace:edit-file-title": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "editor:toggle-comments": [],
+  "app:open-help": [],
+  "workspace:goto-last-tab": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "S"
+    }
+  ]
 }

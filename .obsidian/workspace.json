@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -157,13 +158,13 @@
   },
   "active": "9c8f0621eebe739f",
   "lastOpenFiles": [
-    "01 Genesis/Die Schöpfungsgeschichte.md",
     "01 Genesis/Genesis.md",
+    "01 Genesis/Der Sinn des Lebens.md",
+    "01 Genesis/Abrahams Lebenslauf.md",
+    "01 Genesis/Die Schöpfungsgeschichte.md",
     "01 Genesis/Gericht und Gnade.md",
     "01 Genesis/Die Urgeschichte.md",
     "Templates/Callouts.md",
-    "01 Genesis/Der Sinn des Lebens.md",
-    "01 Genesis/Abrahams Lebenslauf.md",
     "01 Genesis/Der Sündenfall und seine Folgen.md",
     "01 Genesis/Der Große Neustart.md",
     "01 Genesis/Abraham.md",

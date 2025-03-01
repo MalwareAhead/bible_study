@@ -13,7 +13,7 @@
   "note-composer": false,
   "command-palette": true,
   "slash-command": false,
-  "editor-status": false,
+  "editor-status": true,
   "bookmarks": false,
   "markdown-importer": false,
   "zk-prefixer": false,
