@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Genesis/Der Sinn des Lebens.md",
+                "file": "01 Genesis/Der Segen wird weitergegeben.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Der Sinn des Lebens"
+              "title": "Der Segen wird weitergegeben"
             }
           }
         ]
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -158,6 +157,9 @@
   },
   "active": "9c8f0621eebe739f",
   "lastOpenFiles": [
+    "01 Genesis/Die Zeit der Patriarchen.md",
+    "01 Genesis/Der Segen wird weitergegeben.md",
+    "01 Genesis/Gottes Absichten mit den Patriarchen.md",
     "01 Genesis/Genesis.md",
     "01 Genesis/Der Sinn des Lebens.md",
     "01 Genesis/Abrahams Lebenslauf.md",
@@ -170,7 +172,6 @@
     "01 Genesis/Abraham.md",
     "01 Genesis/Isaak.md",
     "01 Genesis/Isaaks Lebenslauf.md",
-    "01 Genesis/Die Zeit der Patriarchen.md",
     "44 Apostelgeschichte/Paulus und Jerusalem.md",
     "44 Apostelgeschichte/Apostelgeschichte.md",
     "58 Hebräerbrief/Hebräerbrief.md",
@@ -182,8 +183,6 @@
     "60 1 Petrusbrief/1 Petrusbrief.md",
     "51 Kolosserbrief/Wer ist Christus?.md",
     "51 Kolosserbrief/Christus, der Kontrast.md",
-    "51 Kolosserbrief/Kolosserbrief.md",
-    "50 Philipperbrief/Philipperbrief.md",
     "48 Galaterbrief",
     "16 Nehemia",
     "44 Apostelgeschichte",
