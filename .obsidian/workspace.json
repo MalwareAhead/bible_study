@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Genesis/Die Urgeschichte.md",
+                "file": "01 Genesis/Der Segen wird weitergegeben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Die Urgeschichte"
+              "title": "Backlinks for Der Segen wird weitergegeben"
             }
           },
           {
@@ -155,7 +155,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99cd82f0dbe37e49",
+  "active": "9c8f0621eebe739f",
   "lastOpenFiles": [
     "01 Genesis/Die Zeit der Patriarchen.md",
     "01 Genesis/Der Segen wird weitergegeben.md",
