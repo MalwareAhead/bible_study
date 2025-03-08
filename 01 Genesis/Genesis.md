@@ -3,7 +3,7 @@ zuletzt studiert: Feb 2025
 ---
 # Genesis
 
-#at #erzählung 
+#at #erzählung
 
 > [!info] Fakten
 > Namen: Das Erste Buch von Mose, 1. Mose, Genesis
