@@ -83,6 +83,11 @@
   --callout-icon: quote;
 }
 
+.callout[data-callout="goal"] {
+  --callout-color: 80, 140, 180;  /* #508CB4 - Steel Blue */
+  --callout-icon: target;
+}
+
 /* Your custom callouts */
 .callout[data-callout="idea"] {
   --callout-color: 180, 142, 68;  /* #B48E44 - Metallic Gold */

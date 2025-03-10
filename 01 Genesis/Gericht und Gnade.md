@@ -61,3 +61,10 @@
 > 
 > Dieses Handeln Gottes sagt viel über Sein Wesen aus: Gott ist gerecht und kann bei Sünde nicht untätig bleiben oder darüber hinwegsehen, sondern führt Seine Gerechtigkeit aus.
 > Gleichzeitig ist Er sehr gnädig mit den Menschen, die eigentlich Seinen vollkommenen Zorn verdient haben. Dennoch gibt Er ihnen eine Zukunft und versorgt sie auch mit den notwendigen Dingen.
+
+> [!goal] Goal
+
+
+
+
+
