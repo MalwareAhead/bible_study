@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Predigtvorbereitung.md",
+                "file": "48 Galaterbrief/Galaterbrief.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Predigtvorbereitung"
+              "title": "Galaterbrief"
             }
           }
         ]
@@ -155,10 +155,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99cd82f0dbe37e49",
+  "active": "7b2d8ce6933cfc81",
   "lastOpenFiles": [
-    "48 Galaterbrief/Galaterbrief.md",
     "Templates/Predigtvorbereitung.md",
+    "48 Galaterbrief/Galaterbrief.md",
     "01 Genesis/Genesis.md",
     "01 Genesis/Gericht und Gnade.md",
     "01 Genesis/Der Segen wird weitergegeben.md",
