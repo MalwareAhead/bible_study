@@ -1,9 +1,11 @@
 
 # Predigtthema:
 
-> [!cite] Bibeltext
+#predigt 
 
-> [!hint] Kernaussage
+> [!scripture] Bibeltext
+
+> [!idea] Proposition
 
 ## Gliederung
 
