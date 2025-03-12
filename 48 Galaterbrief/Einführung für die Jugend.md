@@ -38,3 +38,5 @@
 ## Ausführungen
 
 - Wir haben zwar nicht mehr das mosaische Gesetz samt Beschneidung, etc., aber
+	- immer noch Tendenzen zur Gesetzlichkeit (durch fehlendes Verständnis vom Kreuz)
+	- immer noch Tendenzen zum Liberalismus (durch falsches Verständnis vom Kreuz)
