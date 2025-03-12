@@ -26,4 +26,15 @@
 
 ## Anwendung
 
+- für diejenigen, die sich für gute Menschen halten
+	- Was sie tun, wird ihnen nicht helfen in ihrer Stellung vor Gott
+- für laue Christen
+	- Sie sollen zurückkehren zum Evangelium, zu den Basics
+	- Zuerst die Glaube, dann die Werke der Liebe
+- für echte, lebendige Christen
+	- Sie sollen sich die Schönheit des Evangeliums bewusst machen
+	- Sie sollen Ruhe finden in ihrem Stand vor Gott durch Christus
+
 ## Ausführungen
+
+- Wir haben zwar nicht mehr das mosaische Gesetz samt Beschneidung, etc., aber
