@@ -15,7 +15,7 @@
 
 ## Gliederung
 
-1. Basisinformationen zum Galaterbrief
+1. Situation der Galater
 2. Proposition
 3. Hauptpunkte
 	1. Evangelium
