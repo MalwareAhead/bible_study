@@ -25,7 +25,7 @@
 - Sie sind hartnäckig und stecken viel Energie in ihre Taten (2,5; 4,17)
 - Sie sind gut im Überreden, Verwirren und Beunruhigen (3,1; 5,10.12)
 - Sie gehören eindeutig nicht zu Gott und Gottes Wahrheit (5,7-9)
-- Sie halten sich selbst nicht an das Gesetz, dass sie den Gläubigen aufzwingen (6,13)
+- Sie halten sich selbst nicht an das Gesetz, das sie den Gläubigen aufzwingen (6,13)
 
 > [!bug] Fazit: Die falschen Brüder
 > - Die falschen Brüder lehren, dass das äußere Halten des mosaischen Gesetzes rechtfertigt und für das Erbschaft in Gottes Reich qualifiziert.
