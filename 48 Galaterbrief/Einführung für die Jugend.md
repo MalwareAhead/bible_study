@@ -8,7 +8,20 @@
 
 ## Gliederung
 
-## 1. [[Das Problem der Galater|Die Situation der galatischen Gemeinden]]
+## 1. Einführung
+
+- Situation der galatischen Gemeinden
+	- Die Gemeinden bestehen überwiegend aus Heiden, also Nicht-Juden
+	- Jetzt kommen [[Die falschen Lehrer]] und erzählen den Christen dort etwas neues
+	- Die große Frage: "Wie werde ich gerecht vor Gott?"
+		- Die Wahrheit ist, dass alle Menschen seit ihrer Geburt unter dem Zorn Gottes stehen
+		- Wie können wir also diesen Zorn Gottes abwenden, um nicht auf ewig bestraft zu werden
+	- Um wirklich zu Gottes Gemeinde dazuzugehören und vor Gott gerecht zu stehen, müssen die Christen
+		1.  sich beschneiden lassen
+		2. das mosaische Gesetz halten (insbesondere Festtage)
+	- Nun schreibt Paulus diesen Brief an die Gemeinde
+		- Seine Motivation wird durch den ganzen Brief sichtbar: *[[Das Problem der Galater|Vorwürfe vorlesen]]*
+		- Daher lautet seine Botschaft an die Galater:
 
 > [!hint] Proposition
 > Kehre zurück zu der Guten Nachricht vom Kreuz, die dich
@@ -16,19 +29,29 @@
 > 2. zu Gott nahe gebracht und 
 > 3. zur Liebe befreit hat!
 
+- Derselbe Aufruf gilt auch uns heute: *Proposition wiederholen*
+- Nun wollen wir uns anschauen, wie er seine Botschaft argumentiert
+
 ## 2. Paulus Argumentation
 
-### 1. gerechtfertigt (1,1-3,25)
+### 1. Kehre zurück zu der Guten Nachricht vom Kreuz, die dich gerechtfertigt hat (1,1-3,25)
+
+- Paulus fängt an mit der Guten Nachricht selbst, das, was uns als Evangelium bekannt ist
+- Dieses Evangelium ist nicht von Menschen abhängig oder beeinflusst, sondern von Jesus selbst offenbart
+- Paulus kämpft für seine Glaubwürdigkeit und die Einzigartigkeit des Evangeliums
+	- von Christus und Seinem Tod am Kreuz und Seiner Auferstehung
+	- damit wir durch den Glauben daran gerechtfertigt, also nicht mehr unter dem Zorn Gottes stehen
 
 - ihr seid nicht nur gerechtfertigt durch Christus ("ok mit Gott", nicht mehr unter Seinem Zorn)
 - aber das ist noch nicht alles
 
-### 2. zu Gott nahe gebracht (Verheißung, Sohnschaft, Erbe)
+### 2. zu Gott nahe gebracht (3,25-4,31)
 
-> [!cite] Kapitel 3,26-29
-> Nachdem aber der Glaube gekommen ist, sind wir nicht mehr unter einem Erzieher; 26 denn ihr alle seid Söhne Gottes durch den Glauben in Christus Jesus. 27 Denn ihr alle, die ihr auf Christus getauft worden seid, ihr habt Christus angezogen. 28 Da ist nicht Jude noch Grieche, da ist nicht Sklave noch Freier, da ist nicht Mann und Frau; denn ihr alle seid einer in Christus Jesus. 29 Wenn ihr aber des Christus seid, so seid ihr damit Abrahams Nachkommenschaft und nach der Verheißung Erben. 
+> [!cite] Kapitel 3,25-29
 
-### 3. zur Liebe befreit (Freiheit, Liebe)
+### 3. zur Liebe befreit (5,1-6,18)
+
+> [!cite] Kapitel 5,1.5.13-14
 
 ## 4. Schlussfolgerung mit Anwendung
 
