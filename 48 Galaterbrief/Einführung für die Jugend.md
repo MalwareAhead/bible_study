@@ -49,6 +49,14 @@
 
 > [!cite] Kapitel 3,25-29
 
+- Themen: Sohnschaft, Erbe
+- Der Glaube ist nicht "nur" für die Rechtfertigung da
+	- sondern macht euch durch Christus zu Kindern Gottes und zu Seinen Erben
+	- Durch den Glauben an Christus und Sein Kreuz seid ihr bereits Kinder Gottes
+- Paulus erinnert die Galater daran, wie sie sich kennengelernt haben
+	- und wie die Galater im Glauben gelebt haben
+	- Paulus schreibt sehr emotional, er möchte bei seinen geistlichen Kindern durchdringen
+
 ### 3. zur Liebe befreit (5,1-6,18)
 
 > [!cite] Kapitel 5,1.5.13-14
