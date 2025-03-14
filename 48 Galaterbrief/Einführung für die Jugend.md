@@ -53,6 +53,12 @@
 - Der Glaube ist nicht "nur" für die Rechtfertigung da
 	- sondern macht euch durch Christus zu Kindern Gottes und zu Seinen Erben
 	- Durch den Glauben an Christus und Sein Kreuz seid ihr bereits Kinder Gottes
+	- Hier wird der Kontrast zwischen Glaube und Gesetz noch sichtbarer:
+		- Der Anspruch der falschen Lehrer ist es nur, durch das Gesetz gerechtfertigt zu werden
+			- darauf könnte man sich was einbilden
+	- Aber der Glaube macht nicht nur gerecht vor Gott, sondern bringt sie und uns nahe zu Gott
+	- so nah, dass wir Kinder Gottes und Erben Gottes in Ewigkeit sind
+
 - Paulus erinnert die Galater daran, wie sie sich kennengelernt haben
 	- und wie die Galater im Glauben gelebt haben
 	- Paulus schreibt sehr emotional, er möchte bei seinen geistlichen Kindern durchdringen
