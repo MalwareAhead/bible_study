@@ -20,7 +20,7 @@
 
 ### 1. gerechtfertigt (1,1-3,25)
 
-> [!cite] Kapitel 3,26
+> [!cite] Kapitel 3,26-29
 > Nachdem aber der Glaube gekommen ist, sind wir nicht mehr unter einem Erzieher; 26 denn ihr alle seid Söhne Gottes durch den Glauben in Christus Jesus. 27 Denn ihr alle, die ihr auf Christus getauft worden seid, ihr habt Christus angezogen. 28 Da ist nicht Jude noch Grieche, da ist nicht Sklave noch Freier, da ist nicht Mann und Frau; denn ihr alle seid einer in Christus Jesus. 29 Wenn ihr aber des Christus seid, so seid ihr damit Abrahams Nachkommenschaft und nach der Verheißung Erben. 
 
 ### 2. zu Gott nahe gebracht (Verheißung, Sohnschaft, Erbe)

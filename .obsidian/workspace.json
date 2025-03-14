@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -172,8 +173,9 @@
   },
   "active": "6a96178e9ea832f0",
   "lastOpenFiles": [
-    "48 Galaterbrief/Das Problem der Galater.md",
+    "01 Genesis/Genesis.md",
     "48 Galaterbrief/Einführung für die Jugend.md",
+    "48 Galaterbrief/Das Problem der Galater.md",
     "48 Galaterbrief/Schlüsselstellen im Galaterbrief.md",
     "48 Galaterbrief/Die falschen Lehrer.md",
     "48 Galaterbrief/Galaterbrief.md",
@@ -181,7 +183,6 @@
     "Templates/Predigtvorbereitung.md",
     "Templates/Callouts.md",
     "48 Galaterbrief/Predigten",
-    "01 Genesis/Genesis.md",
     "01 Genesis/Gericht und Gnade.md",
     "01 Genesis/Der Segen wird weitergegeben.md",
     "01 Genesis/Die Zeit der Patriarchen.md",
