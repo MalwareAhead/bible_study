@@ -4,121 +4,121 @@
 }
 
 .callout[data-callout="note"] {
-  --callout-color: 0, 119, 255;  /* Deep blue - pen/writing color */
+  --callout-color: 0, 119, 255;
   --callout-icon: pencil;
 }
 .callout[data-callout="abstract"],
 .callout[data-callout="summary"],
 .callout[data-callout="tldr"] {
-  --callout-color: 0, 140, 255;  /* Strong blue - clipboard color */
+  --callout-color: 0, 140, 255;
   --callout-icon: clipboard;
 }
 .callout[data-callout="info"] {
-  --callout-color: 0, 184, 166;  /* Bold teal - info color */
+  --callout-color: 0, 184, 166;
   --callout-icon: info;
 }
 .callout[data-callout="todo"] {
-  --callout-color: 0, 184, 92;  /* Vivid green - task color */
+  --callout-color: 0, 184, 92;
   --callout-icon: check-square;
 }
 .callout[data-callout="tip"],
 .callout[data-callout="hint"],
 .callout[data-callout="important"] {
-  --callout-color: 255, 123, 0;  /* Bright orange - flame color */
+  --callout-color: 255, 123, 0;
   --callout-icon: flame;
 }
 .callout[data-callout="success"],
 .callout[data-callout="check"],
 .callout[data-callout="done"] {
-  --callout-color: 0, 184, 46;  /* Vibrant green - success color */
+  --callout-color: 0, 184, 46;
   --callout-icon: check;
 }
 .callout[data-callout="question"],
 .callout[data-callout="help"],
 .callout[data-callout="faq"] {
-  --callout-color: 128, 0, 255;  /* Rich purple - question mark color */
+  --callout-color: 128, 0, 255;
   --callout-icon: help-circle;
 }
 .callout[data-callout="warning"],
 .callout[data-callout="caution"],
 .callout[data-callout="attention"] {
-  --callout-color: 255, 153, 0;  /* Bright amber - warning color */
+  --callout-color: 255, 153, 0;
   --callout-icon: alert-triangle;
 }
 .callout[data-callout="failure"],
 .callout[data-callout="fail"],
 .callout[data-callout="missing"] {
-  --callout-color: 255, 59, 48;  /* Bright red - failure color */
+  --callout-color: 255, 59, 48;
   --callout-icon: x;
 }
 .callout[data-callout="danger"],
 .callout[data-callout="error"] {
-  --callout-color: 255, 0, 0;  /* Pure red - danger color */
+  --callout-color: 255, 0, 0;
   --callout-icon: zap;
 }
 .callout[data-callout="bug"] {
-  --callout-color: 255, 0, 102;  /* Hot pink - bug color */
+  --callout-color: 255, 0, 102;
   --callout-icon: bug;
 }
 .callout[data-callout="example"] {
-  --callout-color: 112, 48, 227;  /* Deep purple - example color */
+  --callout-color: 112, 48, 227;
   --callout-icon: list;
 }
 .callout[data-callout="quote"],
 .callout[data-callout="cite"] {
-  --callout-color: 28, 127, 219;  /* Bold blue - quote color */
+  --callout-color: 28, 127, 219;
   --callout-icon: quote;
 }
 .callout[data-callout="goal"] {
-  --callout-color: 255, 0, 81;  /* Strong red - target color */
+  --callout-color: 255, 0, 81;
   --callout-icon: target;
 }
 .callout[data-callout="idea"] {
-  --callout-color: 255, 204, 0;  /* Bright gold - lightbulb color */
+  --callout-color: 255, 204, 0;
   --callout-icon: lightbulb;
 }
 .callout[data-callout="time"] {
-  --callout-color: 0, 199, 190;  /* Bold turquoise - clock color */
+  --callout-color: 0, 199, 190;
   --callout-icon: clock;
 }
 .callout[data-callout="search"] {
-  --callout-color: 0, 122, 255;  /* Strong blue - search color */
+  --callout-color: 0, 122, 255;
   --callout-icon: magnifying-glass;
 }
 .callout[data-callout="heart"] {
-  --callout-color: 255, 45, 85;  /* Vibrant red - heart color */
+  --callout-color: 255, 45, 85;
   --callout-icon: heart;
 }
 .callout[data-callout="blessing"] {
-  --callout-color: 255, 204, 0;  /* Bright gold - sparkles color */
+  --callout-color: 255, 204, 0;
   --callout-icon: sparkles;
 }
 .callout[data-callout="prophecy"] {
-  --callout-color: 138, 43, 226;  /* Deep violet - mystical eye color */
+  --callout-color: 138, 43, 226;
   --callout-icon: eye;
 }
 .callout[data-callout="scripture"] {
-  --callout-color: 184, 115, 51;  /* Rich brown - book color */
+  --callout-color: 184, 115, 51;
   --callout-icon: book-open;
 }
 .callout[data-callout="prayer"] {
-  --callout-color: 65, 105, 225;  /* Royal blue - paper plane color */
+  --callout-color: 65, 105, 225;
   --callout-icon: paper-plane;
 }
 .callout[data-callout="sermon"] {
-  --callout-color: 210, 105, 30;  /* Strong copper - speaking color */
+  --callout-color: 210, 105, 30;
   --callout-icon: message-square;
 }
 .callout[data-callout="commentary"] {
-  --callout-color: 72, 107, 153;  /* Strong slate blue - discussion color */
+  --callout-color: 72, 107, 153;
   --callout-icon: message-circle;
 }
 .callout[data-callout="doctrine"] {
-  --callout-color: 178, 34, 34;  /* Firebrick red - book of rules color */
+  --callout-color: 178, 34, 34;
   --callout-icon: book;
 }
 .callout[data-callout="faith"] {
-  --callout-color: 0, 144, 201;  /* Deep cerulean - shield color */
+  --callout-color: 0, 144, 201;
   --callout-icon: shield;
 }
 
