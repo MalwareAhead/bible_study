@@ -40,10 +40,13 @@
 	- von Christus und Seinem Tod am Kreuz und Seiner Auferstehung
 	- damit wir durch den Glauben daran gerechtfertigt, also nicht mehr unter dem Zorn Gottes stehen
 
-- ihr seid nicht nur gerechtfertigt durch Christus ("ok mit Gott", nicht mehr unter Seinem Zorn)
+- ihr seid gerechtfertigt durch Christus ("mit Gott im reinen", nicht mehr unter Seinem Zorn)
+	- wegen dem Kreuz und nicht wegen dem, was du getan hättest
 - aber das ist noch nicht alles
+- Die gute Nachricht vom Kreuz hat dich nicht "nur" gerechtfertigt
+	- sondern auch in eine neue Beziehung mit Gott gestellt
 
-### 2. zu Gott nahe gebracht (3,25-4,31)
+### 2. Kehre zurück zu der Guten Nachricht vom Kreuz, die dich zu Gott nahe gebracht hat (3,25-4,31)
 
 > [!cite] Kapitel 3,25-29
 
@@ -72,7 +75,7 @@
 - Christus hat uns freigemacht, damit wir in christlicher Freiheit leben
 - Gott möchte, dass wir frei sind
 
-### 3. zur Liebe befreit (5,1-6,18)
+### 3. Kehre zurück zu der Guten Nachricht vom Kreuz, die dich zur Liebe befreit hat (5,1-6,18)
 
 - Paulus kommt nun von der reinen Theologie über Glaube, das Gesetz und die Beziehung zu Gott
 	- zu dem praktischen Leben, das durch die Gute Nachricht vom Kreuz gelebt wird
