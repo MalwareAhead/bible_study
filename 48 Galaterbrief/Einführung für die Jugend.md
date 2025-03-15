@@ -6,8 +6,6 @@
 > 1. content: Einen Überblick über die Botschaft des Galaterbriefs geben
 > 2. intent: Aufzeigen, dass der Galaterbrief mit jedem Menschen persönlich zutun hat
 
-## Gliederung
-
 ## 1. Einführung
 
 - Situation der galatischen Gemeinden
@@ -64,21 +62,29 @@
 	- und wie die Galater im Glauben gelebt haben
 	- Paulus schreibt sehr emotional, er möchte bei seinen geistlichen Kindern durchdringen
 
-- Freiheit in Christus
+- Nun wendet Paulus sich wieder an die Galater mit einem Bild aus dem AT
+- Sara und Hagar stehen für zwei verschiedene Bündnisse/Abkommen
+	- Hagar: die Sklaverei des Gesetzes -> steht für das Mosaische Gesetz und für die Juden, die immernoch im Gesetz gerechtfertigt werden wollen, sie sind immer noch versklavt
+	- Sara: freie Kinder der Verheißung -> Gott hat schon vor sehr langer Zeit die Gerechtigkeit durch Glauben versprochen
+		- wir sind diese Kinder von Gottes Versprechen durch den Glauben an Jesus
+
+- als diese Kinder Gottes sollen wir frei leben
+- Christus hat uns freigemacht, damit wir in christlicher Freiheit leben
+- Gott möchte, dass wir frei sind
 
 ### 3. zur Liebe befreit (5,1-6,18)
 
-> [!cite] Kapitel 5,1.5.13-14
-
 - Paulus kommt nun von der reinen Theologie über Glaube, das Gesetz und die Beziehung zu Gott
 	- zu dem praktischen Leben, das durch die Gute Nachricht vom Kreuz gelebt wird
+
+> [!cite] Kapitel 5,1.5.13-14
+
 - Er betont die Freiheit, die wir in Christus haben dürfen und zu der wir berufen sind
-	- wieder wird der Kontrast deutlich: **Christus oder das Gesetz**, beides geht nicht
+	- wieder wird der Kontrast deutlich: **Christus oder das Gesetz**, beides geht nicht (5,3-6)
 
 - In diesem Teil seines Briefes wird er sehr praktisch (das macht er in fast allen seinen Briefen)
 - Das praktische Leben wird im Geist oder im Fleisch gelebt
 - **das richtige Verständnis vom Evangelium hat sehr starke Auswirkungen auf dein praktisches Leben**
-	- 
 
 - Wenn wir lieben, erfüllen wir das ganze Gesetz (5,14)
 	- Du sollst Gott und deinen Nächsten lieben
