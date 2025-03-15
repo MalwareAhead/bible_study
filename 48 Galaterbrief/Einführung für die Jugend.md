@@ -64,9 +64,25 @@
 	- und wie die Galater im Glauben gelebt haben
 	- Paulus schreibt sehr emotional, er möchte bei seinen geistlichen Kindern durchdringen
 
+- Freiheit in Christus
+
 ### 3. zur Liebe befreit (5,1-6,18)
 
 > [!cite] Kapitel 5,1.5.13-14
+
+- Paulus kommt nun von der reinen Theologie über Glaube, das Gesetz und die Beziehung zu Gott
+	- zu dem praktischen Leben, das durch die Gute Nachricht vom Kreuz gelebt wird
+- Er betont die Freiheit, die wir in Christus haben dürfen und zu der wir berufen sind
+	- wieder wird der Kontrast deutlich: **Christus oder das Gesetz**, beides geht nicht
+
+- In diesem Teil seines Briefes wird er sehr praktisch (das macht er in fast allen seinen Briefen)
+- Das praktische Leben wird im Geist oder im Fleisch gelebt
+- **das richtige Verständnis vom Evangelium hat sehr starke Auswirkungen auf dein praktisches Leben**
+	- 
+
+- Wenn wir lieben, erfüllen wir das ganze Gesetz (5,14)
+	- Du sollst Gott und deinen Nächsten lieben
+	- Alle anderen Gesetze sind praktische Beispiele, wie diese Liebe aussehen soll
 
 ## 4. Schlussfolgerung mit Anwendung
 
