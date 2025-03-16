@@ -62,7 +62,13 @@ Zusammengestellt aus [[Schlüsselstellen im Galaterbrief]]
 - Warum geht Paulus am Ende des Briefes so stark auf die geschwisterliche Liebe in der Gemeinde ein?
 	- Was hat das mit dem Hauptthema zutun?
 
-> [!summary] Historische Aussage zu Inhalt und Absicht
+> [!summary] Aussage zu Inhalt und Absicht
 > Paulus schreibt and die galatischen Gemeinden, dass nur der Glaube an das Kreuz Christi sie zu freien Kindern Gottes und gesegneten Erben der Verheißungen Gottes macht. Dieses Evangelium haben sie bereits von ihm gehört; ein anderes gibt es nicht.
 > 
 > Er schreibt ihnen, damit sie sich nicht durch jüdische Irrlehrer fangen lassen und durch das Gesetz Moses gerechtfertigt werden wollen, sondern dass sie mit dem Kreuz im Blick das Gesetz des Christus erfüllen, indem sie Liebe übern, die den Glauben wirksam macht.
+
+> [!hint] Intended Redemptive Effect
+> Kehr zurück zum Evangelium vom gekreuzigten Christus, das dich 
+> 1. vor Gott gerechtfertigt
+> 2. zu Gott nahe gebracht und
+> 3. zur Liebe befreit hat!

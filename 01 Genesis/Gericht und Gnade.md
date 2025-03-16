@@ -51,6 +51,7 @@
 
 > [!blessing] Ausbreitung der Völker
 > - Gott tötet die Menschen nicht, sondern lässt sie sich auf der Erde verteilen (11,8-9)
+> - Er gab ihnen die Möglichkeit, zu Ihm zurückzukehren und doch Seinen Willen zu tun
 
 ## Fazit
 

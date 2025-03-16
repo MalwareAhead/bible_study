@@ -127,9 +127,19 @@
           "icon": "links-going-out",
           "title": "Outgoing links"
         }
+      },
+      {
+        "id": "9de1612b4857e51b",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 2
   },
   "left-ribbon": {
     "hiddenItems": {
