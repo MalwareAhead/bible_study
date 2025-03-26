@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -157,8 +158,9 @@
   },
   "active": "6a96178e9ea832f0",
   "lastOpenFiles": [
-    "48 Galaterbrief/Galaterbrief.md",
+    "49 Epheserbrief/Gott hat uns durch Seine Gnade und Liebe vom geistlichen Tod mit Christus auferweckt.md",
     "49 Epheserbrief/Epheserbrief.md",
+    "48 Galaterbrief/Galaterbrief.md",
     "49 Epheserbrief",
     "48 Galaterbrief/Einführung für die Jugend.md",
     "48 Galaterbrief/Das Problem der Galater.md",
@@ -184,7 +186,6 @@
     "01 Genesis/Die Urgeschichte.md",
     "01 Genesis/Der Sündenfall und seine Folgen.md",
     "01 Genesis/Der Große Neustart.md",
-    "01 Genesis/Abraham.md",
     "48 Galaterbrief",
     "16 Nehemia",
     "44 Apostelgeschichte",
