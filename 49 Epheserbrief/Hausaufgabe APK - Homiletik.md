@@ -17,3 +17,19 @@
 ## Anwendung
 
 ## Ausführungen
+
+---
+
+## Einführung
+
+## Kernaussage
+
+## Ordnender Satz
+
+## Hauptpunkte
+
+### Hauptpunkt I
+
+### Hauptpunkt II
+
+## Schlussfolgerung
