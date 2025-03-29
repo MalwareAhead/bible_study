@@ -18,6 +18,24 @@
 
 ## Ausführungen
 
+- Hauptpunkt 1 - Vor unserer Rettung
+	- Unser Zustand
+		- Kinder des Zorns
+		- unter Satans Herrschaft
+	- Unser Denken, Handeln, Wollen
+		- gemäß dem Zeitgeist
+		- Nach dem Wollen des Fleisches und der Gedanken
+- Hauptpunkt 2 - Unsere Rettung und ihre Konsequenzen
+	- Der Gott unserer Rettung
+		- barmherzig, liebevoll, mächtig
+	- Der Akt unserer Rettung
+		- nicht durch meine eigenen Taten, Anstrengungen (siehe Zustand vor der Rettung)
+		- aus Gnade (unverdient) durch Glauben (Bedingung)
+	- Das Ziel unserer Rettung
+		- in Ewigkeit: das Erleben von Gottes Gnade und Freundlichkeit
+		- jetzt schon: das Tun von Guten Werken, die Gott bereits für uns vorbereitet hat
+- **immer Jesus Christus als Quelle, Mittel und Ziel unserer Rettung groß machen**
+
 ---
 
 ## Einführung
