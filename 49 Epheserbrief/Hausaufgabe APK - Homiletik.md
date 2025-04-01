@@ -6,6 +6,10 @@
 > [!scripture] Epheser 2,1-10
 
 > [!idea] Proposition
+> - Sieh die Liebe und Gnade Gottes, der dich aus aus deinem toten Zustand durch Jesus gerettet hat
+> - Gott allein hat dich durch Seine Gnade mit Jesus lebendig gemacht
+> - Gottes Gnade durchzieht dein ganzes Leben: Er hat dich durch Gnade gerettet, um dir jetzt und in Ewigkeit seine Gnade zu schenken
+> - Von Anfang bis in Ewigkeit nur Gnade
 
 ## Gliederung
 
@@ -15,6 +19,10 @@
 ## Einführung und Illustration
 
 ## Anwendung
+
+- Erinnere dich, aus welchem Zustand dich Gott rausgeholt hat
+- Sieh die Liebe Gottes
+- Erkenne, dass deine Rettung und dein neuer Stand in keinster Weise dein Werk ist, sondern nur das von Gott, dem Vater und Seinem Sohn Jesus Christus
 
 ## Ausführungen
 
