@@ -43,6 +43,7 @@
 		- in Ewigkeit: das Erleben von Gottes Gnade und Freundlichkeit
 		- jetzt schon: das Tun von Guten Werken, die Gott bereits für uns vorbereitet hat
 - **immer Jesus Christus als Quelle, Mittel und Ziel unserer Rettung groß machen**
+- Durch Gnade gerettet, in der Gnade zurzeit, zur Gnade in Ewigkeit
 
 ---
 
