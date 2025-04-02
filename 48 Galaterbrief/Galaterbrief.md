@@ -26,27 +26,6 @@ Zusammengestellt aus [[Schlüsselstellen im Galaterbrief]]
 13. Mir geht es nur um das Kreuz Christi, den jüdischen Irrlehrern nur um sich selbst
 14. Es geht nicht um die Beschneidung, sondern um eine neue Schöpfung
 
-### Gliederung für die Jugend
-
-1. Evangelium
-	- Es gibt nur eine Gute Nachricht (1,1-10)
-	- Das Evangelium ist unabhängig (1,11-24)
-	- Das Evangelium ist anerkannt (2,1-10)
-2. Glaube
-	- Nur der Glaube macht vor Gott gerecht (2,11-21)
-	- Glaube, Gesetz und ihre Auswirkungen (3,1-14)
-3. Verheißung
-	- Es war schon immer der Glaube, der rettet (3,15-29)
-4. Sohnschaft
-	- Durch Glauben gehörst Du zu Gottes Familie (4,1-20)
-5. Freiheit
-	- Vom Unterschied zwischen Freien und Sklaven (4,21-31)
-	- Jesus schenkt wahre Freiheit durch den Glauben (5,1-12)
-6. Liebe
-	- Ein Leben im Geist zeichnet sich durch Liebe aus (5,13-6,10)
-7. Kreuz
-	- Es soll nur um das Kreuz Christi gehen (6,11-18)
-
 ## Auffälligkeiten und Fragen
 
 - Paulus stellt Gott als [[Der Vater der Gläubigen|den Vater jedes glaubenden Menschen]] vor

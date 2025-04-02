@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "49 Epheserbrief/Epheserbrief.md",
+                "file": "48 Galaterbrief/Galaterbrief.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Epheserbrief"
+              "title": "Galaterbrief"
             }
           }
         ]
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -157,10 +158,11 @@
   },
   "active": "2dbad8a6fb5b0577",
   "lastOpenFiles": [
-    "49 Epheserbrief/Hausaufgabe APK - Homiletik.md",
-    "49 Epheserbrief/Epheserbrief.md",
-    "Templates/Callouts.md",
+    "01 Genesis/Genesis.md",
     "Templates/Predigtvorbereitung.md",
+    "49 Epheserbrief/Epheserbrief.md",
+    "49 Epheserbrief/Hausaufgabe APK - Homiletik.md",
+    "Templates/Callouts.md",
     "49 Epheserbrief/Gott hat uns durch Seine Gnade und Liebe vom geistlichen Tod mit Christus auferweckt.md",
     "48 Galaterbrief/Galaterbrief.md",
     "49 Epheserbrief",
@@ -171,7 +173,6 @@
     "26 Hesekiel/Wächter.md",
     "26 Hesekiel/Damit ihr erkennt.md",
     "26 Hesekiel/Biographie des Propheten.md",
-    "01 Genesis/Genesis.md",
     "48 Galaterbrief/Schlüsselstellen im Galaterbrief.md",
     "48 Galaterbrief/Die falschen Lehrer.md",
     "48 Galaterbrief/Untitled.md",
