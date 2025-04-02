@@ -4,121 +4,121 @@
 }
 
 .callout[data-callout="note"] {
-  --callout-color: 0, 119, 255;
+  --callout-color: 82, 124, 171;  /* Medium-tone blue */
   --callout-icon: pencil;
 }
 .callout[data-callout="abstract"],
 .callout[data-callout="summary"],
 .callout[data-callout="tldr"] {
-  --callout-color: 0, 140, 255;
+  --callout-color: 106, 149, 196;  /* Medium-tone lighter blue */
   --callout-icon: clipboard;
 }
 .callout[data-callout="info"] {
-  --callout-color: 0, 184, 166;
+  --callout-color: 85, 166, 184;  /* Medium-tone teal */
   --callout-icon: info;
 }
 .callout[data-callout="todo"] {
-  --callout-color: 0, 184, 92;
+  --callout-color: 121, 171, 108;  /* Medium-tone green */
   --callout-icon: check-square;
 }
 .callout[data-callout="tip"],
 .callout[data-callout="hint"],
 .callout[data-callout="important"] {
-  --callout-color: 255, 123, 0;
+  --callout-color: 183, 126, 94;  /* Medium-tone orange */
   --callout-icon: flame;
 }
 .callout[data-callout="success"],
 .callout[data-callout="check"],
 .callout[data-callout="done"] {
-  --callout-color: 0, 184, 46;
+  --callout-color: 122, 165, 151;  /* Medium-tone turquoise */
   --callout-icon: check;
 }
 .callout[data-callout="question"],
 .callout[data-callout="help"],
 .callout[data-callout="faq"] {
-  --callout-color: 128, 0, 255;
+  --callout-color: 156, 124, 165;  /* Medium-tone purple */
   --callout-icon: help-circle;
 }
 .callout[data-callout="warning"],
 .callout[data-callout="caution"],
 .callout[data-callout="attention"] {
-  --callout-color: 255, 153, 0;
+  --callout-color: 194, 158, 87;  /* Medium-tone amber */
   --callout-icon: alert-triangle;
 }
 .callout[data-callout="failure"],
 .callout[data-callout="fail"],
 .callout[data-callout="missing"] {
-  --callout-color: 255, 59, 48;
+  --callout-color: 181, 93, 91;  /* Medium-tone red */
   --callout-icon: x;
 }
 .callout[data-callout="danger"],
 .callout[data-callout="error"] {
-  --callout-color: 255, 0, 0;
+  --callout-color: 187, 95, 78;  /* Medium-tone darker red */
   --callout-icon: zap;
 }
 .callout[data-callout="bug"] {
-  --callout-color: 255, 0, 102;
+  --callout-color: 175, 89, 105;  /* Medium-tone pink-red */
   --callout-icon: bug;
 }
 .callout[data-callout="example"] {
-  --callout-color: 112, 48, 227;
+  --callout-color: 114, 132, 179;  /* Medium-tone purple-blue */
   --callout-icon: list;
 }
 .callout[data-callout="quote"],
 .callout[data-callout="cite"] {
-  --callout-color: 28, 127, 219;
+  --callout-color: 95, 138, 176;  /* Medium-tone blue */
   --callout-icon: quote;
 }
 .callout[data-callout="goal"] {
-  --callout-color: 255, 0, 81;
+  --callout-color: 155, 117, 159;  /* Medium-tone purple */
   --callout-icon: target;
 }
 .callout[data-callout="idea"] {
-  --callout-color: 255, 204, 0;
+  --callout-color: 198, 172, 94;  /* Medium-tone yellow */
   --callout-icon: lightbulb;
 }
 .callout[data-callout="time"] {
-  --callout-color: 0, 199, 190;
+  --callout-color: 103, 158, 172;  /* Medium-tone blue-teal */
   --callout-icon: clock;
 }
 .callout[data-callout="search"] {
-  --callout-color: 0, 122, 255;
+  --callout-color: 98, 132, 171;  /* Medium-tone blue */
   --callout-icon: magnifying-glass;
 }
 .callout[data-callout="heart"] {
-  --callout-color: 255, 45, 85;
+  --callout-color: 184, 102, 107;  /* Medium-tone pink */
   --callout-icon: heart;
 }
 .callout[data-callout="blessing"] {
-  --callout-color: 255, 204, 0;
+  --callout-color: 190, 167, 97;  /* Medium-tone gold */
   --callout-icon: sparkles;
 }
 .callout[data-callout="prophecy"] {
-  --callout-color: 138, 43, 226;
+  --callout-color: 143, 116, 169;  /* Medium-tone purple */
   --callout-icon: eye;
 }
 .callout[data-callout="scripture"] {
-  --callout-color: 184, 115, 51;
+  --callout-color: 168, 121, 89;  /* Medium-tone brown */
   --callout-icon: book-open;
 }
-.callout[data-callout="prayer"] {
-  --callout-color: 65, 105, 225;
+.callout[data-callout="paperplane"] {
+  --callout-color: 106, 137, 189;  /* Medium-tone blue */
   --callout-icon: paper-plane;
 }
 .callout[data-callout="sermon"] {
-  --callout-color: 210, 105, 30;
+  --callout-color: 163, 112, 78;  /* Medium-tone copper */
   --callout-icon: message-square;
 }
 .callout[data-callout="commentary"] {
-  --callout-color: 72, 107, 153;
+  --callout-color: 96, 127, 154;  /* Medium-tone slate blue */
   --callout-icon: message-circle;
 }
 .callout[data-callout="doctrine"] {
-  --callout-color: 178, 34, 34;
+  --callout-color: 168, 94, 83;  /* Medium-tone brick red */
   --callout-icon: book;
 }
 .callout[data-callout="faith"] {
-  --callout-color: 0, 144, 201;
+  --callout-color: 93, 146, 163;  /* Medium-tone steel blue */
   --callout-icon: shield;
 }
 
@@ -129,7 +129,7 @@
 }
 
 .callout:hover {
-  background-color: rgba(var(--callout-color), 0.22);
+  background-color: rgba(var(--callout-color), 0.25);
 }
 
 .callout-title {

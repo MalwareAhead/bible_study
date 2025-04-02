@@ -42,7 +42,7 @@
 
 > [!doctrine] doctrine
 
-> [!prayer] prayer
+> [!paperplane] prayer
 
 > [!sermon] sermon
 
