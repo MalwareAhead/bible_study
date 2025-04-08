@@ -2,19 +2,18 @@
 
 #nt
 
-## Events
-
-1. Johannes und Jesus werden angekündigt und geboren
-2. Jesu Kindheit
-	1. Simeon und Hanna sehen den Erlöser Israels
-	2. Der zwölfjährige Jesus ist im Tempel
-3. Johannes der Täufer predigt zur Buße und Jesu Taufe (kurz)
+> [!example] Gliederung
+> 1. Vorwort (1,1-4)
+> 2. Jesus und Johannes Geburt und Kindheit (1,5-2,52)
+> 3. Jesus und Johannes beginnen zu wirken (3,1-4,44)
+> 4. 
 
 ## Auffälligkeiten
 
 - Absicht des Autors: "damit du die Zuverlässigkeit der Dinge erkennst, in denen du unterrichtet worden bist." (1,4)
 - Jesus deklariert Seine Mission: In den Städten die gute Botschaft vom Reich Gottes verkündigen (4,43)
 - Beschreibt [[Reaktionen auf das Reich Gottes|Reaktionen]] auf Gottes Wirken und Reden
+	- 
 - Legt Fokus auf [[Das Außergewöhnliche|das Außergewöhnliche]]
 - Jesu (wahre) Herkunft -> nicht von dieser Welt
 	- Jesus weist Seine Eltern auf Seinen wahren Vater hin (2,49)

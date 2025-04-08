@@ -1,11 +1,11 @@
 # Reaktionen auf das Reich Gottes
 
-> [!note] These
+> [!note] Die Wirkung des Reiches Gottes
 > Lukas argumentiert, dass das Reich Gottes wirkungsvoll ist, indem er immer wieder berichtet, dass Menschen auf das Wirken Gottes reagiert haben. Somit muss es real sein.
 
-## Reaktionen auf Gottes Reich und Sein Wirken
+## Reaktionen auf Gottes Reich und Gottes Wirken
 
-Die folgende Aufzählung geht nur bis Kapitel 4. ==Sollte bei Gelegenheit weiterverfolgt werden.==
+Die folgende Aufzählung geht nur bis Kapitel 4. 
 
 ### Bestürzung und Furcht als
 
@@ -25,8 +25,9 @@ Die folgende Aufzählung geht nur bis Kapitel 4. ==Sollte bei Gelegenheit weiter
 - Jesu Eltern die Worte Simeons hörten (2,33)
 - die Leute Jesu Worte der Gnade hörten (4,22)
 
-### Lobpreis als
+### [[Lobpreis]] als
 
+- Maria Elisabeths Worte hörte (1,46)
 - Zacharias wieder sprechen konnte (1,64)
 - die Hirten die Realität der guten Nachricht sahen (2,20)
 - Simeon den Retter Israels auf dem Arm hatte (2,28)
