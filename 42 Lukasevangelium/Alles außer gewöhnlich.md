@@ -1,7 +1,8 @@
-# Das Außergewöhnliche
+# Das Andersartigkeit des Reiches Gottes
 
-> [!note] These
-> Das Reich Gottes ist anders als das Reich der Menschen. Dies zeigt sich auf unterschiedlichen Ebenen.
+> [!idea] Alles außer gewöhnlich
+> Das Reich Gottes ist anders als das Reich der Menschen. Berichtet Lukas so, dass die Andersartigkeit Jesu sichtbar wird? Hat das mit seiner Absicht zu tun, Theophilus die Zuverlässigkeit des Dinge erkennen zu lassen?
+> (Das, worin Du unterrichtet worden bist, ist anders als alles andere auf dieser Welt!)
 
 ## Das Reich Gottes macht das Unmögliche möglich
 
@@ -41,10 +42,10 @@
 - Jesu Worte haben Vollmacht und Kraft (4,32-39)
 - Der Kleinste in Gottes Reich ist größer als Johannes der Täufer (7,28)
 
-## Außergewöhnlich, aber nicht surreal
+## Jesus selbst ist nicht von dieser Welt
 
-### Die Logik des Reiches Gottes
-
-- Wem viel vergeben ist, der liebt viel (7,41-43)
-- Die Reaktion der Böden auf die Samen (8,4-15)
-- Die Lampe kommt auf das Gestell (8,16)
+- Jesus weist Seine Eltern auf Seinen wahren Vater hin (2,49)
+- Gott bestätigt, dass Jesus Gottes Sohn ist (3,21-22)
+- Sein Stammbaum ist sehr umfangreich von Josef über Adam bis Gott (3,23-38)
+- Die Leute von Nazareth fragen: Ist das nicht der Sohn von Josef? (4,22)
+- Der unreine Dämon bezeugt Jesu Stellung (4,34.41)
