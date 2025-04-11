@@ -15,7 +15,9 @@
 
 ## Auffälligkeiten
 
-- Jesus deklariert Seine Mission: In den Städten die gute Botschaft vom Reich Gottes verkündigen (4,43)
+- Jesus deklariert Seine Mission
+	- In den Städten die gute Botschaft vom Reich Gottes verkündigen (4,43)
+	- Sünder zur Buße zu rufen (5,32)
 - Lukas beschreibt eindrücklich [[Reaktionen auf das Reich Gottes|Reaktionen]] auf Gottes Wirken und Reden durch Jesus Christus
 - Lukas fokussiert sich auf [[Alles außer gewöhnlich|das Außergewöhnliche]] des Lehrens und Wirkens Jesu
 - Die ersten beiden Kapitel sind voll von [[Lobpreis]]
