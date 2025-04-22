@@ -1,7 +1,6 @@
 # Wer ist Christus?
 
-## Fragestellung
-
+> [!question] Fragestellung
 > Wie stellt Paulus der Gemeinde Jesus Christus vor? Welche Eigenschaften hebt er besonders an Ihm hervor? Welcher Zusammenhang besteht zwischen den Eigenschaften, die er nennt?
 
 ## Hervorgehobene Eigenschaften des Christus
@@ -56,14 +55,13 @@
 - die Arbeit gottesfürchtiger Sklaven (3,23)
 - das Geheimnis des Christus (4,3)
 
-## Ergebnis
----
-Jesu Erhabenheit wird deutlich. Er steht
-- über der Schöpfung,
-- über der Gemeinde,
-- über den anderen Auferstandenen,
-- über der Zeit,
-- über jeder Gewalt und Macht und
-von Anfang an und bis in Ewigkeit über allem, was geschaffen wurde.
-
-Jesus steht nicht nur **über allem**, sondern auch **alles besteht in ihm**. Dazu gehören Seine Erlösten, sein Werk am Kreuz, Sein Sieg und auch alles, was wir als Seine Knechte reden und tun. Vor allen anderen Dingen aber besteht in Ihm die **Fülle der Gottheit**. Insgesamt also ALLES.
+> [!doctrine] Jesus ist über alles erhaben
+> Jesus steht
+> - über der Schöpfung,
+> - über der Gemeinde,
+> - über den anderen Auferstandenen,
+> - über der Zeit,
+> - über jeder Gewalt und Macht und
+> - von Anfang an und bis in Ewigkeit über allem, was geschaffen wurde.
+> 
+> Jesus steht nicht nur **über allem**, sondern auch **alles besteht in ihm**. Dazu gehören Seine Erlösten, Sein Werk am Kreuz, Sein Sieg und auch alles, was wir als Seine Knechte reden und tun. Vor allen anderen Dingen aber besteht in Ihm die **Fülle der Gottheit**. Insgesamt also ALLES.
