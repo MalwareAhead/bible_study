@@ -1,7 +1,6 @@
 # Wer ist Christus?
 
-> [!question] Fragestellung
-> Wie stellt Paulus der Gemeinde Jesus Christus vor? Welche Eigenschaften hebt er besonders an Ihm hervor? Welcher Zusammenhang besteht zwischen den Eigenschaften, die er nennt?
+> [!question] Wie stellt Paulus der Gemeinde Jesus Christus vor? Welche Eigenschaften hebt er besonders an Ihm hervor? Welcher Zusammenhang besteht zwischen den Eigenschaften, die er nennt?
 
 ## Hervorgehobene Eigenschaften des Christus
 

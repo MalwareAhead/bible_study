@@ -1,8 +1,6 @@
 # Christus, der Kontrast
 
-## These
-
-> Die Dinge, die Paulus über Jesus sagt, sind Wahrheiten, die über die asketische, trügerische und egoistische Irrlehre triumphieren.
+> [!search] Die Dinge, die Paulus über Jesus sagt, sind Wahrheiten, die über die asketische, trügerische und egoistische Irrlehre triumphieren.
 
 ## Gegen Askese
 

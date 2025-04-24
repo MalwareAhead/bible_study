@@ -1,15 +1,13 @@
 # Bedrohung durch Irrlehre
 
-## Fragestellung
-
-> Von wem oder was wird die Gemeinde bedroht? Welche Irrlehre kursierte in der Gemeinde oder um die Gemeinde herum? Was steht auf dem Spiel?
+> [!question] Von wem oder was wird die Gemeinde bedroht? Welche Irrlehre kursierte in der Gemeinde oder um die Gemeinde herum? Was steht auf dem Spiel?
 
 ## Hinweise
 
 - drohende Verführung durch überredende Worte (2,4)
 - fangen ein durch Philosophie und leeren Betrug (2,8)
 - nicht Christus gemäß, sondern nach menschlichen Überlieferungen und weltlichen Elementen (2,8)
-- richten wegen Essen und Trinken, Festen, Neumonden und Sabatten (2,16)
+- richten wegen Essen und Trinken, Festen, Neumonden und Sabbaten (2,16)
 - tut seinen eigenen Willen in scheinbarer Demut (2,18)
 - betet Engel an (2,18)
 - beruft sich auf eigene Visionen (2,18)
