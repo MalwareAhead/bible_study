@@ -13,7 +13,7 @@
 		2. Mitleid mit uns haben (vgl. 4,15)
 		3. uns in unserer Versuchung helfen
 
-- **Er musste von Gott eingesetzt und bestätigt werden** (5,4-10)
+- **Er musste von Gott eingesetzt und bestätigt werden** (5,4-10) -> Parallele zu [[Numeri]] 16-18
 	- die Ehre des Hohen Priesters wird nicht genommen, sondern gegeben (5,4-6)
 	- er war dem, der ihn eingesetzt hat, trotz der Unannehmlichkeiten gehorsam (5,7-8)
 	- er wurde als Hoher Priester von dem, der ihn eingesetzt hat, bestätigt (5,6-10)
