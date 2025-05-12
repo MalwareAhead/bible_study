@@ -9,4 +9,5 @@
 ## Gemeinsamkeiten zwischen Jona und Jesus
 
 - Beide wurden von Gott, dem Vater beauftragt (Jon 1,1; vgl. Joh 5,30)
+- 
 
