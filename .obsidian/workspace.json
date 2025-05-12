@@ -13,31 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "38 Sacharja/Sacharja.md",
+                "file": "32 Jona/Jesus, bessere Jona.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Sacharja"
+              "title": "Jesus, bessere Jona"
             }
           },
           {
-            "id": "ee8e1110d9754e8e",
+            "id": "4f466e8d60445415",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Callouts.md",
+                "file": "40 Matthäusevangelium/Matthäusevangelium.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Callouts"
+              "title": "Matthäusevangelium"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,10 +171,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2dbad8a6fb5b0577",
+  "active": "4f466e8d60445415",
   "lastOpenFiles": [
-    "30 Amos/Amos.md",
+    "32 Jona/Jesus, bessere Jona.md",
+    "32 Jona/Jona.md",
     "38 Sacharja/Sacharja.md",
+    "32 Jona",
+    "30 Amos/Amos.md",
     "58 Hebräerbrief/Jesus, der Hohe Priester.md",
     "38 Sacharja",
     "04 Numeri/Numeri.md",
@@ -199,8 +203,6 @@
     "49 Epheserbrief/Gott hat uns durch Seine Gnade und Liebe vom geistlichen Tod mit Christus auferweckt.md",
     "49 Epheserbrief",
     "48 Galaterbrief/Einführung für die Jugend.md",
-    "48 Galaterbrief/Das Problem der Galater.md",
-    "26 Hesekiel/Hesekiel.md",
     "48 Galaterbrief/Predigten",
     "48 Galaterbrief",
     "16 Nehemia",
@@ -208,7 +210,6 @@
     "28 Hosea",
     "50 Philipperbrief",
     "Anhänge/1PetrusErgebnis.png",
-    "42 Lukasevangelium",
     "attachments/Screenshot 2024-01-02 at 18.41.51.png",
     "Untitled.canvas",
     "Logistik PTP.canvas"

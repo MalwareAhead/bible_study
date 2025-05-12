@@ -17,7 +17,8 @@
 - "Buch des Ursprungs Jesu Christi, des Sohnes von David und von Abraham" -> Ziel des Buches?
 - Das Reich Gottes wahrnehmen oder nicht wahrnehmen (sehen, hören, verstehen)
 - Was erfahren wir über die Denkweise von Jesu Zeitgenossen?
-- "Mehr als \[...] ist hier"
+- "Mehr als ___ ist hier"
+	- [[Jesus, bessere Jona|Mehr als Jona]]
 
 ## Forschungsgegenstände
 
