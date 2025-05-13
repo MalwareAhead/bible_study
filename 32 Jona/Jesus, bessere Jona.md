@@ -13,5 +13,9 @@ Jesus vergleicht sich selbst im Gespräch mit den Pharisäern und Schriftgelehrt
 
 ## Jesus > Jona
 
-- Jona war ungehorsam und ist vor Gott und Seinem Auftrag geflohen (1,3), Jesus hingegen war kompromisslos gehorsam Vater und dessen Auftrag gegenüber (vgl. Joh 8,25-29)
+Jona war ungehorsam und ist vor Gott und Seinem Auftrag geflohen (Jon 1,3)
+Jesus hingegen war kompromisslos gehorsam Vater und dessen Auftrag gegenüber (vgl. Joh 8,25-29)
+
+Jona hat sich mit seiner Predigt (wahrscheinlich) nicht viel Mühe gegeben (Jon 3,4)
+Jesus hat mit größtem Eifer alle Worte Seines Vaters an die Menschen weitergegeben (vgl. Joh 17,)
 
