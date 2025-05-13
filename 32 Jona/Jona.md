@@ -1,6 +1,6 @@
 # Das Buch des Propheten Jona
 
-#at #erzählung 
+#at #erzählung
 
 ## Gliederung
 
