@@ -17,5 +17,7 @@ Jona war ungehorsam und ist vor Gott und Seinem Auftrag geflohen (Jon 1,3)
 Jesus hingegen war kompromisslos gehorsam Vater und dessen Auftrag gegenüber (vgl. Joh 8,25-29)
 
 Jona hat sich mit seiner Predigt (wahrscheinlich) nicht viel Mühe gegeben (Jon 3,4)
-Jesus hat mit größtem Eifer alle Worte Seines Vaters an die Menschen weitergegeben (vgl. Joh 17,)
+Jesus hat mit größtem Eifer alle Worte Seines Vaters an die Menschen weitergegeben (vgl. Joh 17,6-8)
 
+Jona hat voller Zorn außerhalb der Stadt auf deren möglichen Untergang gewartet (Jon 4,5)
+Jesus steht seit seiner Himmelfahrt für uns als [[Jesus, der Hohe Priester|Hoher Priester Gottes]] ein (vgl. Heb 7,24-25)
