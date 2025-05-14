@@ -9,9 +9,10 @@
 3. Ninive bekehrt sich auf Jonas Predigt hin
 4. Gott zeigt dem missmutigen Jona, was Gnade bedeutet
 
-## Auffälligkeiten
+## Auffälligkeiten und Fragen
 
 - Jesus sagt von sich selbst, dass [[Jesus, bessere Jona|Er der bessere Jona]] ist (Matt 12,38-41)
+- Warum wehrt sich Jona so sehr gegen Gottes Auftrag und Seiner Gnade gegenüber Ninive?
 
 > [!doctrine] Das Evangelium nach Jona: Gottes überschwängliche Gnade
 > Die Erzählung von Jona verdeutlicht Gottes überschwängliche Gnade und Rettungsabsichten gegenüber sündigen Menschen, die nichts mit ihm zutun haben wollen.
