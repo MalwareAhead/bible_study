@@ -47,7 +47,7 @@ Zusammengestellt aus [[Schlüsselstellen im Galaterbrief]]
 > Er schreibt ihnen, damit sie sich nicht durch jüdische Irrlehrer fangen lassen und durch das Gesetz Moses gerechtfertigt werden wollen, sondern dass sie mit dem Kreuz im Blick das Gesetz des Christus erfüllen, indem sie Liebe übern, die den Glauben wirksam macht.
 
 > [!hint] Intended Redemptive Effect
-> Kehr zurück zum Evangelium vom gekreuzigten Christus, das dich 
+> Kehre zurück zum Evangelium vom gekreuzigten Christus, das dich 
 > 1. vor Gott gerechtfertigt
 > 2. zu Gott nahe gebracht und
 > 3. zur Liebe befreit hat!

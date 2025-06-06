@@ -37,8 +37,7 @@
               "title": "Jona"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -172,10 +170,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "559a1e1dad9f8591",
+  "active": "6e1c782d3dcb5a02",
   "lastOpenFiles": [
-    "32 Jona/Jesus, bessere Jona.md",
     "32 Jona/Jona.md",
+    "32 Jona/Jesus, bessere Jona.md",
     "40 Matthäusevangelium/Matthäusevangelium.md",
     "Templates/Callouts.md",
     "30 Amos/Amos.md",
