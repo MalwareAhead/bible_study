@@ -8,5 +8,5 @@
 	- Gericht: ausreißen, niederreißen, zugrunde richten, abbrechen
 	- Wiederherstellung: bauen und pflanzen
 	- Gericht und Wiederherstellung sind Gottes Werk (vgl. 18,7-10)
-- Wiederholung: "früh mich aufmachend und \[...]"
+- Wiederholung: "früh mich aufmachend und redend/sendend/bezeugend" (vgl. 7,13; 11,7; 25,3-4; 29,19)
 
