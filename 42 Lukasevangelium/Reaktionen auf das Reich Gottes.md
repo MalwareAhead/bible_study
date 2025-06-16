@@ -2,6 +2,8 @@
 
 > [!note] Die Wirkung des Reiches Gottes
 > Lukas argumentiert, dass das Reich Gottes wirkungsvoll ist, indem er immer wieder berichtet, dass Menschen auf das Wirken Gottes reagiert haben. Somit muss es real sein.
+> 
+> Menschen begegnen Gottes Gegenwart, was eine natürliche Reaktion auf Gottes Herrlichkeit schon im Alten Testament zur Folge hatte.
 
 ## Reaktionen auf Gottes Reich und Gottes Wirken
 
