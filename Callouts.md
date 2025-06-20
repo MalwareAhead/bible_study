@@ -28,7 +28,7 @@
 
 > [!idea] idea
 
-> [!time] time
+> [!clock] clock
 
 > [!search] search
 
@@ -48,7 +48,7 @@
 
 > [!commentary] commentary
 
-> [!faith] faith
+> [!shield] shield
 
 ## Tbd.
 

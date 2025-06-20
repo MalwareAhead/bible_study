@@ -1,6 +1,6 @@
 # Isaak
 
-#charakter 
+#biografie  
 
 > [!summary] Steckbrief
 > - Name: Isaak »Er wird lachen« (17,19; 21,3)
@@ -9,7 +9,7 @@
 > - Lebensjahre: 180 Jahre (35,28)
 > - Bestattungsort: Höhle Machpela, gegenüber von Mamre, mit seinen Eltern und Rebekka (49,31)
 > - Beziehungen:
-> 	- Vater: [[Abraham]]
+> 	- Vater: [[Der Mann Abraham]]
 > 	- Geschwister:
 > 		- ältere: Ismael
 > 		- jüngere: Simran, Jokschan, Medan, Midian, Jischbak, Schuach

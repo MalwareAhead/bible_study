@@ -103,15 +103,6 @@
       "key": "S"
     }
   ],
-  "insert-template": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
   "app:go-back": [
     {
       "modifiers": [

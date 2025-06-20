@@ -1,5 +1,7 @@
 # Nehemia, der betende Macher
 
+#biografie
+
 > [!hint] Beobachtung
 > Nehemia hat seine Gebete an Gott bewusst aufgeschrieben. Er betet in unterschiedlichen Situationen. Er macht nicht einfach drauf los, sondern vertraut Gott seine Pläne an.
 

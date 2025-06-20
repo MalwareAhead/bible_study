@@ -1,7 +1,7 @@
 # Hesekiel, das Wahrzeichen
 
 > [!hint] Beobachtung
-> [[Hesekiel]] spielt mit Gottes Regie und Hilfe Szenarien vor, die dem Volk in der Verbannung das Gericht über Jerusalem anschaulich machen sollen.
+> [[26 Hesekiel/Hesekiel]] spielt mit Gottes Regie und Hilfe Szenarien vor, die dem Volk in der Verbannung das Gericht über Jerusalem anschaulich machen sollen.
 
 - Berufung zum Wahrzeichen (12,1-16)
 	- weil das Volk hört, aber nicht hört (12,1-2) -> [[Das Widerspenstige Haus]]

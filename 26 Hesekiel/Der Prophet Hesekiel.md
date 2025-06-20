@@ -1,7 +1,9 @@
-# Biographie des Propheten Hesekiel
+# Hesekiel
+
+#biografie
 
 > [!info] Steckbrief
-> - Name: [[Hesekiel]], Sohn des Busi
+> - Name: [[26 Hesekiel/Hesekiel]], Sohn des Busi
 > - Alter: 30 Jahre zur Abfassungszeit
 > - Stamm: Levi
 > - Beruf: Priester
@@ -24,5 +26,5 @@
 	- Die Stadt (Jerusalem?) wird umbenannt in "HIER IST DER HERR" (48,35)
 
 > [!summary] Ergebnis
-> Gott ist die Hauptperson des Buches. Es gibt zu [[Hesekiel]] als Person nicht übermäßig viel, sehr wohl aber über seinen Dienst und seine Aufgaben, zu denen Gott ihn berufen hat.
-> [[Hesekiel]] war in seinen von Gott gegebenen Aufgaben sehr treu und gehorsam, obwohl viele dieser Aufgaben für ihn unangenehm zu erledigen waren.
+> Gott ist die Hauptperson des Buches. Es gibt zu [[26 Hesekiel/Hesekiel]] als Person nicht übermäßig viel, sehr wohl aber über seinen Dienst und seine Aufgaben, zu denen Gott ihn berufen hat.
+> [[26 Hesekiel/Hesekiel]] war in seinen von Gott gegebenen Aufgaben sehr treu und gehorsam, obwohl viele dieser Aufgaben für ihn unangenehm zu erledigen waren.

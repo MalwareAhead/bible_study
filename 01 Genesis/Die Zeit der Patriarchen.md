@@ -2,7 +2,7 @@
 
 > [!summary] Abraham, Isaak, Jakob
 > Die Genesis besteht zu 4/5 (39 Kapitel) aus den Erzählungen von drei Charakteren:
-> 1. [[Abraham]]
+> 1. [[Der Mann Abraham]]
 > 2. [[Isaak]]
 > 3. [[Jakob|Jakob und seine Familie]]
 

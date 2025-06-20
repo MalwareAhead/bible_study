@@ -24,7 +24,7 @@
 	- Besonders der Dienst am Haus Gottes wird penibel organisiert
 - Nehemia bittet Gott mehrfach darum, dass Gott an Nehemias Wohltaten denkt (vgl. 5,19)
 - Nehemia [[Gott ist am Werk|zeigt sehr häufig auf Gottes Handeln]] in seinen Vorhaben
-- Nehemia [[Der betende Macher|vertraut seine Pläne auch Gott an]]
+- Nehemia [[Der Mann Nehemia|vertraut seine Pläne auch Gott an]]
 - Nehemia schreibt nicht in der Ich-Form von 7,6 bis 12,31
 	- es wird sogar von ihm in der dritten Person gesprochen (vgl. 8,9)
 

@@ -1,5 +1,7 @@
 # Jesus, der bessere Jona
 
+#biblischetheologie
+
 Jesus vergleicht sich selbst im Gespräch mit den Pharisäern und Schriftgelehrten mit Jona und erhebt den Anspruch, dass Er der bessere Jona ist:
 
 > [!cite] Matt 12,41

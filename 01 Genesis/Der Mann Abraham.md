@@ -1,6 +1,6 @@
 # Abraham
 
-#charakter
+#biografie 
 
 > [!summary] Steckbrief
 > - Name: Abram »mein Vater ist erhaben«, von Gott umbenannt zu Abraham »Vater einer Menge« (17,5)

@@ -62,7 +62,7 @@
 .callout[data-callout="idea"] {
   --callout-icon: lightbulb;
 }
-.callout[data-callout="time"] {
+.callout[data-callout="clock"] {
   --callout-icon: clock;
 }
 .callout[data-callout="search"] {
@@ -92,7 +92,7 @@
 .callout[data-callout="doctrine"] {
   --callout-icon: book;
 }
-.callout[data-callout="faith"] {
+.callout[data-callout="shield"] {
   --callout-icon: shield;
 }
 
