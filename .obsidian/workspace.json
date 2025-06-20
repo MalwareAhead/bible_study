@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -149,7 +150,6 @@
       "graph:Open graph view": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obisidian-note-linker:Note Linker": false,
       "obsidian-git:Open Git source control": false
@@ -157,15 +157,15 @@
   },
   "active": "29a8b72841dd2583",
   "lastOpenFiles": [
+    "26 Hesekiel/Die Person Hesekiel.md",
+    "26 Hesekiel/Hesekiel.md",
+    "Callouts.md",
     "26 Hesekiel/Damit ihr erkennt.md",
     "26 Hesekiel/Die Herrlichkeit des HERRN.md",
     "26 Hesekiel/Wächter, Wahrzeichen und Zeuge.md",
-    "26 Hesekiel/Die Person Hesekiel.md",
-    "26 Hesekiel/Hesekiel.md",
     "26 Hesekiel/Gottes Gegenwart.md",
     "26 Hesekiel/Wahrzeichen.md",
     "26 Hesekiel/Wächter.md",
-    "Callouts.md",
     "01 Genesis/Isaak.md",
     "16 Nehemia/Der Mann Nehemia.md",
     "15 Esra/Der Mann Esra.md",

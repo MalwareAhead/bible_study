@@ -9,9 +9,19 @@
 
 ## Allgemeine Informationen
 
-- Autor: [[Die Person Hesekiel|Hesekiel, der Sohn des Busi]]
+Autor: unbekannt, wird im Buch und auch sonst nicht genannt (vllt. war es Hesekiel selbst)
+Hauptperson: [[Die Person Hesekiel|Hesekiel, der Sohn des Busi]], Weggeführter Priester im Babylonischen Exil
+primäre Empfänger: die weggeführten Juden, die mit ihm im Exil waren
+Genre: Erzählung hohen Redeanteilen
+Schreibstil: Hesekiel erzählt aus der Ich-Perspektive, vermittelt Gottes Reden als wörtliche Rede
+
+> [!clock] Historischer Kontext
+> Hesekiel war aus der zweiten Gruppe der Weggeführten, die von Nebukadnezar, dem König von Babel zusammen mit Jojachin, dem König von Juda, im Jahr 597 BC verschleppt wurden.
+> Jerusalem steht noch als letzte Stadt von Juda, wird aber im Verlauf des Buches im Jahr 586 BC völlig (33,21).
 
 ## Gliederung
+
+1. Hesekiel sieht die Herrlichkeit Gottes (1,1-28)
 
 ## Beobachtungen
 
