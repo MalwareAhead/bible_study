@@ -1,18 +1,24 @@
 # Das Buch des Propheten Hesekiel
 
-#at
+#at #prophetie 
+
+1. [[Hesekiel#Allgemeine Informationen|Allgemeine Informationen]]
+2. [[Hesekiel#Gliederung|Gliederung]]
+3. [[Hesekiel#Beobachtungen|Beobachtungen]]
+4. [[Hesekiel#Kernaussage|Kernaussage]]
+
+## Allgemeine Informationen
+
+- Autor: [[Die Person Hesekiel|Hesekiel]]
 
 ## Gliederung
 
-1. 
+## Beobachtungen
 
-## Auffälligkeiten
-
-- Israel ist [[Das Widerspenstige Haus|das widerspenstige Haus]] -> deswegen das Neue Herz
-- Wiederholung: "[[Damit ihr erkennt]], dass Ich der Herr bin", "Und ihr werdet erkennen..."
-- [[Der Prophet Hesekiel|Biographische Informationen]] des Propheten eher spärlich
+- Hesekiel wurde von Gott als [[Wächter, Wahrzeichen und Zeuge]] eingesetzt
+- Israel ist [[Das Widerspenstige Haus|das widerspenstige Haus]], deswegen das Neue Herz
+- Wiederholung "[[Damit ihr erkennt]], dass Ich der Herr bin"
 - Die [[Die Herrlichkeit des HERRN|Herrlichkeit des Herrn in Thronwagen-Form]] ist ein tragendes Element -> [[Gottes Gegenwart]] unter Seinem Volk
-
-- Hesekiel inszeniert [[Wahrzeichen|sichtbare Zeichen des Gerichts]] über das Volk
 - Hesekiel [[Visionshistorie|datiert seine Visionen]] auf den Tag genau
 
+## Kernaussage
