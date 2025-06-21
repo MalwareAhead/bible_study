@@ -23,6 +23,7 @@ Schreibstil: Hesekiel erzählt aus der Ich-Perspektive, vermittelt Gottes Reden 
 
 1. Hesekiel sieht die Herrlichkeit Gottes (1,1-28)
 2. Gott beruft Hesekiel zum Propheten (2,1-3,21)
+3. Gott kündigt Gericht über die Bewohner Israels an (3,22-7,27)
 
 ## Beobachtungen
 
