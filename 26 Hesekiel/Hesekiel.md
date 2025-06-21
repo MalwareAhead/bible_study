@@ -29,6 +29,7 @@ Schreibstil: Hesekiel erzählt aus der Ich-Perspektive, vermittelt Gottes Reden 
 
 - Hesekiel wurde von Gott als [[Wächter, Wahrzeichen und Zeuge]] eingesetzt
 - Israel ist [[Das Widerspenstige Haus|das widerspenstige Haus]], deswegen das Neue Herz
+- Gott betont wiederholt, dass er das Volk nicht schonen noch Mitleid haben wird
 - Wiederholung "[[Damit ihr erkennt]], dass Ich der Herr bin"
 - Die [[Die Herrlichkeit des HERRN|Herrlichkeit des Herrn in Thronwagen-Form]] ist ein tragendes Element
 - Hesekiel [[Visionshistorie|datiert seine Visionen]] auf den Tag genau
