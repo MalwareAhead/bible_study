@@ -9,7 +9,7 @@
 
 ## Allgemeine Informationen
 
-- Autor: wird im Buch nicht genannt, war wahrscheinlich Hesekiel selbst
+- Autor: Wahrscheinlich Hesekiel, auch wenn der Verfasser nicht explizit genannt wird
 - primäre Empfänger: die weggeführten Juden, die mit Hesekiel im Exil waren
 - Genre: Erzählung hohen Redeanteilen
 - Hauptperson: [[Die Person Hesekiel|Hesekiel, der Sohn des Busi]], Weggeführter Priester im Babylonischen Exil
