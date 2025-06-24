@@ -21,12 +21,12 @@ Schreibstil: Hesekiel erzählt aus der Ich-Perspektive, vermittelt Gottes Reden 
 
 ## Gliederung
 
-1. Hesekiel sieht die Herrlichkeit Gottes (1,1-28)
+1. Hesekiel sieht die Herrlichkeit Gottes (1)
 2. Gott beruft Hesekiel zum Propheten (2,1-3,21)
 3. Gott kündigt Gericht über die Bewohner Israels an (3,22-7,27)
-4. Gott zeigt Hesekiel, warum Gottes Gegenwart Israel verlässt (8,1-11,25)
-5. Gott bestätigt das Gericht als beschlossene Sache (12,1-14,23)
-6. Gleichnisse von Sünde, Gericht und Wiederherstellung (15,1-)
+4. Gott zeigt Hesekiel, warum Gottes Gegenwart Israel verlässt (8-11)
+5. Gott bestätigt das Gericht als beschlossene Sache (12-14)
+6. Gleichnisse von Sünde, Gericht und Wiederherstellung (15-19)
 
 ## Beobachtungen
 
