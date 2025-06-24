@@ -9,11 +9,11 @@
 
 ## Allgemeine Informationen
 
-Autor: wird im Buch nicht genannt, war wahrscheinlich Hesekiel selbst
-primäre Empfänger: die weggeführten Juden, die mit Hesekiel im Exil waren
-Genre: Erzählung hohen Redeanteilen
-Hauptperson: [[Die Person Hesekiel|Hesekiel, der Sohn des Busi]], Weggeführter Priester im Babylonischen Exil
-Schreibstil: Hesekiel erzählt aus der Ich-Perspektive, vermittelt Gottes Reden als wörtliche Rede
+- Autor: wird im Buch nicht genannt, war wahrscheinlich Hesekiel selbst
+- primäre Empfänger: die weggeführten Juden, die mit Hesekiel im Exil waren
+- Genre: Erzählung hohen Redeanteilen
+- Hauptperson: [[Die Person Hesekiel|Hesekiel, der Sohn des Busi]], Weggeführter Priester im Babylonischen Exil
+- Schreibstil: Hesekiel erzählt aus der Ich-Perspektive, vermittelt Gottes Reden als wörtliche Rede
 
 > [!clock] Historischer Kontext
 > Hesekiel war aus der zweiten Gruppe der Weggeführten, die von Nebukadnezar, dem König von Babel zusammen mit Jojachin, dem König von Juda, im Jahr 597 BC verschleppt wurden.
