@@ -27,7 +27,7 @@
 4. Gott zeigt Hesekiel, warum Gottes Gegenwart Israel verlässt (8-11)
 5. Gott bestätigt das Gericht als beschlossene Sache (12-14)
 6. Gleichnisse von Sünde, Gericht und Wiederherstellung (15-19)
-7. Gott verdeutlicht dem Volk seine Sünde und deren Konsequenzen (20-)
+7. Gott verdeutlicht dem Volk seine Sünde und deren Konsequenzen (20-24)
 
 ## Beobachtungen
 
