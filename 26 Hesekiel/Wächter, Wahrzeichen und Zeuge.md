@@ -43,8 +43,7 @@ Akt 4: Keine Trauer über Jerusalem (24,15-27)
 
 ## Zeuge
 
-- nicht explizit erwähnt, liegt jedoch nahe
-	- ist nicht mehr Teil der Wächterstellung von H.
+- Hesekiel soll das, was er sieht und hört an das Volk Israel weitergeben (40,)
 - Wechsel von Gericht zu Heilung findet statt (ab 36)
 - Der Neue Bund wird verheißen (36; siehe 11,17-20)
 - Gott macht sein Volk im Tal der Knochen wieder lebendig (37)
