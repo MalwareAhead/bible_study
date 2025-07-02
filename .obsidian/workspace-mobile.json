@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Numeri/Numeri.md",
+                "file": "26 Hesekiel/Hesekiel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Numeri"
+              "title": "Hesekiel"
             }
           }
         ]
@@ -145,7 +145,6 @@
     "hiddenItems": {
       "obsidian-git:Open Git source control": false,
       "command-palette:Open command palette": false,
-      "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "audio-recorder:Start/stop recording": false
@@ -153,6 +152,8 @@
   },
   "active": "fde88bac525f1c8d",
   "lastOpenFiles": [
+    "04 Numeri/Numeri.md",
+    "26 Hesekiel/Damit ihr erkennt.md",
     "43 Johannesevangelium/Johannesevangelium.md",
     "38 Sacharja/Sacharja.md",
     "48 Galaterbrief/Die falschen Lehrer.md",
@@ -178,8 +179,6 @@
     "01 Genesis/Abrahams Lebenslauf.md",
     "01 Genesis/Isaaks Lebenslauf.md",
     "01 Genesis/Isaak.md",
-    "60 1 Petrusbrief/1 Petrusbrief.md",
-    "16 Nehemia/Der betende Macher.md",
     "16 Nehemia",
     "Anhänge/Recording 20240903073752.m4a",
     "Anhänge/Recording 20240903073848.m4a",

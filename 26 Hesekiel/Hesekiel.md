@@ -29,6 +29,7 @@
 6. Gleichnisse von Sünde, Gericht und Wiederherstellung (15-19)
 7. Gott verdeutlicht dem Volk seine Sünde und deren Konsequenzen (20-24)
 8. Gott kündigt Gericht über die Nationen und ihre Könige an (25-32)
+9. Gott belebt sein Volk wieder und richtet seine Feinde (33-39)
 
 ## Beobachtungen
 
