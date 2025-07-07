@@ -44,5 +44,3 @@
 
 > [!summary] Gott stellt Seine Gegenwart unter Seinem Volk wieder her
 > Gottes Gegenwart verlässt das Volk Israel aufgrund ihrer bösen Lebensführung und ihrer andauernden Widerspenstigkeit. Er verdeutlicht ihnen, dass ihr Weg böse ist und dass Er deswegen Gericht üben wird. Aber Er verspricht auch zukünftige Wiederherstellung ihres Geschicks, indem Er Seinem Volk ein neues Herz und Seinen Geist geben wird und wieder unter ihnen präsent sein wird in Ewigkeit.
-> 
-> Durch das ganze Buch möchte Gott die Menschen erkennen lassen, dass Er YHWH ist und dass Buße und Umkehr Seine Gegenwart ermöglicht.
