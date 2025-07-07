@@ -21,7 +21,7 @@
 
 ## Gliederung
 
-1. Hesekiel begegnet der Herrlichkeit Gottes (1)
+1. Hesekiel begegnet der Herrlichkeit YHWHs (1)
 2. Gott beruft Hesekiel zum Wächter und Propheten (2,1-3,21)
 3. Gott kündigt Gericht über die Bewohner Israels an (3,22-7,27)
 4. Gott zeigt Hesekiel, warum Gottes Gegenwart Israel verlässt (8-11)
