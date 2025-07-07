@@ -21,16 +21,15 @@
 
 ## Gliederung
 
-1. Hesekiel begegnet der Herrlichkeit YHWHs (1)
-2. Gott beruft Hesekiel zum Wächter und Propheten (2,1-3,21)
-3. Gott kündigt Gericht über die Bewohner Israels an (3,22-7,27)
-4. Gott zeigt Hesekiel, warum Gottes Gegenwart Israel verlässt (8-11)
-5. Gott bestätigt das Gericht als beschlossene Sache (12-14)
-6. Gleichnisse von Sünde, Gericht und Wiederherstellung (15-19)
-7. Gott verdeutlicht dem Volk seine Sünde und deren Konsequenzen (20-24)
-8. Gott kündigt Gericht über die Nationen und ihre Könige an (25-32)
-9. Gott belebt sein Volk wieder und richtet seine Feinde (33-39)
-10. Gottes Gegenwart stellt Israels Tempel, Gottesdienst und Land wieder her (40-48)
+1. Gott beruft Hesekiel zum Wächter und Propheten (1,1-3,21)
+2. Gott kündigt Gericht über die Bewohner Israels an (3,22-7,27)
+3. Gott zeigt Hesekiel, warum Gottes Gegenwart Israel verlässt (8-11)
+4. Gott bestätigt das Gericht als beschlossene Sache (12-14)
+5. Gleichnisse von Sünde, Gericht und Wiederherstellung (15-19)
+6. Gott verdeutlicht dem Volk seine Sünde und deren Konsequenzen (20-24)
+7. Gott kündigt Gericht über die Nationen und ihre Könige an (25-32)
+8. Gott belebt sein Volk wieder und richtet seine Feinde (33-39)
+9. Gottes Gegenwart stellt Israels Tempel, Gottesdienst und Land wieder her (40-48)
 
 ## Beobachtungen
 
@@ -39,7 +38,11 @@
 - Gott betont wiederholt, dass er das Volk nicht schonen noch Mitleid haben wird
 - Jeder Mensch wird seine eigene Sünde tragen und dafür zur Rechenschaft gezogen
 - Wiederholung "[[Damit ihr erkennt]], dass Ich der Herr bin"
-- Die [[Die Herrlichkeit des HERRN|Herrlichkeit des Herrn in Thronwagen-Form]] ist ein tragendes Element
 - Hesekiel [[Visionshistorie|datiert seine Visionen]] auf den Tag genau
 
 ## Kernaussage
+
+> [!summary] Gott stellt Seine Gegenwart unter Seinem Volk wieder her
+> Gottes Gegenwart verlässt das Volk Israel aufgrund ihrer bösen Lebensführung und ihrer andauernden Widerspenstigkeit. Er verdeutlicht ihnen, dass ihr Weg böse ist und dass Er deswegen Gericht üben wird. Aber Er verspricht auch zukünftige Wiederherstellung ihres Geschicks, indem Er Seinem Volk ein neues Herz und Seinen Geist geben wird und wieder unter ihnen präsent sein wird in Ewigkeit.
+> 
+> Durch das ganze Buch möchte Gott die Menschen erkennen lassen, dass Er YHWH ist und dass Buße und Umkehr Seine Gegenwart ermöglicht.
