@@ -21,15 +21,16 @@
 
 ## Gliederung
 
-1. Gott beruft Hesekiel zum Wächter und Propheten (1,1-3,21)
-2. Gott kündigt Gericht über die Bewohner Israels an (3,22-7,27)
-3. Gott zeigt Hesekiel, warum Gottes Gegenwart Israel verlässt (8-11)
-4. Gott bestätigt das Gericht als beschlossene Sache (12-14)
-5. Gleichnisse von Sünde, Gericht und Wiederherstellung (15-19)
-6. Gott verdeutlicht dem Volk seine Sünde und deren Konsequenzen (20-24)
-7. Gott kündigt Gericht über die Nationen und ihre Könige an (25-32)
-8. Gott belebt sein Volk wieder und richtet seine Feinde (33-39)
-9. Gottes Gegenwart stellt Israels Tempel, Gottesdienst und Land wieder her (40-48)
+1. [[Hesekiel begegnet der Herrlichkeit Gottes]] (1)
+2. Gott beruft Hesekiel zum Wächter und Propheten (2,1-3,21)
+3. Gott kündigt Gericht über die Bewohner Israels an (3,22-7,27)
+4. Gott zeigt Hesekiel, warum Gottes Gegenwart Israel verlässt (8-11)
+5. Gott bestätigt das Gericht als beschlossene Sache (12-14)
+6. Gleichnisse von Sünde, Gericht und Wiederherstellung (15-19)
+7. Gott verdeutlicht dem Volk seine Sünde und deren Konsequenzen (20-24)
+8. Gott kündigt Gericht über die Nationen und ihre Könige an (25-32)
+9. Gott belebt sein Volk wieder und richtet seine Feinde (33-39)
+10. Gottes Gegenwart stellt Israels Tempel, Gottesdienst und Land wieder her (40-48)
 
 ## Beobachtungen
 
