@@ -7,5 +7,6 @@
 
 - Hesekiels Situation (Weggeführt im Exil)
 - Feuer und Glanz
+- Furchteinflößend und doch wunderschön
 - Lebende Wesen aus Offb 4?
 - Hesekiels Reaktion: Niederfallen
