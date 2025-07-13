@@ -10,3 +10,16 @@
 - Furchteinflößend und doch wunderschön
 - Lebende Wesen aus Offb 4?
 - Hesekiels Reaktion: Niederfallen
+
+## Gliederung
+
+1. Hesekiels Situation (vv. 1-3)
+2. Die lebenden Wesen (vv. 4-14)
+3. Die Räder (vv. 15-21)
+4. Das Gewölbe und Geräusch (vv. 22-25)
+5. Der Thron und welcher darauf saß (vv. 26-28)
+
+### Hesekiels Situation
+
+- Schon seit 5 Jahren im babylonischen Exil
+- Wohnt unter anderen Weggeführten am Fluss Kebar
