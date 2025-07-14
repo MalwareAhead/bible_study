@@ -4,4 +4,4 @@
 
 ## Forschungsgegenstände
 
-- Beschreibungen eines [[Gesunder Lebensstil|gesunden Lebensstils]] 
+- Beschreibungen eines [[Balance|gesunden Lebensstils]] 
