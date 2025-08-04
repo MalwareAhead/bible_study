@@ -10,7 +10,15 @@
 	- durch das Abstoßen von Glauben und gutem Gewissen (2,19)
 	- durch das Achten auf betrügerische Geister und Lehren von Dämonen (4,1)
 	- durch das Jagen nach Reichtum (6,10)
-	- durch das Bekennen zur Irrlehre der Gnosis (6,21)
+	- durch das Bekennen zur Irrlehre der Gnosis (6,20-21)
 - Paulus hat unterschiedliche Ermahnungen für alle Menschengruppen in der Gemeinde parat
 	- Männer, Frauen, Pastoren, Diakone, Witwen, Sklaven, Wohlhabende
 	- Timotheus soll diese Menschen dementsprechend ermahnen
+- Paulus nennt explizit Eigenschaften Gottes
+	- unser Retter (1,1)
+	- glückselig (1,11)
+	- König der Zeitalter (1,17)
+	- unvergänglich (1,17)
+	- unsichtbar (1,17)
+	- alleinig (1,17)
+	- 
