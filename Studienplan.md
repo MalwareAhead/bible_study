@@ -4,7 +4,7 @@
 > Alle zwei Wochen (von Montag bis Sonntag) lege ich meinen Fokus auf ein Bibelbuch, unabhängig von seiner Länge.
 > 1. Ich lese das Buch möglichst durch, auch in unterschiedlichen Übersetzungen.
 > 2. Ich notiere mir Fragen und Beobachtungen zum Buch.
-> 3. Ich nehme mir einzelne Abschnitte heraus, die ich exegetisch bearbeite.
+> 3. Ich nehme mir einzelne Abschnitte und Themen heraus, die ich exegetisch bearbeite.
 > 
 > - Meine Studierzeit ist eher abends.
 > - Eine Study session sollte mindestens 30 min. betragen.
