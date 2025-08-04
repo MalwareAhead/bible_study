@@ -15,10 +15,13 @@
 	- Männer, Frauen, Pastoren, Diakone, Witwen, Sklaven, Wohlhabende
 	- Timotheus soll diese Menschen dementsprechend ermahnen
 - Paulus nennt explizit Eigenschaften Gottes
-	- unser Retter (1,1)
-	- glückselig (1,11)
+	- unser Retter (1,1; 2,4; 4,10)
+	- glückselig (1,11; 6,15)
 	- König der Zeitalter (1,17)
 	- unvergänglich (1,17)
 	- unsichtbar (1,17)
-	- alleinig (1,17)
-	- 
+	- alleinig (1,17; 2,5; 6,15)
+	- lebendig (3,15; 4,10)
+	- der allem Leben gibt (6,13)
+	- König der Könige (6,15)
+	- Herr der Herren (6,15)
