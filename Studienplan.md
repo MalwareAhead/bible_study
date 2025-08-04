@@ -1,6 +1,6 @@
 # Studienplan
 
-> [!todo] Geplantes Studieren
+> [!success] Geplantes Studieren
 > Alle zwei Wochen (von Montag bis Sonntag) lege ich meinen Fokus auf ein Bibelbuch, unabhängig von seiner Länge.
 > 1. Ich lese das Buch möglichst durch, auch in unterschiedlichen Übersetzungen.
 > 2. Ich notiere mir Fragen und Beobachtungen zum Buch.
