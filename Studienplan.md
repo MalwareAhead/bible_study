@@ -10,7 +10,7 @@
 > - Eine Study session sollte mindestens 30 min. betragen.
 > - Ich möchte vor und nach der Study session beten. 
 
-- [ ] KW32-33: **1. Timotheus**
+- [/] KW32-33: **1. Timotheus**
 - [ ] KW34-35: **Deuteronomium**
 - [ ] KW36-37: **Kolosser**
 - [ ] KW38-39: **Prediger**
