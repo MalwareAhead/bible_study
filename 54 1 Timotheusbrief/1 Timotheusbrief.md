@@ -2,6 +2,17 @@
 
 #nt #brief
 
+## Gedanken Flow
+
+1. Sei gegrüßt, Timotheus! (1,1-2)
+2. Ich ließ dich ja in Ephesus zurück, damit du die gesetzlichen Irrlehren bekämpfst (1,3-11)
+3. Kämpfe mit mir für das Evangelium, durch das sogar ich gerettet und für das ich eingesetzt wurde (1,12-20)
+4. Betet für alle Menschen, auch für die Obrigkeit, denn Gott gefällt das (2,1-7)
+5. Männer und Frauen sollen sich ihren Rollen gemäß in der Gemeinde verhalten (2,8-15)
+6. Folgende Einsetzungskriterien gelten für Pastoren und Diakone (3,1-13)
+7. Gib diese Ermahnungen weiter, bis wir uns wieder face to face sehen (3,14-16)
+8. Bewahre den Glauben und lehre das Wort Gottes und weise die Irrlehrer ab (4,1-11)
+
 ## Beobachtungen
 
 - "Das Wort ist gewiss..."
