@@ -24,4 +24,10 @@
 	- lebendig (3,15; 4,10)
 	- der allem Leben gibt (6,13)
 	- der ein unzugängliches Licht bewohnt (6,16)
-	- der alles reichtlich darreicht zum Genuss (6,17)
+	- der alles reichlich darreicht zum Genuss (6,17)
+- Fokussierte Tugenden
+	- Glauben
+	- ein gutes Gewissen
+	- die gute Lehre bewahren
+	- liebevolles Ermahnen
+- Paulus Ermahnungen an Timotheus und Ermahnungen, die Timotheus weitergeben soll
