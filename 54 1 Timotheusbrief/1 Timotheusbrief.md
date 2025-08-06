@@ -42,3 +42,10 @@
 	- die gute Lehre bewahren
 	- liebevolles Ermahnen
 - Paulus Ermahnungen an Timotheus und Ermahnungen, die Timotheus weitergeben soll
+- Gefahren und Risikofaktoren von innen und außen, denen sich Timotheus bewusst sein soll
+	- Irrlehrer (1,3-11; 4,1-6; 6,3-6.20-21)
+	- unwürdige Pastoren und Diakone (3,1-13)
+	- die eigene Nachlässigkeit (4,7-16; 6,11-15)
+	- Witwen, die der Gemeinde nicht auf der Tasche sitzen sollten (5,3-16)
+	- Leute, die reich werden wollen (6,9-10)
+	- Reiche, die sich auf ihren Reichtum etwas einbilden könnten (6,17-19)
