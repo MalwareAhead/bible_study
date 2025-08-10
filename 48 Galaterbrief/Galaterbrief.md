@@ -40,6 +40,7 @@ Zusammengestellt aus [[Schlüsselstellen im Galaterbrief]]
 - Was erhofften sich die Galater vom Leben im Gesetz?
 - Warum geht Paulus am Ende des Briefes so stark auf die geschwisterliche Liebe in der Gemeinde ein?
 	- Was hat das mit dem Hauptthema zutun?
+- Anwendung: Gesetzlichkeit der Galater -> unsere Religiösität ("Ich muss mich anstrengen", "Ich mache doch schon, was Gott will")
 
 > [!summary] Aussage zu Inhalt und Absicht
 > Paulus schreibt and die galatischen Gemeinden, dass nur der Glaube an das Kreuz Christi sie zu freien Kindern Gottes und gesegneten Erben der Verheißungen Gottes macht. Dieses Evangelium haben sie bereits von ihm gehört; ein anderes gibt es nicht.

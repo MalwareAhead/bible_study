@@ -59,13 +59,20 @@
 	- Jesus ist der einzige Mittler zwischen Gott und Menschen (2,5)
 	- Jesus hat sich als Lösegeld für alle gegeben, als "Zeugnis zur rechten Zeit" (2,6)
 	- Jesus ist das Geheimnis rechter Gottesverehrung (3,16)
-	- Jesus ist als Mensch gekommen (3,16; 2,5)
-	- Jesus wurde durch den Geist als Sohn Gottes bestätigt (3,16)
-	- Die Engel (oder die Jünger) haben als Augenzeugen Jesus gesehen (3,16)
-	- Jesus wird unter allen Nationen gepredigt (3,16)
-	- In der ganzen Welt glauben Menschen an Jesus (3,16)
-	- Jesus wurde aufgenommen in die Herrlichkeit zum Vater (3,16)
+		- Jesus ist als Mensch aus Fleisch und Blut gekommen (3,16; 2,5)
+		- Jesus wurde durch den Geist als Sohn Gottes bestätigt (3,16)
+		- Die Engel (oder die Jünger) haben als Augenzeugen Jesus gesehen (3,16)
+		- Jesus wird unter allen Nationen gepredigt (3,16)
+		- In der ganzen Welt glauben Menschen an Jesus (3,16)
+		- Jesus wurde aufgenommen in die Herrlichkeit zum Vater (3,16)
 	- Gute Diener Christi lehren die wahren Worte des Glaubens (4,6)
 	- Jesu Worte sind die gesunden Worte (6,3)
 	- Jesus hat vor Pilatus die Wahrheit kompromisslos bezeugt (6,13)
 	- Jesus Christus wird wiederkommen (6,14)
+- Paulus Absicht mit diesem Brief
+	- Paulus vertraut Timotheus ein Gebot an, damit er dadurch den guten Kampf kämpft (1,18)
+	- Paulus gibt Timotheus Anweisungen bzgl. seines Dienstes in der Gemeinde (3,14-15)
+	- Paulus schreibt diesen Brief, weil es noch dauert, bis er zu Timotheus kommt (3,14; 4,13)
+
+> [!summary] Paulus Absicht mit seinem ersten Brief an Timotheus
+Paulus motiviert und mahnt Timotheus eindrücklich, seinen Dienst als Pastor mit größter Sorgfalt und gutem Gewissen im Glauben auszuführen, damit die Gemeindemitglieder gottesfürchtig leben, in der Gemeinde Ordnung herrscht und Irrlehrer keinen Schaden in der Gemeinde anrichten können.
