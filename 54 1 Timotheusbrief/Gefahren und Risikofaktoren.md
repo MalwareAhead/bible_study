@@ -12,3 +12,6 @@
 > 5. Leute, die reich werden wollen (6,9-10)
 > 6. Reiche, die sich auf ihren Reichtum etwas einbilden könnten (6,17-19)
 
+## Irrlehrer
+
+- starke Ähnlichkeit zur Beschreibung [[Böse und Gute Menschen#Böse Menschen Verräter, Verführte und Verführer|böser Menschen in der Gemeinde]] im [[2 Timotheusbrief|zweiten Timotheusbrief]]
