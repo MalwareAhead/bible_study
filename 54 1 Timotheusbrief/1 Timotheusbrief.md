@@ -16,7 +16,7 @@
 ## Beobachtungen
 
 - "Das Wort ist gewiss..."
-- es gibt Leute, die vom Glauben abgeirrt sind
+- es gibt [[Leute, die vom Glauben abgeirrt]] sind
 	- durch leeres Geschwätz (1,6)
 	- durch das Abstoßen von Glauben und gutem Gewissen (2,19)
 	- durch das Achten auf betrügerische Geister und Lehren von Dämonen (4,1)
@@ -25,24 +25,14 @@
 - Paulus hat unterschiedliche Ermahnungen für alle Menschengruppen in der Gemeinde parat
 	- Männer, Frauen, Pastoren, Diakone, Witwen, Sklaven, Wohlhabende
 	- Timotheus soll diese Menschen dementsprechend ermahnen
-- Paulus nennt explizit Eigenschaften Gottes
-	- unser Retter (1,1; 2,4; 4,10)
-	- glückselig (1,11; 6,15)
-	- König der Zeitalter, Machthaber, König der Könige, Herr der Herren (1,17; 6,15)
-	- unvergänglich, der Unsterblichkeit hat (1,17; 6,16)
-	- unsichtbar, den keiner der Menschen gesehen hat und nicht sehen kann (1,17; 6,16)
-	- alleinig (1,17; 2,5; 6,15)
-	- lebendig (3,15; 4,10)
-	- der allem Leben gibt (6,13)
-	- der ein unzugängliches Licht bewohnt (6,16)
-	- der alles reichlich darreicht zum Genuss (6,17)
+- Paulus nennt explizit [[Gott im ersten Timotheusbrief|Eigenschaften Gottes]]
 - Fokussierte Tugenden
 	- Glauben
 	- ein gutes Gewissen
 	- die gute Lehre bewahren
 	- liebevolles Ermahnen
 - Paulus Ermahnungen an Timotheus und Ermahnungen, die Timotheus weitergeben soll
-- Gefahren und Risikofaktoren von innen und außen, denen sich Timotheus bewusst sein soll
+- [[Gefahren und Risikofaktoren von innen und außen]], denen sich Timotheus bewusst sein soll
 	- Irrlehrer (1,3-11; 4,1-6; 6,3-6.20-21)
 	- unwürdige Pastoren und Diakone (3,1-13)
 	- die eigene Nachlässigkeit (4,7-16; 6,11-15)
