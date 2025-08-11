@@ -15,7 +15,9 @@
 
 ## Beobachtungen
 
-- "Das Wort ist gewiss..."
+- Paulus nennt explizit [[Gott im ersten Timotheusbrief|Eigenschaften Gottes]]
+- [[Jesus im ersten Timotheusbrief|Jesus im 1. Timotheusbrief]]
+- [[Gefahren und Risikofaktoren von innen und außen]], denen sich Timotheus bewusst sein soll
 - es gibt [[Leute, die vom Glauben abgeirrt]] sind
 	- durch leeres Geschwätz (1,6)
 	- durch das Abstoßen von Glauben und gutem Gewissen (2,19)
@@ -25,21 +27,12 @@
 - Paulus hat unterschiedliche Ermahnungen für alle Menschengruppen in der Gemeinde parat
 	- Männer, Frauen, Pastoren, Diakone, Witwen, Sklaven, Wohlhabende
 	- Timotheus soll diese Menschen dementsprechend ermahnen
-- Paulus nennt explizit [[Gott im ersten Timotheusbrief|Eigenschaften Gottes]]
 - Fokussierte Tugenden
 	- Glauben
 	- ein gutes Gewissen
 	- die gute Lehre bewahren
 	- liebevolles Ermahnen
 - Paulus Ermahnungen an Timotheus und Ermahnungen, die Timotheus weitergeben soll
-- [[Gefahren und Risikofaktoren von innen und außen]], denen sich Timotheus bewusst sein soll
-	- Irrlehrer (1,3-11; 4,1-6; 6,3-6.20-21)
-	- unwürdige Pastoren und Diakone (3,1-13)
-	- die eigene Nachlässigkeit (4,7-16; 6,11-15)
-	- Witwen, die der Gemeinde nicht auf der Tasche sitzen sollten (5,3-16)
-	- Leute, die reich werden wollen (6,9-10)
-	- Reiche, die sich auf ihren Reichtum etwas einbilden könnten (6,17-19)
-- [[Jesus im ersten Timotheusbrief|Jesus im 1. Timotheusbrief]]
 - Paulus Absicht mit diesem Brief
 	- Paulus vertraut Timotheus ein Gebot an, damit er dadurch den guten Kampf kämpft (1,18)
 	- Paulus gibt Timotheus Anweisungen bzgl. seines Dienstes in der Gemeinde (3,14-15)
