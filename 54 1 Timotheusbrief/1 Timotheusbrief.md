@@ -17,7 +17,7 @@
 
 - Paulus nennt explizit [[Gott im ersten Timotheusbrief|Eigenschaften Gottes]]
 - [[Jesus im ersten Timotheusbrief|Jesus im 1. Timotheusbrief]]
-- [[Gefahren und Risikofaktoren von innen und außen]], denen sich Timotheus bewusst sein soll
+- [[Gefahren und Risikofaktoren]], denen sich Timotheus bewusst sein soll
 - es gibt [[Leute, die vom Glauben abgeirrt]] sind
 	- durch leeres Geschwätz (1,6)
 	- durch das Abstoßen von Glauben und gutem Gewissen (2,19)

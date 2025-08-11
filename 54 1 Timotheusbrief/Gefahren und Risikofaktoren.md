@@ -1,4 +1,4 @@
-# Gefahren und Risikofaktoren von innen und außen
+# Gefahren und Risikofaktoren für die Gemeinde Gottes
 
 #beobachtung 
 
