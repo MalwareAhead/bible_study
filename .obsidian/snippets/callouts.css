@@ -57,42 +57,55 @@
   --callout-icon: quote;
 }
 .callout[data-callout="goal"] {
+  --callout-color: 155, 117, 159;  /* Medium-tone purple */
   --callout-icon: target;
 }
 .callout[data-callout="idea"] {
+  --callout-color: 198, 172, 94;  /* Medium-tone yellow */
   --callout-icon: lightbulb;
 }
 .callout[data-callout="clock"] {
+  --callout-color: 103, 158, 172;  /* Medium-tone blue-teal */
   --callout-icon: clock;
 }
 .callout[data-callout="search"] {
+  --callout-color: 98, 132, 171;  /* Medium-tone blue */
   --callout-icon: magnifying-glass;
 }
 .callout[data-callout="heart"] {
+  --callout-color: 184, 102, 107;  /* Medium-tone pink */
   --callout-icon: heart;
 }
 .callout[data-callout="blessing"] {
+  --callout-color: 190, 167, 97;  /* Medium-tone gold */
   --callout-icon: sparkles;
 }
 .callout[data-callout="prophecy"] {
+  --callout-color: 143, 116, 169;  /* Medium-tone purple */
   --callout-icon: eye;
 }
 .callout[data-callout="scripture"] {
+  --callout-color: 168, 121, 89;  /* Medium-tone brown */
   --callout-icon: book-open;
 }
 .callout[data-callout="paperplane"] {
+  --callout-color: 106, 137, 189;  /* Medium-tone blue */
   --callout-icon: paper-plane;
 }
 .callout[data-callout="sermon"] {
+  --callout-color: 163, 112, 78;  /* Medium-tone copper */
   --callout-icon: message-square;
 }
 .callout[data-callout="commentary"] {
+  --callout-color: 96, 127, 154;  /* Medium-tone slate blue */
   --callout-icon: message-circle;
 }
 .callout[data-callout="doctrine"] {
+  --callout-color: 168, 94, 83;  /* Medium-tone brick red */
   --callout-icon: book;
 }
 .callout[data-callout="shield"] {
+  --callout-color: 93, 146, 163;  /* Medium-tone steel blue */
   --callout-icon: shield;
 }
 

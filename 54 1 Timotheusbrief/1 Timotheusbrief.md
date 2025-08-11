@@ -74,5 +74,5 @@
 	- Paulus gibt Timotheus Anweisungen bzgl. seines Dienstes in der Gemeinde (3,14-15)
 	- Paulus schreibt diesen Brief, weil es noch dauert, bis er zu Timotheus kommt (3,14; 4,13)
 
-> [!summary] Paulus Absicht mit seinem ersten Brief an Timotheus
+> [!paperplane] Paulus Absicht mit seinem ersten Brief an Timotheus
 Paulus motiviert und mahnt Timotheus eindrücklich, seinen Dienst als Pastor mit größter Sorgfalt und gutem Gewissen im Glauben auszuführen, damit die Gemeindemitglieder gottesfürchtig leben, in der Gemeinde Ordnung herrscht und Irrlehrer keinen Schaden in der Gemeinde anrichten können.

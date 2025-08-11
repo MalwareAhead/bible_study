@@ -24,31 +24,31 @@
 
 > [!quote] quote, cite
 
-> [!example] example
+> [!example] 
 
-> [!idea] idea
+> [!idea] 
 
-> [!clock] clock
+> [!clock] 
 
-> [!search] search
+> [!search] 
 
-> [!heart] heart
+> [!heart] 
 
-> [!blessing] blessing
+> [!blessing] 
 
-> [!prophecy] prophecy
+> [!prophecy] 
 
-> [!scripture] scripture
+> [!scripture] 
 
-> [!doctrine] doctrine
+> [!doctrine] 
 
-> [!paperplane] prayer
+> [!paperplane] 
 
-> [!sermon] sermon
+> [!sermon] 
 
-> [!commentary] commentary
+> [!commentary] 
 
-> [!shield] shield
+> [!shield] 
 
 ## Tbd.
 
