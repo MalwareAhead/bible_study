@@ -15,3 +15,10 @@
 ## Irrlehrer
 
 - starke Ähnlichkeit zur Beschreibung [[Böse und Gute Menschen#Böse Menschen Verräter, Verführte und Verführer|böser Menschen in der Gemeinde]] im [[2 Timotheusbrief|zweiten Timotheusbrief]]
+
+### 1,3-11
+
+- Timotheus sollte in Ephesus Leute anweisen, sich von Lehren zu distanzieren, die dem Evangelium widersprechen (1,3)
+- Diese falschen Lehren stammen u. a. von Fabeln und endlosen Geschlechtsregistern -> nichts als leeres Geschwätz (1,4)
+- Dieses Geschwätz widerspricht "Liebe aus reinem Herzen und gutem Gewissen und ungeheucheltem Glauben" (1,5-6)
+- Die Leute, die aktiv falsche Lehren verbreiten, wollen Gesetzeslehrer sein, haben aber keine Ahnung davon, was das Gesetz eigentlich bezweckt (1,7-11)
