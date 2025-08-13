@@ -24,3 +24,8 @@
 - Die Leute, die aktiv falsche Lehren verbreiten, wollen Gesetzeslehrer sein, haben aber keine Ahnung davon, was das Gesetz eigentlich bezweckt (1,7-11)
 
 ### 4,1-6
+
+- 
+
+### 6,3-6.20-21
+
