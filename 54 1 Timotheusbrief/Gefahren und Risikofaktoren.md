@@ -22,3 +22,5 @@
 - Diese falschen Lehren stammen u. a. von Fabeln und endlosen Geschlechtsregistern -> nichts als leeres Geschwätz (1,4)
 - Dieses Geschwätz widerspricht "Liebe aus reinem Herzen und gutem Gewissen und ungeheucheltem Glauben" (1,5-6)
 - Die Leute, die aktiv falsche Lehren verbreiten, wollen Gesetzeslehrer sein, haben aber keine Ahnung davon, was das Gesetz eigentlich bezweckt (1,7-11)
+
+### 4,1-6
