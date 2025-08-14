@@ -36,4 +36,9 @@
 
 ### 6,3-6.20-21
 
-- 
+- Diejenigen, die Irrlehren verbreiten, sind aufgeblasen, verdorben und haben keine Ahnung von der Wahrheit (6,3-5)
+- Sie werden daran erkannt, dass sie sich an Streitfragen und bösartigen Diskussionen aufhängen und einen entsprechenden Lebenswandel der Zwietracht führen (6,4)
+- Sie benutzen ihre Irrlehren, um sich an anderen zu bereichern (6,5)
+
+- Timotheus soll das ihm anvertraute Gebot, die Worte Gottes und ihre Verbreitung bewahren, indem er das leere Reden und die "Erkenntnis" dieser Irrlehrer unter allen Umständen meidet (6,20)
+- Diese "Erkenntnis" ist nämlich eine reale Gefahr, die schön einige vom Glauben weggezogen hat (6,21)

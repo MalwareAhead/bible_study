@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "54 1 Timotheusbrief/1 Timotheusbrief.md",
+                "file": "54 1 Timotheusbrief/Gefahren und Risikofaktoren.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1 Timotheusbrief"
+              "title": "Gefahren und Risikofaktoren"
             }
           }
         ]
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -156,8 +157,8 @@
   },
   "active": "dbdb9b532a0c8cd5",
   "lastOpenFiles": [
-    "54 1 Timotheusbrief/Gefahren und Risikofaktoren.md",
     "54 1 Timotheusbrief/1 Timotheusbrief.md",
+    "54 1 Timotheusbrief/Gefahren und Risikofaktoren.md",
     "55 2 Timotheusbrief/Böse und Gute Menschen.md",
     "55 2 Timotheusbrief/2 Timotheusbrief.md",
     "54 1 Timotheusbrief/Gott im ersten Timotheusbrief.md",
