@@ -46,4 +46,4 @@
 	- Paulus schreibt diesen Brief, weil es noch dauert, bis er zu Timotheus kommt (3,14; 4,13)
 
 > [!paperplane] Paulus Absicht mit seinem ersten Brief an Timotheus
-Paulus motiviert und mahnt Timotheus eindrücklich, seinen Dienst als Pastor mit größter Sorgfalt und gutem Gewissen im Glauben auszuführen und die gesunde Lehre des Evangeliums zu lehren, damit die Gemeinde gottesfürchtig lebt, Ordnung hält und  keinen Schaden durch Irrlehrer nimmt.
+Paulus motiviert und mahnt Timotheus eindrücklich, seinen Dienst als Pastor mit größter Sorgfalt und gutem Gewissen im Glauben auszuführen und die gesunde Lehre des Evangeliums zu lehren, damit die Gemeinde gottesfürchtig lebt, Ordnung hält und keinen Schaden durch Irrlehrer nimmt.
