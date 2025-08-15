@@ -5,13 +5,17 @@
 ## Gedanken Flow
 
 1. Sei gegrüßt, Timotheus! (1,1-2)
-2. Ich ließ dich ja in Ephesus zurück, damit du die gesetzlichen Irrlehren bekämpfst (1,3-11)
-3. Kämpfe mit mir für das Evangelium, durch das sogar ich gerettet und für das ich eingesetzt wurde (1,12-20)
-4. Betet für alle Menschen, auch für die Obrigkeit, denn Gott gefällt das (2,1-7)
-5. Männer und Frauen sollen sich ihren Rollen gemäß in der Gemeinde verhalten (2,8-15)
+2. Gesetzliche Irrlehrer gehören bekämpft (1,3-11)
+3. Tritt in meine Fußstapfen als Kämpfer des Glaubens (1,12-20)
+4. Stehe für alle Menschen, auch für Machthaber ein (2,1-7)
+5. Ermahne Männer und Frauen entsprechend ihrer Rollen (2,8-15)
 6. Folgende Einsetzungskriterien gelten für Pastoren und Diakone (3,1-13)
 7. Gib diese Ermahnungen weiter, bis wir uns wieder face to face sehen (3,14-16)
-8. Bewahre den Glauben und lehre das Wort Gottes und weise die Irrlehrer ab (4,1-11)
+8. Bewahre den Glauben, lehre das Wort Gottes und weise die Irrlehrer ab (4,1-5,2)
+9. Nicht alle Witwen sollen von der Gemeinde versorgt werden (5,3-16)
+10. Hier ein paar Anweisungen für dich und andere Älteste (5,17-25)
+11. Ermahne Sklaven, Reiche und Möchtegern-Reiche (6,1-19)
+12. Halte fest, was du hast und meide die Gnostiker (6,20-21)
 
 ## Beobachtungen
 
@@ -35,6 +39,7 @@
 	- die gute Lehre bewahren
 	- liebevolles Ermahnen
 - Paulus Ermahnungen an Timotheus und Ermahnungen, die Timotheus weitergeben soll
+	- Wenn Timotheus sich selbst bewahrt, bewahrt er dadurch auch die Gemeinde
 - Paulus Absicht mit diesem Brief
 	- Paulus vertraut Timotheus ein Gebot an, damit er dadurch den guten Kampf kämpft (1,18)
 	- Paulus gibt Timotheus Anweisungen bzgl. seines Dienstes in der Gemeinde (3,14-15)
