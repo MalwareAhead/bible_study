@@ -29,6 +29,7 @@
 	- Männer, Frauen, Pastoren, Diakone, Witwen, Sklaven, Wohlhabende
 	- Timotheus soll diese Menschen dementsprechend ermahnen
 - Fokussierte Tugenden
+	- Kompromisslosigkeit
 	- Glauben
 	- ein gutes Gewissen
 	- die gute Lehre bewahren
