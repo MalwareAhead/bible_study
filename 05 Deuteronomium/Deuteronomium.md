@@ -1,6 +1,6 @@
 # Deuteronomium
 
-#at #predigt 
+#at #gesetz
 
 ## Gliederung
 
