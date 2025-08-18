@@ -42,3 +42,7 @@
 
 - Timotheus soll das ihm anvertraute Gebot, die Worte Gottes und ihre Verbreitung bewahren, indem er das leere Reden und die "Erkenntnis" dieser Irrlehrer unter allen Umständen meidet (6,20)
 - Diese "Erkenntnis" ist nämlich eine reale Gefahr, die schön einige vom Glauben weggezogen hat (6,21)
+
+## unwürdige Pastoren und Diakone
+
+- 
