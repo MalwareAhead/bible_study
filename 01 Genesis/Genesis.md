@@ -1,6 +1,3 @@
----
-zuletzt studiert: Feb 2025
----
 # Genesis
 
 #at #erzählung

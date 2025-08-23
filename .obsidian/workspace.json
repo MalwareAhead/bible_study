@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -136,8 +137,35 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "cc3cee29b32a8480",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b1591b1d75398429",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "05 Deuteronomium/Deuteronomium.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Deuteronomium"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -146,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "graph:Open graph view": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
@@ -156,8 +185,9 @@
   },
   "active": "dbdb9b532a0c8cd5",
   "lastOpenFiles": [
-    "54 1 Timotheusbrief/1 Timotheusbrief.md",
+    "01 Genesis/Genesis.md",
     "05 Deuteronomium/Deuteronomium.md",
+    "54 1 Timotheusbrief/1 Timotheusbrief.md",
     "05 Deuteronomium/Nicht weil du.md",
     "05 Deuteronomium/Der furchtgebietende Gott.md",
     "Studienplan.md",
@@ -171,7 +201,6 @@
     "54 1 Timotheusbrief",
     "01 Genesis/Abrahams Lebenslauf.md",
     "01 Genesis/Die Zeit der Patriarchen.md",
-    "01 Genesis/Genesis.md",
     "21 Prediger/Prediger.md",
     "21 Prediger/Balance.md",
     "26 Hesekiel/Hesekiel begegnet der Herrlichkeit Gottes.md",

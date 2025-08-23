@@ -60,7 +60,6 @@
       "key": "N"
     }
   ],
-  "markdown:add-metadata-property": [],
   "table-editor-obsidian:table-control-bar": [],
   "editor:delete-paragraph": [],
   "editor:follow-link": [],
@@ -141,6 +140,15 @@
         "Mod"
       ],
       "key": "7"
+    }
+  ],
+  "markdown:add-metadata-property": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": ";"
     }
   ]
 }
