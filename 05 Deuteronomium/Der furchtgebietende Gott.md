@@ -1,5 +1,7 @@
 # Der furchtgebietende Gott
 
+#beobachtung 
+
 > [!hint] Gott ist zu fürchten
 > Eine vielbetonte Eigenschaft Gottes ist Seine Furchbarkeit. Er stellt sich selbst als den furchtbaren Gott vor (vgl. 7,21) und nennt sich *ein verzehrendes Feuer* (vgl. 4,24).
 

@@ -11,7 +11,7 @@
 ## Gliederung
 
 1. Einleitung (Kap 1-5)
-	* Erinnerung an historische Events -> Aufforderung zu entsprechendem Handeln
+	* [[Vom Exodus bis Heute|Erinnerung an historische Events]] -> Aufforderung zu entsprechendem Handeln
 	* Beschreibung der Ist-Situation (im Ostjordanland)
 	* Der Empfang der Zehn Gebote und die Reaktion des Volkes
 1. Auslegung des Mosaischen Bundes samt Gesetz und dessen Konsequenzen (Kap 6-30)
@@ -26,6 +26,6 @@
 - Gegensätze: Segen/Fluch, Leben/Tod, Gut/Böse, Zweifel/Selbstsicherheit
 - Prophetie: Gott sagt den Ungehorsam des Volkes und dessen Konsequenzen voraus
 - Was tut Gott und was soll Sein Volk tun?
-- Warum beschreibt Mose die vergangenen Ereignisse vom Exodus bis hierher?
+- Warum beschreibt Mose [[Vom Exodus bis Heute|die vergangenen Ereignisse]] vom Exodus bis hierher?
 - Gottes Wahrheit ist das [[Gegenmittel für Selbstzweifel und Selbstsicherheit]]
 

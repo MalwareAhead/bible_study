@@ -1,5 +1,7 @@
 # Die wirklichen (Macht-)Verhältnisse
 
+#beobachtung 
+
 > [!hint] Die Realität im Blick
 > Gott zeigt Seinem Volk durch Mose die wirklichen Verhältnisse auf, in denen die Israeliten leben. Gott möchte sie von den Illusionen befreien, denen sie möglicherweise verfallen sein könnten. 
 
