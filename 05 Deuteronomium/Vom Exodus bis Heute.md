@@ -13,9 +13,12 @@
 - Gott gebot Seinem Volk, vom Horeb aufzubrechen, um anzufangen, das Land zu erobern (1,6-8.19-21)
 - Gott hatte Israels Vorfahren versprochen, ihnen dieses Land zu geben (1,8)
 - Gott hatte Sein Volk sehr zahlreich gemacht, wie sie es heute sind (1,10)
-- Gott ist in Ägypten für das Volk gewesen und hat entsprechend gehandelt (1,30)
+- Gott ist in Ägypten *für* das Volk gewesen und hat entsprechend gehandelt (1,30)
 - Gott hat Sein Volk in der Wüste getragen, wie ein Vater seinen Sohn trägt (1,31)
 - Gott zog vor Seinem Volk her, um sie auf dem guten Weg zu führen (1,33)
+- Gott hörte das Murren und den Unmut des Volkes und wurde zornig darüber (1,34)
+- Gott schwor, dass die murrende, böse Generation das Land nicht erben wird (1,35)
+- Gott versprach Kaleb das gute Land, weil er Gott treu nachgefolgt ist (1,36)
 
 ## Die andauernde Widerspenstigkeit des Volkes
 
