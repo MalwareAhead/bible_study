@@ -4,8 +4,9 @@
 
 > [!clock] Eine Erinnerung an die Vergangenheit
 > Gott wirft durch Mose einen Blick auf die Vergangenheit und erinnert Sein Volk
-> 1. an Gottes bisheriges Handeln mit Seinem Volk und
-> 2. an die andauernde Widerspenstigkeit des Volkes seit dem Exodus bis heute
+> 1. an Gottes bisheriges Handeln mit Seinem Volk,
+> 2. die andauernde Widerspenstigkeit des Volkes seit dem Exodus und
+> 3. Gottes Reaktion auf diese Widerspenstigkeit.
 
 ## Gottes bisheriges Handeln mit Seinem Volk
 
