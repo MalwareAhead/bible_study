@@ -7,6 +7,8 @@
 > 1. an Gottes bisheriges Handeln mit Seinem Volk,
 > 2. die andauernde Widerspenstigkeit des Volkes seit dem Exodus und
 > 3. Gottes Reaktion auf diese Widerspenstigkeit.
+>    
+> Gottes, Macht, Fürsorge, Zorn, Heiligkeit...
 
 ## Gottes bisheriges Handeln mit Seinem Volk
 
