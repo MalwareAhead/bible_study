@@ -84,8 +84,8 @@
             "showSearch": false,
             "searchQuery": ""
           },
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "lucide-ghost",
+          "title": "all-properties"
         }
       }
     ],
@@ -143,6 +143,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,

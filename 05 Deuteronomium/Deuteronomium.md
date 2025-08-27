@@ -27,5 +27,5 @@
 - Prophetie: Gott sagt den Ungehorsam des Volkes und dessen Konsequenzen voraus
 - Was tut Gott und was soll Sein Volk tun?
 - Warum beschreibt Mose die vergangenen Ereignisse vom Exodus bis hierher?
-- Gegen Zweifel und gegen Selbstsicherheit
+- Gottes Wahrheit ist das [[Gegenmittel für Selbstzweifel und Selbstsicherheit]]
 
