@@ -2,7 +2,7 @@
 
 #beobachtung
 
-> [!clock] Eine Erinnerung an die Vergangenheit
+> [!clock] Eine Erinnerung an die Vergangenheit (Kap 1-3)
 > Gott wirft durch Mose einen Blick auf die Vergangenheit und erinnert Sein Volk
 > 1. an Gottes bisherigen Umgang mit Seinem Volk und
 > 2. die andauernde Widerspenstigkeit des Volkes seit dem Exodus
