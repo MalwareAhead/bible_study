@@ -11,7 +11,7 @@
 > - Ich möchte vor und nach der Study session beten. 
 
 - [x] KW32-33: **1. Timotheus**
-- [/] KW34-35: **Deuteronomium**
-- [ ] KW36-37: **Kolosser**
+- [x] KW34-35: **Deuteronomium**
+- [/] KW36-37: **Kolosser**
 - [ ] KW38-39: **Prediger**
 - [ ] KW40-41: **Matthäus**
