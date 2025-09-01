@@ -1,6 +1,9 @@
 # Christus, der Kontrast
 
-> [!search] Die Dinge, die Paulus über Jesus sagt, sind Wahrheiten, die über die asketische, trügerische und egoistische Irrlehre triumphieren.
+#these 
+
+> [!search] Diese Irrlehren stehen im klaren Widerspruch zu Christus
+> Die Wahrheiten, die Paulus über Jesus ausspricht,stehen der asketischen, trügerischen und egoistischen Irrlehre konsequent entgegen und siegen über diese.
 
 ## Gegen Askese
 

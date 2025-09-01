@@ -20,10 +20,10 @@
 
 ## Allgemeine Beobachtungen
 
-- [[Wer ist Christus?]] Wie stellt Paulus Ihn der Gemeinde vor?
-- Von wem oder was wird die Gemeinde bedroht? Welche [[Bedrohung durch Irrlehre|Irrlehre]] kursierte in der Gemeinde oder um die Gemeinde herum? Was steht auf dem Spiel?
-- Ausziehen und Anziehen, vom Tod zum Leben
-- Christus ist das Geheimnis Gottes, verborgen, noch nicht offenbar
-- Christus ist Alles, die Fülle (ganzheitliche Wörter wie "vollkommen", "jeder", "alles",...)
-- Wiederholung der Wortfamilie rund um "Danken" (vgl. 1,3.12; 2,7; 3,15.17; 4,2)
+- [[Wer ist Christus?]]
+	- Christus ist [[Gottes Geheimnis|das Geheimnis Gottes]] -> verborgen, noch nicht offenbar
+- Welche [[Bedrohung durch Irrlehre|Irrlehre]] kursierte in der Gemeinde oder um die Gemeinde herum?
+	- Was steht auf dem Spiel?
+- Gegensätze: Ausziehen und Anziehen, vom Tod zum Leben
+- Wiederholung der Wortfamilie rund um "[[Danken]]" (vgl. 1,3.12; 2,7; 3,15.17; 4,2)
 

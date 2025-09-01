@@ -1,8 +1,12 @@
 # Bedrohung durch Irrlehre
 
-> [!question] Von wem oder was wird die Gemeinde bedroht? Welche Irrlehre kursierte in der Gemeinde oder um die Gemeinde herum? Was steht auf dem Spiel?
+> [!question] Forschungsfragen
+> - Welche Irrlehre kursierte in der Gemeinde oder um die Gemeinde herum?
+> - Was machte diese Irrlehre aus?
+> - Welchen Einfluss übt diese Irrlehre auf die Gemeinde aus? Was steht auf dem Spiel?
+> - Handelt es sich um eine einzige, kohärente Lehre, oder einfach um falsche Ideen und Glaubenssätze?
 
-## Hinweise
+## Aussagen über die Irrlehre(n)
 
 - drohende Verführung durch überredende Worte (2,4)
 - fangen ein durch Philosophie und leeren Betrug (2,8)

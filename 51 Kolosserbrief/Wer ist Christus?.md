@@ -1,6 +1,9 @@
 # Wer ist Christus?
 
-> [!question] Wie stellt Paulus der Gemeinde Jesus Christus vor? Welche Eigenschaften hebt er besonders an Ihm hervor? Welcher Zusammenhang besteht zwischen den Eigenschaften, die er nennt?
+> [!question] Forschungsfragen
+> - Wie stellt Paulus der Gemeinde Jesus Christus vor?
+> - Welche Eigenschaften hebt er besonders an Ihm hervor?
+> - Welcher Zusammenhang besteht zwischen den Eigenschaften, die er nennt?
 
 ## Hervorgehobene Eigenschaften des Christus
 
@@ -63,4 +66,4 @@
 > - über jeder Gewalt und Macht und
 > - von Anfang an und bis in Ewigkeit über allem, was geschaffen wurde.
 > 
-> Jesus steht nicht nur **über allem**, sondern auch **alles besteht in ihm**. Dazu gehören Seine Erlösten, Sein Werk am Kreuz, Sein Sieg und auch alles, was wir als Seine Knechte reden und tun. Vor allen anderen Dingen aber besteht in Ihm die **Fülle der Gottheit**. Insgesamt also ALLES.
+> Jesus steht nicht nur **über allem**, sondern auch **alles besteht in ihm**. Dazu gehören Seine Erlösten, Sein Werk am Kreuz, Sein Sieg und auch alles, was wir als Seine Knechte reden und tun. Vor allen anderen Dingen aber besteht in Ihm die **Fülle der Gottheit**. Insgesamt also ALLES. Dies wird dadurch gestützt, indem Paulus ganzheitliche Wörter wie "vollkommen", "jeder", "alles", etc. in Bezug auf Christus verwendet.
