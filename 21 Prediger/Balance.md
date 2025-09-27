@@ -1,7 +1,7 @@
 # Ein gesunder Lebensstil
 
 > [!hint] Beobachtung
-> Der [[Prediger]] beschreibt Gottes Willen für ein Leben im Gleichgewicht, dass sowohl aus schönen als auch nicht schönen Aspekten besteht. Das Leben ist gut trotz seiner Kürze und Imperfektion.
+> Der Prediger beschreibt Gottes Willen für ein Leben im Gleichgewicht, dass sowohl aus schönen als auch nicht schönen Aspekten besteht. Das Leben ist gut trotz seiner Kürze und Imperfektion.
 
 ## Die Balance eines guten Lebens
 
