@@ -4,4 +4,4 @@
 
 ## Forschungsgegenstände
 
-- Ein gesunder Lebensstil durch [[Balance|die Balance zwischen Grind und Genuss]]
+- [[Genuss, Gottes Geschenk|Genuss ist Gottes Geschenk an den Menschen]]
