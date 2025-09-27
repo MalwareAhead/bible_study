@@ -12,6 +12,6 @@
 
 - [x] KW32-33: **1. Timotheus**
 - [x] KW34-35: **Deuteronomium**
-- [/] KW36-37: **Kolosser**
-- [ ] KW38-39: **Prediger**
+- [x] KW36-37: **Kolosser**
+- [/] KW38-39: **Prediger**
 - [ ] KW40-41: **Matthäus**

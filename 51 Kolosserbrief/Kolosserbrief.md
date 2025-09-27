@@ -6,7 +6,7 @@
 > - Paulus schrieb den Brief in seiner Gefangenschaft (vgl. 1,24; 4,3.10.18)
 > - Paulus und die Kolosser haben sich nie persönlich getroffen (2,1)
 > - Die Gemeinde in Kolossä wurde wahrscheinlich von Epaphras gegründet und/oder betreut (1,7; 4,12-13)
-x
+
 ## Gliederung
 
 1. Die Lehre von Christus (Kap. 1-2)

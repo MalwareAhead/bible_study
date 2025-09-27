@@ -4,4 +4,4 @@
 
 ## Forschungsgegenstände
 
-- Beschreibungen eines [[Balance|gesunden Lebensstils]] 
+- Ein gesunder Lebensstil durch [[Balance|die Balance zwischen Grind und Genuss]]
