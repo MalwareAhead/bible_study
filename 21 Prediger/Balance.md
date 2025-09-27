@@ -1,9 +1,9 @@
-# Ein gesunder Lebensstil
+# Die richtige Balance zwischen Grind und Genuss
 
 > [!hint] Beobachtung
-> Der Prediger beschreibt Gottes Willen für ein Leben im Gleichgewicht, dass sowohl aus schönen als auch nicht schönen Aspekten besteht. Das Leben ist gut trotz seiner Kürze und Imperfektion.
+> Der Prediger beschreibt Gottes Willen für ein Leben im Gleichgewicht, zwischen Grind und Genuss. Er wiederholt, dass es für den Menschen gut ist, bei seinen Mühen auch das Gute zu genießen.
 
-## Die Balance eines guten Lebens
+## Statements
 
 - Es gibt nichts Besseres für den Menschen, als dass er isst und trinkt und seine Seele Gutes sehen lässt bei seinem Mühen. Auch das sah ich, dass dies alles aus der Hand Gottes ⟨kommt⟩. (2,24)
 - Ich erkannte, dass es nichts Besseres bei ihnen gibt, als sich zu freuen und sich in seinem Leben gütlich zu tun. 13 Aber auch, dass jeder Mensch isst und trinkt und Gutes sieht bei all seinem Mühen, das ist eine Gabe Gottes. (3,12-13)
