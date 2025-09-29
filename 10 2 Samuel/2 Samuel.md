@@ -12,4 +12,5 @@ tags:
 
 ## Beobachtungen und Fragen
 
-- Wie beginnt David seine Königsherrschaft? 
+- Wie beginnt David seine Königsherrschaft?
+- Gott bestätigt Davids Königsherrschaft durch Erfolg und Bund
