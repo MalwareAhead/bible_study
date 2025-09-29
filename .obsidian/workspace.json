@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -200,8 +201,10 @@
   },
   "active": "2521553436c8355b",
   "lastOpenFiles": [
-    "Callouts.md",
+    "05 Deuteronomium/Deuteronomium.md",
+    "16 Nehemia/Nehemia.md",
     "10 2 Samuel/2 Samuel.md",
+    "Callouts.md",
     "21 Prediger/Genuss, Gottes Geschenk.md",
     "10 2 Samuel",
     "21 Prediger/Prediger.md",
@@ -216,7 +219,6 @@
     "Studienplan.md",
     "05 Deuteronomium/Vom Exodus bis Heute.md",
     "05 Deuteronomium/Gegenmittel für Selbstzweifel und Selbstsicherheit.md",
-    "05 Deuteronomium/Deuteronomium.md",
     "05 Deuteronomium/Der furchtgebietende Gott.md",
     "05 Deuteronomium/Nicht weil du.md",
     "01 Genesis/Genesis.md",
@@ -227,7 +229,6 @@
     "54 1 Timotheusbrief",
     "01 Genesis/Abrahams Lebenslauf.md",
     "01 Genesis/Die Zeit der Patriarchen.md",
-    "26 Hesekiel/Hesekiel begegnet der Herrlichkeit Gottes.md",
     "Biografien",
     "66 Offenbarung",
     "62 1 Johannesbrief",
