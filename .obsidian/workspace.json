@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21 Prediger/Genuss, Gottes Geschenk.md",
+                "file": "10 2 Samuel/2 Samuel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Genuss, Gottes Geschenk"
+              "title": "2 Samuel"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bio",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,8 +147,8 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-ghost",
-              "title": "all-properties"
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -157,10 +157,24 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "05 Deuteronomium/Deuteronomium.md"
+                "file": "10 2 Samuel/2 Samuel.md"
               },
-              "icon": "lucide-ghost",
-              "title": "file-properties"
+              "icon": "lucide-info",
+              "title": "File properties for 2 Samuel"
+            }
+          },
+          {
+            "id": "dbe70f552ed058de",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
@@ -186,9 +200,11 @@
   },
   "active": "2521553436c8355b",
   "lastOpenFiles": [
-    "21 Prediger/Prediger.md",
-    "21 Prediger/Genuss, Gottes Geschenk.md",
     "Callouts.md",
+    "10 2 Samuel/2 Samuel.md",
+    "21 Prediger/Genuss, Gottes Geschenk.md",
+    "10 2 Samuel",
+    "21 Prediger/Prediger.md",
     "49 Epheserbrief/Epheserbrief.md",
     "51 Kolosserbrief/Kolosserbrief.md",
     "51 Kolosserbrief/Christus, der Kontrast.md",
@@ -212,7 +228,6 @@
     "01 Genesis/Abrahams Lebenslauf.md",
     "01 Genesis/Die Zeit der Patriarchen.md",
     "26 Hesekiel/Hesekiel begegnet der Herrlichkeit Gottes.md",
-    "26 Hesekiel/Hesekiel.md",
     "Biografien",
     "66 Offenbarung",
     "62 1 Johannesbrief",
@@ -221,7 +236,6 @@
     "04 Numeri",
     "49 Epheserbrief",
     "48 Galaterbrief/Predigten",
-    "48 Galaterbrief",
     "Anhänge/1PetrusErgebnis.png",
     "attachments/Screenshot 2024-01-02 at 18.41.51.png",
     "Untitled.canvas",

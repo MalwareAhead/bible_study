@@ -150,5 +150,21 @@
       ],
       "key": ";"
     }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:insert-callout": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "0"
+    }
   ]
 }
