@@ -14,3 +14,4 @@ tags:
 
 - Wie beginnt David seine Königsherrschaft?
 - Gott bestätigt Davids Königsherrschaft durch Erfolg und Bund
+- Schatten auf Jesu Königsherrschaft (im 1000-jährigen Reich)
