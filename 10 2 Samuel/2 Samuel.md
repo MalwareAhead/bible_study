@@ -10,6 +10,13 @@ tags:
 > [!scripture] Thema des Buches
 > Während 1. Samuel den Aufstieg und Fall von Sauls Königsherrschaft beschreibt, erzählt 2. Samuel von der Königsherrschaft Davids, die in 1. Sam 16 angekündigt wurde.
 
+## Gliederung
+
+1. Aufstieg
+2. Sünde
+3. Abstieg
+4. Wiederherstellung
+
 ## Beobachtungen und Fragen
 
 - Wie beginnt David seine Königsherrschaft?
