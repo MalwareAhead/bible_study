@@ -1,7 +1,7 @@
 {
   "file-explorer": true,
   "global-search": true,
-  "switcher": true,
+  "switcher": false,
   "graph": true,
   "backlink": true,
   "canvas": false,
@@ -14,14 +14,14 @@
   "command-palette": true,
   "slash-command": false,
   "editor-status": true,
-  "bookmarks": false,
+  "bookmarks": true,
   "markdown-importer": false,
   "zk-prefixer": false,
   "random-note": false,
   "outline": false,
   "word-count": true,
   "slides": false,
-  "audio-recorder": true,
+  "audio-recorder": false,
   "workspaces": false,
   "file-recovery": false,
   "publish": false,
@@ -29,5 +29,5 @@
   "properties": true,
   "webviewer": false,
   "footnotes": false,
-  "bases": true
+  "bases": false
 }

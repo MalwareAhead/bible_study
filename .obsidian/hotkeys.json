@@ -142,15 +142,7 @@
       "key": "7"
     }
   ],
-  "markdown:add-metadata-property": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": ";"
-    }
-  ],
+  "markdown:add-metadata-property": [],
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
@@ -165,6 +157,22 @@
         "Mod"
       ],
       "key": "0"
+    }
+  ],
+  "properties:open-local": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "A"
+    }
+  ],
+  "darlal-switcher-plus:switcher-plus:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "O"
     }
   ]
 }
