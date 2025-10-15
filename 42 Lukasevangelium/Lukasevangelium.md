@@ -5,7 +5,7 @@ tags:
 ---
 # Das Evangelium von Lukas
 
-> [!hint] Lukas Absicht mit seinem Bericht
+> [!paperplane] Lukas Absicht mit seinem Bericht
 > "damit du die Zuverlässigkeit der Dinge erkennst, in denen du unterrichtet worden bist." (1,4)
 
 > [!example] Gliederung
