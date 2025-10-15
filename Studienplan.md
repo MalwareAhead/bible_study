@@ -14,5 +14,5 @@
 - [x] KW34-35: **Deuteronomium**
 - [x] KW36-37: **Kolosser**
 - [x] KW38-39: **Prediger**
-- [/] KW40-41: **2. Samuel**
-- [ ] KW42-43: **Lukas**
+- [x] KW40-41: **2. Samuel**
+- [/] KW42-43: **Lukas**

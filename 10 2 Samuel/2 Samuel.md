@@ -10,10 +10,10 @@ tags:
 
 ## Gliederung
 
-1. Aufstieg
-2. Sünde
-3. Abstieg
-4. Wiederherstellung
+1. Aufstieg (1-10)
+2. Sünde (11-12)
+3. Abstieg (13,1-18,18)
+4. Wiederherstellung (18,19-24,25)
 
 ## Beobachtungen und Fragen
 
