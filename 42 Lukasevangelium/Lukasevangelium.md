@@ -7,6 +7,8 @@ tags:
 
 > [!paperplane] Lukas Absicht mit seinem Bericht
 > "damit du die Zuverlässigkeit der Dinge erkennst, in denen du unterrichtet worden bist." (1,4)
+> 
+> Mit anderen Worten: Du kannst Dir absolut sicher sein, dass die Person und das Werk Jesu Christi absolut vertrauenswürdig ist.
 
 > [!example] Gliederung
 > 1. Jesus wird geboren und vorbereitet (1,1-4,13)
