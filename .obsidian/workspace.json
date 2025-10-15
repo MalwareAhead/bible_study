@@ -11,6 +11,24 @@
             "id": "1393638d72369bf8",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00 Attachments/Route 66 NT.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Route 66 NT"
+            }
+          }
+        ]
+      },
+      {
+        "id": "296221197be2b395",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "198abe10d8315543",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "42 Lukasevangelium/Lukasevangelium.md",
@@ -206,8 +224,12 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "1393638d72369bf8",
+  "active": "198abe10d8315543",
   "lastOpenFiles": [
+    "00 Attachments/Route 66 NT.pdf",
+    "00 Attachments/Route 66 AT.pdf",
+    "42 Lukasevangelium/Lukasevangelium.md",
+    "00 Attachments",
     "Studienplan.md",
     "10 2 Samuel/2 Samuel.md",
     "21 Prediger/Prediger.md",
@@ -234,16 +256,11 @@
     "54 1 Timotheusbrief/Jesus im ersten Timotheusbrief.md",
     "38 Sacharja/Sacharja.md",
     "54 1 Timotheusbrief",
-    "01 Genesis/Abrahams Lebenslauf.md",
-    "01 Genesis/Die Zeit der Patriarchen.md",
     "Biografien",
     "66 Offenbarung",
     "62 1 Johannesbrief",
     "32 Jona",
     "38 Sacharja",
-    "04 Numeri",
-    "49 Epheserbrief",
-    "48 Galaterbrief/Predigten",
     "Anhänge/1PetrusErgebnis.png",
     "attachments/Screenshot 2024-01-02 at 18.41.51.png",
     "Untitled.canvas",

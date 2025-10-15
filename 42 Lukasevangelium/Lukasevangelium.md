@@ -9,12 +9,11 @@ tags:
 > "damit du die Zuverlässigkeit der Dinge erkennst, in denen du unterrichtet worden bist." (1,4)
 
 > [!example] Gliederung
-> 1. Vorwort (1,1-4)
-> 2. Jesus wird geboren und vorbereitet (1,5-4,13)
-> 3. Jesus lehrt und wirkt in Galiläa (4,14-9,50)
-> 4. Jesus reist nach Jerusalem (9,51-19,27)
-> 5. Jesus lehrt und wirkt in Jerusalem (19,28-21,38)
-> 6. Jesus wird gekreuzigt, auferweckt und in den Himmel aufgenommen (22,1-24,53)
+> 1. Jesus wird geboren und vorbereitet (1,1-4,13)
+> 2. Jesus lehrt und wirkt in Galiläa (4,14-9,50)
+> 3. Jesus reist nach Jerusalem (9,51-19,27)
+> 4. Jesus lehrt und wirkt in Jerusalem (19,28-21,38)
+> 5. Jesus wird gekreuzigt, auferweckt und in den Himmel aufgenommen (22,1-24,53)
 
 ## Auffälligkeiten
 
