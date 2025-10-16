@@ -11,7 +11,7 @@ tags:
 > Mit anderen Worten: Du kannst Dir absolut sicher sein, dass die Person und das Werk Jesu Christi absolut vertrauenswürdig sind.
 
 > [!example] Gliederung
-> 1. Jesus wird geboren und vorbereitet (1,1-4,13)
+> 1. [[Jesus und sein Werk werden vorbereitet]] (1,1-4,13)
 > 2. Jesus lehrt und wirkt in Galiläa (4,14-9,50)
 > 3. Jesus reist nach Jerusalem (9,51-19,27)
 > 4. Jesus lehrt und wirkt in Jerusalem (19,28-21,38)

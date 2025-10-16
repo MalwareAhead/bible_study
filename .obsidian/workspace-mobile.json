@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studienplan.md",
+                "file": "42 Lukasevangelium/Lukasevangelium.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Studienplan"
+              "title": "Lukasevangelium"
             }
           }
         ]
@@ -87,6 +87,16 @@
           "icon": "lucide-ghost",
           "title": "all-properties"
         }
+      },
+      {
+        "id": "9113818f65ca858d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
       }
     ],
     "currentTab": 0
@@ -145,19 +155,16 @@
     "hiddenItems": {
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "command-palette:Open command palette": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "audio-recorder:Start/stop recording": false
+      "graph:Open graph view": false
     }
   },
   "active": "fde88bac525f1c8d",
   "lastOpenFiles": [
+    "Studienplan.md",
     "10 2 Samuel",
     "51 Kolosserbrief/Kolosserbrief.md",
-    "Studienplan.md",
     "51 Kolosserbrief/Bedrohung durch Irrlehre.md",
     "54 1 Timotheusbrief/1 Timotheusbrief.md",
     "48 Galaterbrief/Galaterbrief.md",
