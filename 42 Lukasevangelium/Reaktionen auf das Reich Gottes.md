@@ -80,5 +80,5 @@ Die folgende Aufzählung geht nur bis Kapitel 4.
 
 - Jesus in Kapernaum einen Besessenen heilt (4,36)
 
-> [!heart] Die Reaktion, die Jesus eigentlich bewirken wollte
+> [!sermon] Die Reaktion, die Jesus eigentlich bewirken wollte
 > Jesus hat gelehrt, geheilt, Wunder getan und den Mund seiner Widersacher verstopft, und das Volk freute sich, staunte, verwundert sich, geriet außer sich, aber sie taten nicht Buße, obwohl Jesus Buße als Reaktion auf Erscheinen des Reiches Gottes bewirken wollte (besonders sichtbar in 13,34-35)
