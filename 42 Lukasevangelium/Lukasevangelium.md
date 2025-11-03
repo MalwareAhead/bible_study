@@ -3,19 +3,17 @@ tags:
   - nt
   - erzählung
 ---
-# Das Evangelium von Lukas
+# Das Evangelium nach Lukas
 
-> [!paperplane] Lukas Absicht mit seinem Bericht
 > "damit du die Zuverlässigkeit der Dinge erkennst, in denen du unterrichtet worden bist." (1,4)
-> 
-> Mit anderen Worten: Du kannst Dir absolut sicher sein, dass die Person und das Werk Jesu Christi absolut vertrauenswürdig sind.
 
 > [!example] Gliederung
-> 1. [[Jesus und sein Werk werden vorbereitet]] (1,1-4,13)
-> 2. Jesus lehrt und wirkt in Galiläa (4,14-9,50)
-> 3. Jesus reist nach Jerusalem (9,51-19,27)
-> 4. Jesus lehrt und wirkt in Jerusalem (19,28-21,38)
-> 5. Jesus wird gekreuzigt, auferweckt und in den Himmel aufgenommen (22,1-24,53)
+> 1. [[Vorwort]] (1,1-4)
+> 2. [[Jesus und sein Werk werden vorbereitet]] (1,1-4,13)
+> 3. Jesus lehrt und wirkt in Galiläa (4,14-9,50)
+> 4. Jesus reist nach Jerusalem (9,51-19,27)
+> 5. Jesus lehrt und wirkt in Jerusalem (19,28-21,38)
+> 6. Jesus wird gekreuzigt, auferweckt und in den Himmel aufgenommen (22,1-24,53)
 
 ## Auffälligkeiten
 
