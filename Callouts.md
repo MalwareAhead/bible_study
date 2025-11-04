@@ -50,6 +50,8 @@
 
 > [!shield] 
 
+> [!key]
+
 ## Tbd.
 
 - rocket-launch

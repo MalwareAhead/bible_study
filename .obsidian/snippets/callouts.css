@@ -92,6 +92,10 @@
   --callout-color: 106, 137, 189;  /* Medium-tone blue */
   --callout-icon: paper-plane;
 }
+.callout[data-callout="key"] {
+  --callout-color: 106, 137, 189;  /* Medium-tone blue */
+  --callout-icon: key;
+}
 .callout[data-callout="sermon"] {
   --callout-color: 163, 112, 78;  /* Medium-tone copper */
   --callout-icon: message-square;
