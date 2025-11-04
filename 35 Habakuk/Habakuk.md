@@ -5,7 +5,8 @@ tags:
 ---
 # Das Buch des Propheten Habakuk
 
->
+> [!cite] Schlüsselvers
+> Siehe, die ⟨verdiente⟩ Strafe für den, der nicht aufrichtig ist! Der Gerechte aber wird durch seinen Glauben leben. (2,4)
 
 ## Gliederung
 

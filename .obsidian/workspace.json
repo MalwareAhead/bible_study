@@ -11,6 +11,18 @@
             "id": "198abe10d8315543",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "00 Attachments/Route 66 AT.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Route 66 AT"
+            }
+          },
+          {
+            "id": "cc3f1be2d178e2a5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "35 Habakuk/Habakuk.md",
@@ -22,7 +34,8 @@
               "title": "Habakuk"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -206,17 +218,17 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "198abe10d8315543",
+  "active": "cc3f1be2d178e2a5",
   "lastOpenFiles": [
-    "42 Lukasevangelium/Lukasevangelium.md",
+    "00 Attachments/Route 66 AT.pdf",
     "35 Habakuk/Habakuk.md",
+    "42 Lukasevangelium/Lukasevangelium.md",
     "35 Habakuk",
     "42 Lukasevangelium/Vorwort.md",
     "Callouts.md",
     "42 Lukasevangelium/Reaktionen auf das Reich Gottes.md",
     "00 Attachments/Route 66 NT.pdf",
     "42 Lukasevangelium/Jesus und sein Werk werden vorbereitet.md",
-    "00 Attachments/Route 66 AT.pdf",
     "00 Attachments",
     "Studienplan.md",
     "10 2 Samuel/2 Samuel.md",
@@ -238,7 +250,6 @@
     "05 Deuteronomium/Der furchtgebietende Gott.md",
     "05 Deuteronomium/Nicht weil du.md",
     "01 Genesis/Genesis.md",
-    "55 2 Timotheusbrief/Böse und Gute Menschen.md",
     "54 1 Timotheusbrief",
     "Biografien",
     "66 Offenbarung",
