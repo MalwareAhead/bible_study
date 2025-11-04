@@ -17,4 +17,4 @@ tags:
 - Habakuk: Gott, warum tust du nichts gegen das Böse, das ich mitansehen muss?
 - Gott: Oh, ich werde handeln, und zwar durch die Bosheit der Chaldäer.
 - Habakuk: Gott, warum gebietest du dem Gottlosen nicht Einhalt?
-- Gott: Der Gottlose wird sein Fett wegbekommen, wenn auch nicht jetzt.
+- Gott: Der Gottlose wird garantiert sein Fett wegbekommen, wenn auch nicht jetzt.
