@@ -8,6 +8,15 @@ tags:
 > [!key] Habakuk 2,4
 > Siehe, die ⟨verdiente⟩ Strafe für den, der nicht aufrichtig ist! Der Gerechte aber wird durch seinen Glauben leben.
 
+## Allgemeine Informationen
+
+- Autor: Habakuk (1,1)
+	- Sein Name bedeutet "Umarmer, Umklammerer"
+- Historischer Kontext
+	- abgefasst in Juda, kurz vor dessen Eroberung
+	- Zeitgenosse Jeremias
+	- Nebukadnezar von Babylon beginnt seine großen Erorberungen
+
 ## Gliederung
 
 - Habakuk: Gott, warum tust du nichts gegen das Böse, das ich mitansehen muss? (1,1-4)
