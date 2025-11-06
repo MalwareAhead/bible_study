@@ -11,15 +11,12 @@
             "id": "fde88bac525f1c8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "42 Lukasevangelium/Lukasevangelium.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "00 Attachments/Route 66 AT.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Lukasevangelium"
+              "icon": "lucide-file-text",
+              "title": "Route 66 AT"
             }
           }
         ]
@@ -162,6 +159,7 @@
   },
   "active": "fde88bac525f1c8d",
   "lastOpenFiles": [
+    "42 Lukasevangelium/Lukasevangelium.md",
     "Studienplan.md",
     "10 2 Samuel",
     "51 Kolosserbrief/Kolosserbrief.md",
@@ -187,7 +185,6 @@
     "01 Genesis/Gericht und Gnade.md",
     "01 Genesis/Die Urgeschichte.md",
     "01 Genesis/Genesis.md",
-    "42 Lukasevangelium/Lukasevangelium.md",
     "01 Genesis/Die Schöpfungsgeschichte.md",
     "16 Nehemia",
     "Anhänge/Recording 20240903073752.m4a",
