@@ -27,4 +27,4 @@ tags:
 
 ## Auffälligkeiten und Fragen
 
-- Worüber klagt Habakuk jeweils
+- Worüber genau klagt Habakuk in seinen zwei Fragen an Gott?
