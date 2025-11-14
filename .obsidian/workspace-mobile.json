@@ -11,12 +11,15 @@
             "id": "fde88bac525f1c8d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "00 Attachments/Route 66 AT.pdf"
+                "file": "35 Habakuk/Habakuk.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Route 66 AT"
+              "icon": "lucide-file",
+              "title": "Habakuk"
             }
           }
         ]
@@ -159,6 +162,7 @@
   },
   "active": "fde88bac525f1c8d",
   "lastOpenFiles": [
+    "00 Attachments/Route 66 AT.pdf",
     "42 Lukasevangelium/Lukasevangelium.md",
     "Studienplan.md",
     "10 2 Samuel",
