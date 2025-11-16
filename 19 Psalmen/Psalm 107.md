@@ -13,7 +13,7 @@ tags:
 
 ## Aufbau
 
-Die vier Strophen beschreiben vier Menschengruppen, die in Not waren, in ihrer Not zu YHWH schrien und von Ihm aus ihrer Not gerettet wurden.
+Das Lied besteht aus insgesamt fünf Strophen. Die ersten vier Strophen beschreiben vier Menschengruppen, die in Not waren, in ihrer Not zu YHWH schrien und von Ihm aus ihrer Not gerettet wurden.
 
 1. Die sterbenden Wüstenwanderer (vv. 1-9)
 2. Die in Dunkelheit Gefangenen (vv. 10-16)
