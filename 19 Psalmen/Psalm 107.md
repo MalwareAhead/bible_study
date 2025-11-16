@@ -11,7 +11,7 @@ tags:
 > [!key] Chorus (107,8.15.21.31)
 > Sie sollen den HERRN preisen für seine Gnade und für seine Wunder an den Menschenkindern!
 
-## Strophen
+## Aufbau
 
 Die vier Strophen beschreiben vier Menschengruppen, die in Not waren, in ihrer Not zu YHWH schrien und von Ihm aus ihrer Not gerettet wurden.
 
@@ -19,6 +19,12 @@ Die vier Strophen beschreiben vier Menschengruppen, die in Not waren, in ihrer N
 2. Die in Dunkelheit Gefangenen (vv. 10-16)
 3. Die gottlosen Toren (vv. 17-22)
 4. Die Seeleute im stürmischen Meer (vv. 23-32)
+
+Die letzte Strophe ist jedoch anders. Sie beschreibt das Handeln Gottes auf unterschiedliche Weisen: sowohl in seinem Zorn, der vernichtet und demütigt, als auch in seinem Segnen und Schützen.
+
+5. YHWH handelt in Gnade und Zorn (vv. 33-43)
+
+
 
 ## Anwendung
 
