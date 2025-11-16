@@ -22,7 +22,7 @@ Das Lied besteht aus insgesamt fünf Strophen. Die ersten vier beschreiben vier 
 
 Die letzte Strophe ist jedoch anders. Sie beschreibt das Handeln Gottes auf unterschiedliche Weisen: sowohl in seinem Zorn, der vernichtet und demütigt, als auch in seinem Segnen und Schützen.
 
-5. YHWH handelt in Gnade und Zorn (vv. 33-43)
+5. YHWHs Handeln in Gnade und Zorn (vv. 33-43)
 
 Das Lied startet und endet auch mit Gottes Gnade: Gottes soll für seine ewige Gnade gepriesen werden (v. 1) und wir sollen Gottes Gnadentaten sorgsam beobachten und nicht vergessen (v. 43). Auch der Chorus fordert dazu auf, Gottes Gnade und seine Wundertaten an den Menschen hoch zu preisen (vv. 8.15.21.32).
 
