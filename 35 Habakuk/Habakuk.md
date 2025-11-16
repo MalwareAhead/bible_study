@@ -28,4 +28,4 @@ tags:
 ## Auffälligkeiten und Fragen
 
 - Worüber genau klagt Habakuk in seinen zwei Fragen an Gott?
-- Die erste Antwort Gottes weist auf die nahe Zukunft, die zweite auf ferne Zukunftx
+- Die erste Antwort Gottes weist auf die nahe Zukunft, die zweite auf ferne Zukunft

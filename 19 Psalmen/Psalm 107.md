@@ -19,3 +19,8 @@ Die vier Strophen beschreiben vier Menschengruppen, die in Not waren, in ihrer N
 2. Die im Gefängnis Gefangenen (vv. 10-16)
 3. Die gottlosen Toren (vv. 17-22)
 4. Die Seeleute im stürmischen Meer (vv. 23-32)
+
+## Anwendung
+
+- Gott rettet Menschen, die um Rettung zu ihm schreien (v. 20 -> Jesus)
+- Jesus stillt den Sturm (vv. 23-32)
