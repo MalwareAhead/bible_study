@@ -28,7 +28,7 @@ Das Lied startet und endet auch mit Gottes Gnade: Gottes soll für seine ewige G
 
 ## Beobachtungen
 
-- Mind. in der zweiten und vierten Strophe wird deutlich, dass Gott nicht nur der Ausweg aus ihrer Not, sondern auch ihr Ursprung war (vv. 11-12.)
+- Mind. in der zweiten und vierten Strophe wird deutlich, dass Gott nicht nur der Ausweg aus ihrer Not, sondern auch ihr Ursprung war (vv. 11-12.25)
 
 ### Anwendungen
 
