@@ -26,7 +26,11 @@ Die letzte Strophe ist jedoch anders. Sie beschreibt das Handeln Gottes auf unte
 
 Das Lied startet und endet auch mit Gottes Gnade: Gottes soll für seine ewige Gnade gepriesen werden (v. 1) und wir sollen Gottes Gnadentaten sorgsam beobachten und nicht vergessen (v. 43). Auch der Chorus fordert dazu auf, Gottes Gnade und seine Wundertaten an den Menschen hoch zu preisen (vv. 8.15.21.32).
 
-## Anwendung
+## Beobachtungen
+
+- Mind. in der zweiten und vierten Strophe wird deutlich, dass Gott nicht nur der Ausweg aus ihrer Not, sondern auch ihr Ursprung war (vv. 11-12.)
+
+### Anwendungen
 
 - Gott rettet Menschen, die um Rettung zu ihm schreien (v. 20 -> Jesus, das Wort, gesandt zur Heilung)
 - Jesus stillt den Sturm (vv. 23-32)
