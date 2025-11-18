@@ -52,6 +52,8 @@
 
 > [!key]
 
+> [!goal]
+
 ## Tbd.
 
 - rocket-launch
