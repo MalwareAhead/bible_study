@@ -37,8 +37,7 @@
               "title": "Callouts"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Callouts.md"
+                "file": "45 Römerbrief/Römerbrief.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Callouts"
+              "title": "File properties for Römerbrief"
             }
           },
           {
@@ -221,8 +221,9 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "fff3774143457eeb",
+  "active": "cc3f1be2d178e2a5",
   "lastOpenFiles": [
+    "Callouts.md",
     "45 Römerbrief/Römerbrief.md",
     "49 Epheserbrief/Epheserbrief.md",
     "48 Galaterbrief/Galaterbrief.md",
@@ -230,7 +231,6 @@
     "45 Römerbrief",
     "21 Prediger/Prediger.md",
     "19 Psalmen/Psalm 107.md",
-    "Callouts.md",
     "35 Habakuk/Habakuk.md",
     "19 Psalmen",
     "_Attachments/Route 66 AT.pdf",
