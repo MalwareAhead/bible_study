@@ -32,5 +32,5 @@ Das Lied startet und endet auch mit Gottes Gnade: Gottes soll für seine ewige G
 
 ### Anwendungen
 
-- Jesus ist das Wort, gesandt zur Heilung (v. 20)
+- Jesus ist das Wort, gesandt zur Heilung und Rettung (v. 20)
 - Jesus stillt den Sturm (vv. 23-32)
