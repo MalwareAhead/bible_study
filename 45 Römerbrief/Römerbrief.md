@@ -15,3 +15,9 @@ tags:
 
 > [!key] Römer 11,33-36
 > Welche Tiefe des Reichtums, sowohl der Weisheit als auch der Erkenntnis Gottes! Wie unerforschlich sind seine Gerichte und unaufspürbar seine Wege! Denn wer hat des Herrn Sinn erkannt, oder wer ist sein Mitberater gewesen? Oder wer hat ihm vorher gegeben, und es wird ihm vergolten werden? Denn aus ihm und durch ihn und zu ihm hin sind alle Dinge! Ihm sei die Herrlichkeit in Ewigkeit! Amen.
+
+## Gliederung
+
+1. Einleitung: Motivation (1,1-18)
+2. Der verlorene Zustand des Menschen vor Gott (Kap 1-3)
+3. 
