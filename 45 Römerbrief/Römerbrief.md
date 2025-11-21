@@ -18,6 +18,9 @@ tags:
 
 ## Gliederung
 
-1. Einleitung: Motivation (1,1-18)
-2. Der verlorene Zustand des Menschen vor Gott (Kap 1-3)
-3. 
+1. Motivation: Warum schreibt Paulus diesen Brief? (1,1-18)
+2. Grund: Warum brauchen wir Rettung? (1,19-3,20)
+3. Mittel: Wie werden wir gerettet? (3,21-4,25)
+4. Ziel: Wozu werden wir gerettet? (Kap 5-8)
+5. Versicherung: Wie sicher ist Gottes Rettungsplan? (Kap 9-11)
+6. Konsequenzen: Wie lebt ein Geretteter? (Kap 12-16)
