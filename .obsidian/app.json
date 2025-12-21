@@ -1,21 +1,9 @@
 {
+  "propertiesInDocument": "hidden",
   "showIndentGuide": false,
   "spellcheck": false,
-  "trashOption": "system",
-  "promptDelete": false,
-  "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
   "attachmentFolderPath": "./",
-  "showInlineTitle": false,
-  "autoConvertHtml": false,
-  "readableLineLength": true,
-  "pdfExportSettings": {
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  },
-  "showLineNumber": false,
-  "propertiesInDocument": "hidden",
-  "defaultViewMode": "source"
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false
 }
