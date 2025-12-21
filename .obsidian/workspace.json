@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -226,11 +225,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "5590f49c8daedced",
+  "active": "99cd82f0dbe37e49",
   "lastOpenFiles": [
-    "26 Hesekiel/Hesekiel.md",
     "24 Jeremia/Jeremia.md",
     "23 Jesaja/Jesaja.md",
+    "26 Hesekiel/Hesekiel.md",
     "23 Jesaja",
     "19 Psalmen/Psalm 107.md",
     "35 Habakuk/Habakuk.md",
