@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21 Prediger/Prediger.md",
+                "file": "23 Jesaja/Jesaja.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Prediger"
+              "title": "Jesaja"
             }
           }
         ]
@@ -151,12 +151,25 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "22171466669dc5f3",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -166,8 +179,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "0b11a796bd249550",
+  "active": "897bc9d716539051",
   "lastOpenFiles": [
+    "21 Prediger/Prediger.md",
     "23 Jesaja/Jesaja.md",
     "23 Jesaja/Untitled.md",
     "23 Jesaja",
@@ -195,7 +209,6 @@
     "01 Genesis/Die Urgeschichte.md",
     "42 Lukasevangelium/Lukasevangelium.md",
     "01 Genesis/Gericht und Gnade.md",
-    "01 Genesis/Die Zeit der Patriarchen.md",
     "_Attachments/Route 66 AT.pdf",
     "_Attachments/Route 66 NT.pdf"
   ]

@@ -1,10 +1,8 @@
 {
+  "baseFontSize": 18,
   "cssTheme": "Minimal",
-  "accentColor": "#00a1d6",
+  "accentColor": "#0095e6",
   "showViewHeader": false,
   "showRibbon": false,
-  "enabledCssSnippets": [
-    "callouts"
-  ],
-  "baseFontSize": 18
+  "nativeMenus": true
 }

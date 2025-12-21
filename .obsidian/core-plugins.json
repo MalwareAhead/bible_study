@@ -11,11 +11,11 @@
   "properties": true,
   "page-preview": true,
   "daily-notes": true,
-  "templates": false,
-  "note-composer": false,
+  "templates": true,
+  "note-composer": true,
   "command-palette": true,
   "slash-command": false,
-  "editor-status": false,
+  "editor-status": true,
   "bookmarks": true,
   "markdown-importer": false,
   "zk-prefixer": false,
@@ -27,7 +27,6 @@
   "workspaces": false,
   "file-recovery": true,
   "publish": false,
-  "sync": false,
-  "bases": true,
-  "webviewer": false
+  "sync": true,
+  "bases": true
 }

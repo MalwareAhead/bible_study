@@ -2,8 +2,7 @@
   "propertiesInDocument": "hidden",
   "showIndentGuide": false,
   "spellcheck": false,
+  "newFileLocation": "current",
   "attachmentFolderPath": "./",
-  "showUnsupportedFiles": true,
-  "alwaysUpdateLinks": true,
   "showInlineTitle": false
 }
