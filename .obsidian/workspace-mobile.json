@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d46caeb5204b4564",
+        "id": "dd01060a1a58f07f",
         "type": "tabs",
         "children": [
           {
-            "id": "897bc9d716539051",
+            "id": "bee0383a9d4595ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,10 +179,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "897bc9d716539051",
+  "active": "bee0383a9d4595ae",
   "lastOpenFiles": [
-    "21 Prediger/Prediger.md",
     "23 Jesaja/Jesaja.md",
+    "04 Numeri/Numeri.md",
+    "21 Prediger/Prediger.md",
     "23 Jesaja/Untitled.md",
     "23 Jesaja",
     "Untitled",
@@ -208,7 +209,6 @@
     "50 Philipperbrief/Freude.md",
     "01 Genesis/Die Urgeschichte.md",
     "42 Lukasevangelium/Lukasevangelium.md",
-    "01 Genesis/Gericht und Gnade.md",
     "_Attachments/Route 66 AT.pdf",
     "_Attachments/Route 66 NT.pdf"
   ]
