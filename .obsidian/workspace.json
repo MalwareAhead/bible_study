@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studienplan.md",
+                "file": "26 Hesekiel/Hesekiel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Studienplan"
+              "title": "Hesekiel"
             }
           }
         ]
@@ -64,22 +64,13 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "c85f13fe86ed1e42",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -143,8 +134,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -167,10 +158,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "23 Jesaja/Jesaja.md"
+                "file": "26 Hesekiel/Hesekiel.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Jesaja"
+              "title": "File properties for Hesekiel"
             }
           },
           {
@@ -193,17 +184,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "23 Jesaja/Jesaja.md",
+                "file": "26 Hesekiel/Hesekiel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Jesaja"
+              "title": "Outline of Hesekiel"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -227,6 +218,7 @@
   },
   "active": "83b633d66628503f",
   "lastOpenFiles": [
+    "Studienplan.md",
     "23 Jesaja/Jesaja.md",
     "Callouts.md",
     "24 Jeremia/Jeremia.md",
@@ -255,7 +247,6 @@
     "42 Lukasevangelium/Reaktionen auf das Reich Gottes.md",
     "42 Lukasevangelium/Jesus und sein Werk werden vorbereitet.md",
     "_Attachments",
-    "Studienplan.md",
     "10 2 Samuel/2 Samuel.md",
     "05 Deuteronomium/Deuteronomium.md",
     "16 Nehemia/Nehemia.md",
