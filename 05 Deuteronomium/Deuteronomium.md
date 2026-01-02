@@ -2,7 +2,7 @@
 
 #at #gesetz
 
-> [!clock] Die Situation des Volkes Israel
+> [!time] Die Situation des Volkes Israel
 > -  Mose redet alle diese Worte (1,1.3.5)
 > - 40 Jahre und 11 Monate nach dem Exodus (1,3)
 > - er legt dem Volk das Gesetz im Land Moab aus (1,5)

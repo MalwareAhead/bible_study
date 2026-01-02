@@ -30,8 +30,3 @@
 ## Forschungsgegenstände
 
 - [[Gott lenkt]] die Herzen der Könige
-
-## Konklusion
----
-==coming soon==
-

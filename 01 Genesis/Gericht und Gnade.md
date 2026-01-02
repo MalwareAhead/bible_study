@@ -14,7 +14,7 @@
 > - Der Mensch wird sterben (3,19)
 > - Adam und Eva werden aus Eden verbannt (3,23-24)
 
-> [!blessing] Zukunft
+> [!sparkles] Zukunft
 > - Der Nachkomme der Frau wird die Schlange töten (3,15)
 > - Gott bekleidet Adam und Eva, die sich ihrer Nackheit schämen (3,21)
 > - Gott lässt den Menschen nicht sofort sterben (3,22-24)
@@ -26,7 +26,7 @@
 > - Der Ackerboden verweigert Kain seine Frucht (4,11-12)
 > - Er muss flüchtig auf der Erde sein (4,12)
 
-> [!blessing] Ein gnädiges Zeichen
+> [!sparkles] Ein gnädiges Zeichen
 > - Gott macht ein Zeichen an Kain, damit niemand Rache an ihm übt (4,15)
 > - Gott schenkt Kain Zeit und Nachkommen (4,16-17)
 
@@ -35,7 +35,7 @@
 > [!danger] Die Sintflut
 > - Gott möchte die böse Welt vernichten, die Menschen und Tiere (6,5-7.13)
 
-> [!blessing] Die Arche
+> [!sparkles] Die Arche
 > - Noah findet Gnade in Gottes Augen (6,8)
 > - Gott rettet Noah und seine Familie durch ein Schiff (6,14-18)
 > - Gott rettet auch einen kleinen Teil der Tierwelt (6,19-20)
@@ -49,7 +49,7 @@
 > [!danger] Sprachenverwirrung
 > - Gott lässt die Menschen sich sprachlich nicht mehr verstehen (11,7)
 
-> [!blessing] Ausbreitung der Völker
+> [!sparkles] Ausbreitung der Völker
 > - Gott tötet die Menschen nicht, sondern lässt sie sich auf der Erde verteilen (11,8-9)
 > - Er gab ihnen die Möglichkeit, zu Ihm zurückzukehren und doch Seinen Willen zu tun
 
@@ -62,8 +62,6 @@
 > 
 > Dieses Handeln Gottes sagt viel über Sein Wesen aus: Gott ist gerecht und kann bei Sünde nicht untätig bleiben oder darüber hinwegsehen, sondern führt Seine Gerechtigkeit aus.
 > Gleichzeitig ist Er sehr gnädig mit den Menschen, die eigentlich Seinen vollkommenen Zorn verdient haben. Dennoch gibt Er ihnen eine Zukunft und versorgt sie auch mit den notwendigen Dingen.
-
-> [!goal] Goal
 
 
 

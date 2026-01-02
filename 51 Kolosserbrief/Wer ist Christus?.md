@@ -57,7 +57,7 @@
 - die Arbeit gottesfürchtiger Sklaven (3,23)
 - das Geheimnis des Christus (4,3)
 
-> [!doctrine] Jesus ist über alles erhaben
+> [!sermon] Jesus ist über alles erhaben
 > Jesus steht
 > - über der Schöpfung,
 > - über der Gemeinde,

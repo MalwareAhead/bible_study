@@ -16,6 +16,7 @@
 
 .callout .callout-content {
     text-align: justify;
+    padding-right: 10px;
 }
 
 .callout:hover {
