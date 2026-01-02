@@ -16,7 +16,7 @@
 10. Esra tut Buße über die Mischehen des Volkes
 11. Das Volk löst die Mischehen auf
 
-> [!example] Der Handlungsstrang
+> [!list] Der Handlungsstrang
 > 
 > 1. Judas Aufbruchstimmung (Kap. 1-3)
 > 2. Schwierigkeiten und Flatline (Kap. 4)

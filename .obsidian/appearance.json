@@ -4,5 +4,8 @@
   "accentColor": "#0095e6",
   "showViewHeader": false,
   "showRibbon": false,
-  "nativeMenus": true
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "callouts"
+  ]
 }

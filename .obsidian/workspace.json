@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c29ff6dbeb3106a9",
+        "id": "7e1080bddaf4866a",
         "type": "tabs",
         "children": [
           {
-            "id": "83b633d66628503f",
+            "id": "2e5c90d6a4004cba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26 Hesekiel/Hesekiel.md",
+                "file": "15 Esra/Esra.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Hesekiel"
+              "title": "Esra"
             }
           }
         ]
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -204,10 +203,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "bases:Create new base": false,
       "graph:Open graph view": true,
       "command-palette:Open command palette": true,
       "obisidian-note-linker:Note Linker": false,
@@ -216,13 +211,17 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "83b633d66628503f",
+  "active": "2e5c90d6a4004cba",
   "lastOpenFiles": [
+    "42 Lukasevangelium/Lukasevangelium.md",
+    "40 Matthäusevangelium/Matthäusevangelium.md",
+    "40 Matthäusevangelium/Gedankengebäude.md",
+    "32 Jona/Jesus, bessere Jona.md",
+    "26 Hesekiel/Hesekiel.md",
     "Studienplan.md",
     "23 Jesaja/Jesaja.md",
     "Callouts.md",
     "24 Jeremia/Jeremia.md",
-    "26 Hesekiel/Hesekiel.md",
     "23 Jesaja",
     "19 Psalmen/Psalm 107.md",
     "35 Habakuk/Habakuk.md",
@@ -241,17 +240,13 @@
     "21 Prediger/Prediger.md",
     "19 Psalmen",
     "_Attachments/Route 66 AT.pdf",
-    "42 Lukasevangelium/Lukasevangelium.md",
     "35 Habakuk",
     "42 Lukasevangelium/Vorwort.md",
     "42 Lukasevangelium/Reaktionen auf das Reich Gottes.md",
     "42 Lukasevangelium/Jesus und sein Werk werden vorbereitet.md",
     "_Attachments",
     "10 2 Samuel/2 Samuel.md",
-    "05 Deuteronomium/Deuteronomium.md",
-    "16 Nehemia/Nehemia.md",
     "10 2 Samuel",
-    "51 Kolosserbrief/Kolosserbrief.md",
     "54 1 Timotheusbrief",
     "Biografien",
     "Anhänge/1PetrusErgebnis.png",

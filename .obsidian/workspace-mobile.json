@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "23 Jesaja/Jesaja.md",
+                "file": "40 Matthäusevangelium/Matthäusevangelium.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Jesaja"
+              "title": "Matthäusevangelium"
             }
           }
         ]
@@ -96,8 +96,8 @@
         "state": {
           "type": "bookmarks",
           "state": {},
-          "icon": "lucide-bookmark",
-          "title": "Bookmarks"
+          "icon": "lucide-ghost",
+          "title": "bookmarks"
         }
       }
     ],
@@ -161,9 +161,21 @@
           "icon": "git-pull-request",
           "title": "Source Control"
         }
+      },
+      {
+        "id": "96ab2dceffbd2399",
+        "type": "leaf",
+        "state": {
+          "type": "file-properties",
+          "state": {
+            "file": "40 Matthäusevangelium/Matthäusevangelium.md"
+          },
+          "icon": "lucide-info",
+          "title": "File properties"
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,15 +184,12 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "bee0383a9d4595ae",
+  "active": "96ab2dceffbd2399",
   "lastOpenFiles": [
+    "_Attachments/Route 66 NT.pdf",
     "23 Jesaja/Jesaja.md",
     "04 Numeri/Numeri.md",
     "21 Prediger/Prediger.md",
@@ -208,8 +217,6 @@
     "44 Apostelgeschichte/Paulus und Jerusalem.md",
     "50 Philipperbrief/Freude.md",
     "01 Genesis/Die Urgeschichte.md",
-    "42 Lukasevangelium/Lukasevangelium.md",
-    "_Attachments/Route 66 AT.pdf",
-    "_Attachments/Route 66 NT.pdf"
+    "_Attachments/Route 66 AT.pdf"
   ]
 }

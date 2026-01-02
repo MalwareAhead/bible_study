@@ -7,7 +7,7 @@ tags:
 
 > "damit du die Zuverlässigkeit der Dinge erkennst, in denen du unterrichtet worden bist." (1,4)
 
-> [!example] Gliederung
+> [!list] Gliederung
 > 1. [[Vorwort]] (1,1-4)
 > 2. [[Jesus und sein Werk werden vorbereitet]] (1,1-4,13)
 > 3. Jesus lehrt und wirkt in Galiläa (4,14-9,50)

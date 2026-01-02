@@ -49,7 +49,8 @@
 .callout[data-callout="bug"] {
   --callout-icon: bug;
 }
-.callout[data-callout="example"] {
+.callout[data-callout="example"],
+.callout[data-callout="list"] {
   --callout-icon: list;
 }
 .callout[data-callout="quote"],
