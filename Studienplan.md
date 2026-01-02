@@ -12,3 +12,4 @@
 - [x] KW38-39: **Prediger**
 - [x] KW40-41: **2. Samuel**
 - [x] KW42-43: **Lukas**
+
