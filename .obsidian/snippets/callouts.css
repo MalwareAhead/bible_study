@@ -1,123 +1,21 @@
-.callout .callout-content {
-    text-align: justify;
-    padding-right: 10px;
-}
-
-.callout[data-callout="note"] {
-  --callout-icon: pencil;
-}
-.callout[data-callout="abstract"],
-.callout[data-callout="summary"],
-.callout[data-callout="tldr"] {
-  --callout-icon: clipboard;
-}
-.callout[data-callout="info"] {
-  --callout-icon: info;
-}
-.callout[data-callout="todo"] {
-  --callout-icon: check-square;
-}
-.callout[data-callout="tip"],
-.callout[data-callout="hint"],
-.callout[data-callout="important"] {
-  --callout-icon: flame;
-}
-.callout[data-callout="success"],
-.callout[data-callout="check"],
-.callout[data-callout="done"] {
-  --callout-icon: check;
-}
-.callout[data-callout="question"],
-.callout[data-callout="help"],
-.callout[data-callout="faq"] {
-  --callout-icon: help-circle;
-}
-.callout[data-callout="warning"],
-.callout[data-callout="caution"],
-.callout[data-callout="attention"] {
-  --callout-icon: alert-triangle;
-}
-.callout[data-callout="failure"],
-.callout[data-callout="fail"],
-.callout[data-callout="missing"] {
-  --callout-icon: x;
-}
-.callout[data-callout="danger"],
-.callout[data-callout="error"] {
-  --callout-icon: zap;
-}
-.callout[data-callout="bug"] {
-  --callout-icon: bug;
-}
-.callout[data-callout="example"],
-.callout[data-callout="list"] {
-  --callout-icon: list;
-}
-.callout[data-callout="quote"],
-.callout[data-callout="cite"] {
-  --callout-icon: quote;
-}
-.callout[data-callout="goal"] {
-  --callout-color: 155, 117, 159;  /* Medium-tone purple */
-  --callout-icon: target;
-}
-.callout[data-callout="idea"] {
-  --callout-color: 198, 172, 94;  /* Medium-tone yellow */
-  --callout-icon: lightbulb;
-}
-.callout[data-callout="clock"] {
-  --callout-color: 103, 158, 172;  /* Medium-tone blue-teal */
-  --callout-icon: clock;
-}
-.callout[data-callout="search"] {
-  --callout-color: 98, 132, 171;  /* Medium-tone blue */
-  --callout-icon: magnifying-glass;
-}
-.callout[data-callout="heart"] {
-  --callout-color: 184, 102, 107;  /* Medium-tone pink */
-  --callout-icon: heart;
-}
-.callout[data-callout="blessing"] {
-  --callout-color: 190, 167, 97;  /* Medium-tone gold */
-  --callout-icon: sparkles;
-}
-.callout[data-callout="prophecy"] {
-  --callout-color: 143, 116, 169;  /* Medium-tone purple */
-  --callout-icon: eye;
-}
-.callout[data-callout="scripture"] {
-  --callout-color: 168, 121, 89;  /* Medium-tone brown */
-  --callout-icon: book-open;
-}
-.callout[data-callout="paperplane"] {
-  --callout-color: 106, 137, 189;  /* Medium-tone blue */
-  --callout-icon: paper-plane;
-}
-.callout[data-callout="key"] {
-  --callout-color: 106, 137, 189;  /* Medium-tone blue */
-  --callout-icon: key;
-}
-.callout[data-callout="sermon"] {
-  --callout-color: 163, 112, 78;  /* Medium-tone copper */
-  --callout-icon: message-square;
-}
-.callout[data-callout="commentary"] {
-  --callout-color: 96, 127, 154;  /* Medium-tone slate blue */
-  --callout-icon: message-circle;
-}
-.callout[data-callout="doctrine"] {
-  --callout-color: 168, 94, 83;  /* Medium-tone brick red */
-  --callout-icon: book;
-}
-.callout[data-callout="shield"] {
-  --callout-color: 93, 146, 163;  /* Medium-tone steel blue */
-  --callout-icon: shield;
+:root {
+  --red: 185, 60, 60;
+  --blue: 0, 109, 190;
+  --grey: 90, 120, 140;
+  --gold: 200, 170, 95;
+  --green: 90, 160, 120;
+  --olive : 150, 140, 90;
+  --purple: 140, 120, 180;
 }
 
 .callout {
   transition: all 0.2s ease;
-  border-left-width: 4px;
+  border-left-width: 6px;
   background-color: rgba(var(--callout-color), 0.15);
+}
+
+.callout .callout-content {
+    text-align: justify;
 }
 
 .callout:hover {
@@ -131,4 +29,184 @@
 
 .callout-icon {
   color: rgb(var(--callout-color));
+}
+
+.callout[data-callout="note"] {
+  --callout-icon: pencil;
+  --callout-color: var(--blue);
+}
+
+.callout[data-callout="abstract"],
+.callout[data-callout="summary"],
+.callout[data-callout="tldr"] {
+  --callout-icon: clipboard;
+  --callout-color: var(--grey);
+}
+
+.callout[data-callout="info"] {
+  --callout-icon: info;
+  --callout-color: var(--grey);
+}
+
+.callout[data-callout="todo"] {
+--callout-icon: check-square;
+--callout-color: var(--purple);
+}
+
+.callout[data-callout="tip"],
+.callout[data-callout="hint"],
+.callout[data-callout="important"] {
+--callout-icon: flame;
+--callout-color: var(--gold);
+}
+
+.callout[data-callout="success"],
+.callout[data-callout="check"],
+.callout[data-callout="done"] {
+--callout-icon: check;
+--callout-color: var(--green);
+}
+
+.callout[data-callout="tree"] {
+--callout-icon: tree-deciduous;
+--callout-color: var(--green);
+}
+
+.callout[data-callout="gift"] {
+--callout-icon: gift;
+--callout-color: var(--purple);
+}
+
+.callout[data-callout="question"],
+.callout[data-callout="help"],
+.callout[data-callout="faq"] {
+--callout-icon: help-circle;
+--callout-color: var(--purple);
+}
+
+.callout[data-callout="warning"],
+.callout[data-callout="caution"],
+.callout[data-callout="attention"] {
+--callout-icon: alert-triangle;
+--callout-color: var(--red);
+}
+
+.callout[data-callout="failure"],
+.callout[data-callout="fail"],
+.callout[data-callout="missing"] {
+--callout-icon: x;
+--callout-color: var(--red);
+}
+
+.callout[data-callout="danger"],
+.callout[data-callout="error"] {
+--callout-icon: zap;
+--callout-color: var(--red);
+}
+
+.callout[data-callout="bug"] {
+--callout-icon: bug;
+--callout-color: var(--red);
+}
+
+.callout[data-callout="example"],
+.callout[data-callout="list"] {
+--callout-icon: list;
+--callout-color: var(--grey);
+}
+
+.callout[data-callout="quote"],
+.callout[data-callout="cite"] {
+--callout-icon: quote;
+--callout-color: var(--grey);
+}
+
+.callout[data-callout="goal"] {
+--callout-icon: target;
+--callout-color: var(--purple);
+}
+
+.callout[data-callout="idea"] {
+--callout-icon: lightbulb;
+--callout-color: var(--gold);
+}
+
+.callout[data-callout="time"] {
+--callout-icon: clock;
+--callout-color: var(--olive);
+}
+
+.callout[data-callout="search"] {
+--callout-icon: magnifying-glass;
+--callout-color: var(--blue);
+}
+
+.callout[data-callout="heart"] {
+--callout-icon: heart;
+--callout-color: var(--red);
+}
+
+.callout[data-callout="sparkles"] {
+--callout-icon: sparkles;
+--callout-color: var(--gold);
+}
+
+.callout[data-callout="eye"] {
+--callout-icon: eye;
+--callout-color: var(--purple);
+}
+
+.callout[data-callout="scripture"] {
+--callout-icon: book-open;
+--callout-color: var(--olive);
+}
+
+.callout[data-callout="paperplane"] {
+--callout-icon: paper-plane;
+--callout-color: var(--blue);
+}
+
+.callout[data-callout="key"] {
+--callout-icon: key;
+--callout-color: var(--blue);
+}
+
+.callout[data-callout="sermon"] {
+  --callout-icon: message-square;
+  --callout-color: var(--olive);
+}
+
+.callout[data-callout="commentary"] {
+  --callout-icon: message-circle;
+  --callout-color: var(--olive);
+}
+
+.callout[data-callout="book"] {
+  --callout-icon: book;
+  --callout-color: var(--olive);
+}
+
+.callout[data-callout="shield"] {
+  --callout-icon: shield;
+  --callout-color: var(--grey);
+}
+
+.callout[data-callout="experiment"] {
+  --callout-icon: experiment;
+  --callout-color: var(--purple);
+}
+
+.callout[data-callout="droplet"] {
+  --callout-icon: droplet;
+  --callout-color: var(--blue);
+}
+
+.callout[data-callout="mountain"] {
+  --callout-icon: mountain;
+  --callout-color: var(--grey);
+}
+
+.callout[data-callout="rocket"] {
+  --callout-icon: rocket;
+  --callout-color: var(--blue);
 }

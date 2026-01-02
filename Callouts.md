@@ -1,65 +1,70 @@
 # Callouts
 
-> [!todo] todo
-
-> [!question] question, faq
-
-> [!hint] hint, tip
-
-> [!info] info
-
 > [!note] note
 
-> [!summary] summary, abstract
+> [!paperplane] paperplane
 
-> [!success] success, ok
+> [!search] search
 
-> [!warning] warning
+> [!rocket] rocket
 
-> [!failure] failure, fail
+> [!droplet] droplet
 
-> [!danger] danger
+> [!key] key
+
+> [!question] question, help, faq
+
+> [!gift] gift
+
+> [!goal] goal
+
+> [!eye] eye
+
+> [!experiment] experiment
+
+> [!todo] todo
 
 > [!bug] bug
 
+> [!warning] warning, caution, attention
+
+> [!failure] failure, fail, missing
+
+> [!danger] danger, error
+
+> [!heart] heart
+
+> [!idea] idea
+
+> [!sparkles] sparkles
+
+> [!tip] tip, hint, important
+
+> [!tree] tree
+
+> [!success] success, check, done
+
+> [!abstract] abstract, summary, tldr
+
+> [!example] example, list
+
 > [!quote] quote, cite
 
-> [!example] 
+> [!info] info
 
-> [!idea] 
+> [!mountain] mountain
 
-> [!clock] 
+> [!shield] shield
 
-> [!search] 
+> [!time] time
 
-> [!heart] 
+> [!scripture] scripture
 
-> [!blessing] 
+> [!book] book
 
-> [!prophecy] 
+> [!sermon] sermon
 
-> [!scripture] 
+> [!commentary] commentary
 
-> [!doctrine] 
 
-> [!paperplane] 
 
-> [!sermon] 
-
-> [!commentary] 
-
-> [!shield] 
-
-> [!key]
-
-> [!goal]
-
-## Tbd.
-
-- rocket-launch
-- gift
-- droplet
-- key
-- flask
-- seedling
-- mountain
