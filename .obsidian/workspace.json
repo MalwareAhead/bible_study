@@ -11,6 +11,18 @@
             "id": "2743093e954fe61a",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "_Attachments/Route 66 NT.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Route 66 NT"
+            }
+          },
+          {
+            "id": "226d48c90fb8d59c",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "40 Matthäusevangelium/Matthäusevangelium.md",
@@ -22,7 +34,8 @@
               "title": "Matthäusevangelium"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -212,10 +224,14 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "2743093e954fe61a",
+  "active": "226d48c90fb8d59c",
   "lastOpenFiles": [
-    "42 Lukasevangelium/Lukasevangelium.md",
+    "_Attachments/Route 66 NT.pdf",
     "40 Matthäusevangelium/Matthäusevangelium.md",
+    "42 Lukasevangelium/Lukasevangelium.md",
+    "42 Lukasevangelium/Vorwort.md",
+    "40 Matthäusevangelium/Gedankengebäude.md",
+    "_Attachments/Route 66 AT.pdf",
     "Callouts.md",
     "Studienplan.md",
     "66 Offenbarung/Offenbarung.md",
@@ -237,14 +253,9 @@
     "55 2 Timotheusbrief/Böse und Gute Menschen.md",
     "54 1 Timotheusbrief/Jesus im ersten Timotheusbrief.md",
     "54 1 Timotheusbrief/Gott im ersten Timotheusbrief.md",
-    "54 1 Timotheusbrief/Gefahren und Risikofaktoren.md",
-    "54 1 Timotheusbrief/1 Timotheusbrief.md",
-    "52 1 Thessalonicherbrief/Entwicklung der Gemeinde.md",
     "23 Jesaja",
-    "_Attachments/Route 66 NT.pdf",
     "45 Römerbrief",
     "19 Psalmen",
-    "_Attachments/Route 66 AT.pdf",
     "35 Habakuk",
     "_Attachments",
     "10 2 Samuel",

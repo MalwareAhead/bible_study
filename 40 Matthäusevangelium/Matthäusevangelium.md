@@ -5,6 +5,8 @@ tags:
 ---
 # Das Evangelium nach Matthäus
 
+> Buch des Ursprungs Jesu Christi, des Sohnes Davids, des Sohnes Abrahams. (1,1)
+
 > [!list] Gliederung
 > 1. Jesus kommt auf die Erde (1,1-2,23)
 > 2. Jesu Wirken wird vorbereitet (3,1-4,22)
