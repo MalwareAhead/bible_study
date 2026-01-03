@@ -1,20 +1,12 @@
 # Jesus erneuert Gedankengebäude
 
-> [!todo] These
+> [!experiment] These
 > 
 > Jesus zerstört die alten und falschen Gedankengebäude seiner Zeitgenossen, um ihnen eine neue, himmlische Art des Denkens aufzuzeigen, die dem Reich Gottes entsprechen.
 > 
-> > [!info] Schlüsselstelle: Matthäus 9,16-17
-> > 
-> > Neue und alte Denkweisen sind nicht miteinander kompatibel.
->
-> > [!info] Schlüsselstelle: Matthäus 11,25-26
-> > 
-> > Gott verschleiert Sein Reich den Weisen und Verständigen und offenbart es stattdessen den Unmündigen. Die Denkweise ist unabhängig vom Intellekt.
-> 
-> > [!info] Schlüsselstelle: Matthäus 15,18.19
-> > 
-> > Das Herz ist die Quelle böser Gedanken und entsprechender Taten.
+> - Neue und alte Denkweisen sind nicht miteinander kompatibel. (9,16-17)
+> - Gott verschleiert Sein Reich den Weisen und Verständigen und offenbart es stattdessen den Unmündigen. Die Denkweise ist unabhängig vom Intellekt. (11,25-26)
+> - Das Herz ist die Quelle böser Gedanken und entsprechender Taten. (15,18-19)
 
 ## Der Zeitgeist
 

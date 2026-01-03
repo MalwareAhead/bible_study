@@ -15,15 +15,15 @@ tags:
 > 5. Jesus bereitet Seine Jünger auf die Endzeit vor (24,1-25,46)
 > 6. Jesus schließt Sein Werk auf der Erde ab (26,1-28,20)
 
-## Auffälligkeiten
+## Auffälligkeiten und Fragen
 
-- "Wenn Du so machst, bekommst Du auch so"
-- "Buch des Ursprungs Jesu Christi, des Sohnes von David und von Abraham" -> Ziel des Buches?
+- Der versprochene König hat einen Herrschaftsanspruch
+- Was offenbaren die Pharisäer und Schriftgelehrten über mein eigenes Herz?
+	- Gesetzlichkeit, Heuchelei, Arroganz/Selbstgefälligkeit, Unbarmherzigkeit/Härte,...
+	- Dass ich Jesu Herrschaft als König über micht nicht akzeptiere
 - Das Reich Gottes wahrnehmen oder nicht wahrnehmen (sehen, hören, verstehen)
 - Was erfahren wir über die Denkweise von Jesu Zeitgenossen?
 	- Auseinandersetzung mit der religiösen Elite im Tempel (21,23-23,39)
-- "Mehr als ___ ist hier"
-	- [[Jesus, bessere Jona|Mehr als Jona]]
+- Jesus ist [[Jesus, bessere Jona|mehr als Jona]] und [[mehr als Salomo]]
 - Baut Jesus Selbstgerechtigkeit und falsche Sicherheit ab? -> (un)göttliche [[Gedankengebäude]]
 - Ist die Wirkung Jesu abhängig vom Ort Seines Wirkens (Galiläa, Judäa, Jerusalem,...)?
-- Welche Entwicklungen sind in der Erzählung sichtbar (buchstäblich, zwischenmenschlich, politisch, geistlich)?
