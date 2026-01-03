@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -213,9 +214,10 @@
   },
   "active": "2743093e954fe61a",
   "lastOpenFiles": [
-    "Studienplan.md",
-    "Callouts.md",
+    "42 Lukasevangelium/Lukasevangelium.md",
     "40 Matthäusevangelium/Matthäusevangelium.md",
+    "Callouts.md",
+    "Studienplan.md",
     "66 Offenbarung/Offenbarung.md",
     "62 1 Johannesbrief/1 Johannesbrief.md",
     "60 1 Petrusbrief/Sein Wille und Seine Gnade.md",
@@ -238,7 +240,6 @@
     "54 1 Timotheusbrief/Gefahren und Risikofaktoren.md",
     "54 1 Timotheusbrief/1 Timotheusbrief.md",
     "52 1 Thessalonicherbrief/Entwicklung der Gemeinde.md",
-    "52 1 Thessalonicherbrief/1 Thessalonicherbrief.md",
     "23 Jesaja",
     "_Attachments/Route 66 NT.pdf",
     "45 Römerbrief",
