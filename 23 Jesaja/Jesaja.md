@@ -5,7 +5,7 @@ tags:
 ---
 # Das Buch des Propheten Jesaja
 
-> Heilig, heilig, heilig ist der HERR der Heerscharen! Die ganze Erde ist erfüllt mit seiner Herrlichkeit! (6,3)
+> Heilig, heilig, heilig ist YHWH der Heerscharen! Die ganze Erde ist erfüllt mit seiner Herrlichkeit! (6,3)
 
 > [!list] Gliederung
 > 1. Heiligkeit: Gottes Gericht (Kap 1-39)
