@@ -10,3 +10,8 @@ tags:
 > [!list] Gliederung
 > 1. Heiligkeit: Gottes Gericht (Kap 1-39)
 > 2. Herrlichkeit: Gottes Rettung (Kap 40-66)
+
+## Themen und weitere Auffälligkeiten
+
+- Der Knecht Gottes
+- Gelebte Bosheit (Ungerechtigkeit, Gewalt, Götzendienst,...)
