@@ -15,3 +15,9 @@ tags:
 
 - Der Knecht Gottes
 - Gelebte Bosheit (Ungerechtigkeit, Gewalt, Götzendienst,...)
+- Bilder für den Zustand des Volkes bzw. des Menschen
+	- krank (1,5-6)
+	- schmutzig, unrein, (blut-)befleckt (vgl. 1,15-25)
+	- ein unfruchtbarer Weinberg (5,1-7)
+	- in Dunkelheit sitzend (vgl. 8,22-9,2)
+	- stolz (vgl. 2,6-22)
