@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1fd22ed67caab00",
+        "id": "8ee58bcaada0ee28",
         "type": "tabs",
         "children": [
           {
-            "id": "df5e84ad81c2964c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "_Attachments/Route 66 AT.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Route 66 AT"
-            }
-          },
-          {
-            "id": "226d48c90fb8d59c",
+            "id": "783708fbe0290a12",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,8 +22,7 @@
               "title": "Jesaja"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,7 +212,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "226d48c90fb8d59c",
+  "active": "783708fbe0290a12",
   "lastOpenFiles": [
     "_Attachments/Route 66 AT.pdf",
     "23 Jesaja/Jesaja.md",

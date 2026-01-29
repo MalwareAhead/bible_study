@@ -13,6 +13,7 @@ tags:
 
 ## Themen und weitere Auffälligkeiten
 
+- Die Bosheit Israels und der Nationen macht den Zustand eines Menschen ohne Gott sichtbar
 - Der Knecht Gottes
 - Gelebte Bosheit (Ungerechtigkeit, Gewalt, Götzendienst,...)
 - Bilder für den Zustand des Volkes bzw. des Menschen
