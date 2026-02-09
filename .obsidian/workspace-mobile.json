@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "23 Jesaja/Jesaja.md",
+                "file": "16 Nehemia/Nehemia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Jesaja"
+              "title": "Nehemia"
             }
           }
         ]
@@ -168,7 +168,7 @@
         "state": {
           "type": "file-properties",
           "state": {
-            "file": "40 Matthäusevangelium/Matthäusevangelium.md"
+            "file": "16 Nehemia/Nehemia.md"
           },
           "icon": "lucide-info",
           "title": "File properties"
@@ -189,12 +189,12 @@
   },
   "active": "bee0383a9d4595ae",
   "lastOpenFiles": [
+    "_Attachments/Route 66 NT.pdf",
+    "23 Jesaja/Jesaja.md",
     "32 Jona/Jesus, bessere Jona.md",
     "40 Matthäusevangelium/Matthäusevangelium.md",
     "Callouts.md",
     "Studienplan.md",
-    "_Attachments/Route 66 NT.pdf",
-    "23 Jesaja/Jesaja.md",
     "04 Numeri/Numeri.md",
     "21 Prediger/Prediger.md",
     "23 Jesaja/Untitled.md",
@@ -217,7 +217,6 @@
     "01 Genesis/Der Segen wird weitergegeben.md",
     "54 1 Timotheusbrief/Gefahren und Risikofaktoren.md",
     "54 1 Timotheusbrief/1 Timotheusbrief.md",
-    "44 Apostelgeschichte/Paulus und Jerusalem.md",
     "_Attachments/Route 66 AT.pdf"
   ]
 }
