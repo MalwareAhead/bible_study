@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "23 Jesaja/Jesaja.md",
+                "file": "Chronologisches Lesen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Jesaja"
+              "title": "Chronologisches Lesen"
             }
           }
         ]
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -212,18 +211,18 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "783708fbe0290a12",
+  "active": "99cd82f0dbe37e49",
   "lastOpenFiles": [
+    "23 Jesaja/Jesaja.md",
     "_Attachments/jap-5.mp3",
     "_Attachments/Route 66 AT.pdf",
-    "23 Jesaja/Jesaja.md",
     "40 Matthäusevangelium/Matthäusevangelium.md",
     "_Attachments/Route 66 NT.pdf",
     "40 Matthäusevangelium/Gedankengebäude.md",
     "42 Lukasevangelium/Lukasevangelium.md",
     "42 Lukasevangelium/Vorwort.md",
     "Callouts.md",
-    "Studienplan.md",
+    "Chronologisches Lesen.md",
     "66 Offenbarung/Offenbarung.md",
     "62 1 Johannesbrief/1 Johannesbrief.md",
     "60 1 Petrusbrief/Sein Wille und Seine Gnade.md",
@@ -249,7 +248,6 @@
     "_Attachments",
     "10 2 Samuel",
     "54 1 Timotheusbrief",
-    "Biografien",
     "Anhänge/1PetrusErgebnis.png",
     "attachments/Screenshot 2024-01-02 at 18.41.51.png",
     "Untitled.canvas",
