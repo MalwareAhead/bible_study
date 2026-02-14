@@ -12,7 +12,10 @@ tags:
 
 ## Auffälligkeiten und Fragen
 
-- Hiobs Sicht auf den Gottlosen scheint sich nach und nach zu verändern
+- Hiobs Sicht auf den Gottlosen scheint sich nach und nach zu verändern:
 	1. Gott lässt den Gottlosen gewähren, sodass es ihm bis zum Ende gut ergeht (Kap 21)
 	2. Gott ist sehr nachsichtig und geduldig mit dem Gottlosen (Kap 24)
 	3. Der Gottlose wird letztendlich vernichtet werden (Kap 27)
+- Hiob hat Phasen der Dunkelheit und Phasen der Klarheit
+	- Oft ist sein Blick auf Gott und die Welt einfach verdunkelt
+	- Machmal jedoch strahlt ein hoffnungsvoller Gedanke in ihm auf
