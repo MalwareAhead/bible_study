@@ -1,14 +1,14 @@
 # Chronologisches Bibellesen
 
-- [ ] Genesis 1–3
-- [ ] Genesis 4–7
-- [ ] Genesis 8–11
-- [ ] Job 1–5
-- [ ] Job 6–9
-- [ ] Job 10–13
-- [ ] Job 14–16
-- [ ] Job 17–20
-- [ ] Job 21–23
+- [x] Genesis 1–3
+- [x] Genesis 4–7
+- [x] Genesis 8–11
+- [x] Job 1–5
+- [x] Job 6–9
+- [x] Job 10–13
+- [x] Job 14–16
+- [x] Job 17–20
+- [x] Job 21–23
 - [ ] Job 24–28
 - [ ] Job 29–31
 - [ ] Job 32–34

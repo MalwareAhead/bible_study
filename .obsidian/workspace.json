@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "e1322b9c26fcd6aa",
@@ -211,7 +212,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "99cd82f0dbe37e49",
+  "active": "783708fbe0290a12",
   "lastOpenFiles": [
     "23 Jesaja/Jesaja.md",
     "_Attachments/jap-5.mp3",
